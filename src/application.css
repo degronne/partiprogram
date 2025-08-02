@@ -1,3 +1,23 @@
+* {
+  margin: unset;
+}
+
 :root {
   color-scheme: light dark;
+}
+
+#app {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  height: 100dvh;
+}
+
+main {
+  display: grid;
+  grid-template-columns: max(200px, 20vw) 1fr;
+  overflow-y: hidden;
+
+  > * {
+    overflow-y: auto;
+  }
 }

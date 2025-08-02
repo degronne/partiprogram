@@ -1,5 +1,11 @@
 import React from "react";
+import { Partiprogram } from "../program/partiprogram";
+import { HashRouter } from "react-router-dom";
 
 export function Application() {
-  return <h1>Partiprogram</h1>;
+  return (
+    <HashRouter>
+      <Partiprogram />
+    </HashRouter>
+  );
 }
