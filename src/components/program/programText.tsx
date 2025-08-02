@@ -15,8 +15,7 @@ export function ProgramText({ sections }: { sections: SectionNode[] }) {
 }
 
 function SingleChapter({ sections }: { sections: SectionNode[] }) {
-  const params = useParams();
-  const { chapterId, sectionId } = params;
+  const { chapterId, sectionId } = useParams();
 
   const section = sections.find((s) => s.number == chapterId);
   if (section) {
@@ -69,7 +68,7 @@ export function ProgramSection({
     console.log({ number, focusedId });
     if (number === focusedId)
       ref.current?.scrollIntoView({ behavior: "smooth" });
-  }, []);
+  }, [focusedId]);
   return (
     <li key={number} ref={ref}>
       {number} {title || "Missing title"}
