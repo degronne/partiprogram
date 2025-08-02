@@ -1,12 +1,12 @@
 export type InputItem =
   | { type: "unknown"; original: string }
   | { type: "empty"; original: string }
-  | { type: "listHeader"; original: string }
+  | { type: "listHeader"; text: string }
   | { type: "numberedItem"; itemId: string; text: string; original: string }
   | { type: "paragraph"; text: string }
   | { type: "chapter"; chapterId: string; title: string; original: string }
   | { type: "proposalsStart"; sectionId: string; original: string }
-  | { type: "headline"; title: string; original: string }
+  | { type: "headline"; text: string; original: string }
   | { type: "section"; sectionId: string; title: string; original: string }
   | { type: "tableOfContentsEntry"; original: string }
   | { type: "tableOfContentsHeader"; original: string };
@@ -75,7 +75,7 @@ function parseChapter(original: string): InputItem | void {
 function parseSubChapter(original: string): InputItem | void {
   const matcher = original.match(/^# \*\*(\d+(\.\d+)+) (.*)\*\* {#.+}$/);
   if (matcher) {
-    const [, chapterId, title] = matcher;
+    const [, chapterId, , title] = matcher;
     return { type: "chapter", chapterId, title, original };
   }
 }
@@ -83,14 +83,13 @@ function parseSubChapter(original: string): InputItem | void {
 function parseHeadline(original: string): InputItem | void {
   const matcher = original.match(/^### ([A-ZÆØÅ0-9 ,\\!-]+)$/);
   if (matcher) {
-    const [, title] = matcher;
-    return { type: "headline", title, original };
+    const [, text] = matcher;
+    return { type: "headline", text, original };
   }
 }
 
-function parseListHeader(original: string): InputItem | void {
-  if (original.match(/^De Grønne vil:\s*$/))
-    return { type: "listHeader", original };
+function parseListHeader(text: string): InputItem | void {
+  if (text.match(/^De Grønne vil:\s*$/)) return { type: "listHeader", text };
 }
 
 function parseProposalStart(original: string): InputItem | void {
