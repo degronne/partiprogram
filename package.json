@@ -10,9 +10,12 @@
     "dev": "vite",
     "build": "npm test && vite build",
     "test": "tsc --noEmit && prettier --check .",
-    "prepare": "husky"
+    "prepare": "husky",
+    "data": "npm run data:generate && prettier --write src/data/output.json",
+    "data:generate": "tsx scripts/generate-data.ts < Vedtatt-arbeidsprogram-2025-29.md > src/data/output.json"
   },
   "devDependencies": {
+    "@types/node": "^24.1.0",
     "@types/react": "^19.1.9",
     "@types/react-dom": "^19.1.7",
     "husky": "^9.1.7",
@@ -24,6 +27,7 @@
     "fuse.js": "^7.1.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "react-router-dom": "^7.7.1"
+    "react-router-dom": "^7.7.1",
+    "tsx": "^4.20.3"
   }
 }
