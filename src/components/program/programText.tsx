@@ -65,7 +65,6 @@ export function ProgramSection({
 }) {
   const ref = useRef<HTMLLIElement | null>(null);
   useEffect(() => {
-    console.log({ number, focusedId });
     if (number === focusedId)
       ref.current?.scrollIntoView({ behavior: "smooth" });
   }, [focusedId]);
