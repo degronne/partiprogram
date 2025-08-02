@@ -102,7 +102,6 @@ function ProgramSection({
   const { text, children } = section;
   const ref = useRef<HTMLDivElement | null>(null);
   useEffect(() => {
-    console.log({ section, sectionId });
     if (section.sectionId === sectionId)
       ref.current?.scrollIntoView({ behavior: "smooth" });
   }, [sectionId]);

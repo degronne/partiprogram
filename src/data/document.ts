@@ -4,6 +4,7 @@ export type DocDocument = { chapters: DocChapter[] };
 export type DocChapter = {
   type: "chapter";
   chapterId: string;
+  sectionId?: undefined;
   text: string;
   children: (DocSection | DocParagraph | DocHeadline)[];
 };
