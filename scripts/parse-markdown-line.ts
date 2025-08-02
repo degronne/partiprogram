@@ -13,7 +13,7 @@ export type InputItem =
 
 export function parseMarkdownLine(original: string): InputItem {
   return (
-    (original.match(/^\s*#*\s*$/) && { type: "empty", original }) ||
+    (original.match(/^\s*$/) && { type: "empty", original }) ||
     parseNumberedItem(original) ||
     parseListHeader(original) ||
     parseSectionHeader(original) ||
@@ -32,28 +32,32 @@ export function parseMarkdownLine(original: string): InputItem {
 }
 
 function parseNumberedItem(original: string): InputItem | void {
-  const matcher = original.match(/^(\d+)\. (.*)$/);
+  const matcher = original.match(/^(\d+)\. +([a-zæøåéôöüä0-9 ,:./()“”%₂-]+)$/i);
   if (matcher) {
     const [, itemId, text] = matcher;
     return { type: "numberedItem", itemId, text, original };
   }
 }
 
-function parseParagraph(text: string): InputItem | void {
-  const matcher = text.match(/^[a-zæøåéôü0-9 ,:./_()“”%\\-]+$/i);
-  //const matcher = text.match(/^[a-zæøåé0-9 ,:./()-]*$/i);
-  if (matcher) return { type: "paragraph", text };
+function parseParagraph(original: string): InputItem | void {
+  const matcher = original.match(/^_?([a-zæøåéôü0-9 ,:./()“”%-]+)_?$/i);
+  if (matcher && original.match(/[a-z]+/i)) {
+    const [, text] = matcher;
+    return { type: "paragraph", text };
+  }
 }
 
 function parseTableOfContentEntry(original: string): InputItem | void {
   const matcher = original.match(
-    /^\[\d+((\.\d+)*|\\\.) [A-ZÆØÅÜ0-9, -]+]\(#[a-zæøåü0-9,.-]+\)$/,
+    /^\[\d+((\.\d+)*|\.) [A-ZÆØÅÜ0-9, -]+]\(#[a-zæøåü0-9,.-]+\)$/,
   );
   if (matcher) return { type: "tableOfContentsEntry", original };
 }
 
 function parseSectionHeader(original: string): InputItem | void {
-  const matcher = original.match(/^## \*\*(\d+(\.\d+)+) (.*)$/);
+  const matcher = original.match(
+    /^## \*\*(\d+(\.\d+)+) ([A-ZÆØÅÜ0-9, -]+)\*\* {#.+}$/,
+  );
   if (matcher) {
     const [, sectionId, , title] = matcher;
     return { type: "section", sectionId, title, original };
@@ -61,8 +65,7 @@ function parseSectionHeader(original: string): InputItem | void {
 }
 
 function parseChapter(original: string): InputItem | void {
-  // "# **2.2 OPPVEKST OG KUNNSKAP** {#2.2-oppvekst-og-kunnskap}"
-  const matcher = original.match(/^# \*\*(\d+)\\\. (.*)\*\* {#.+}$/);
+  const matcher = original.match(/^# \*\*(\d+)\. (.*)\*\* {#.+}$/);
   if (matcher) {
     const [, chapterId, title] = matcher;
     return { type: "chapter", chapterId, title, original };
@@ -78,7 +81,7 @@ function parseSubChapter(original: string): InputItem | void {
 }
 
 function parseHeadline(original: string): InputItem | void {
-  const matcher = original.match(/^\s*### ([A-ZÆØÅ0-9 ,\\!-]+)$/);
+  const matcher = original.match(/^### ([A-ZÆØÅ0-9 ,\\!-]+)$/);
   if (matcher) {
     const [, title] = matcher;
     return { type: "headline", title, original };
@@ -91,7 +94,7 @@ function parseListHeader(original: string): InputItem | void {
 }
 
 function parseProposalStart(original: string): InputItem | void {
-  let match = original.match(/^\*\*(\d+)(\\\.|(\.\d+)+) VÅRE LØSNINGER\*\*$/);
+  const match = original.match(/^\*\*(\d+)(\.|(\.\d+)+) VÅRE LØSNINGER\*\*$/);
   if (match) {
     const [, sectionId] = match;
     return { type: "proposalsStart", sectionId, original };

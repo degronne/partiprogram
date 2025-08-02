@@ -1,6 +1,6 @@
 # **INNHOLDSFORTEGNELSE**
 
-[1\. VÅR LEVENDE JORD 3](#1.-vår-levende-jord)
+[1. VÅR LEVENDE JORD 3](#1.-vår-levende-jord)
 
 [1.1 KLIMA 7](#1.1-klima)
 
@@ -18,7 +18,7 @@
 
 [1.8 ENERGI 16](#1.8-energi)
 
-[2\. VELFERD HELE LIVET 19](#2.-velferd-hele-livet)
+[2. VELFERD HELE LIVET 19](#2.-velferd-hele-livet)
 
 [2.1 INKLUDERING OG KAMP MOT FATTIGDOM 20](#2.1-inkludering-og-kamp-mot-fattigdom)
 
@@ -58,7 +58,7 @@
 
 [2.3.6 RUSPOLITIKK 44](#2.3.6-ruspolitikk)
 
-[3\. VERDISKAPING SOM VARER 45](#3.-verdiskaping-som-varer)
+[3. VERDISKAPING SOM VARER 45](#3.-verdiskaping-som-varer)
 
 [3.1 TRYGT UT AV OLJEALDEREN 49](#3.1-trygt-ut-av-oljealderen)
 
@@ -82,7 +82,7 @@
 
 [3.11 SKOGBRUK 60](#3.11-skogbruk)
 
-[4\. DEMOKRATI FOR ALLE 61](#4.-demokrati-for-alle)
+[4. DEMOKRATI FOR ALLE 61](#4.-demokrati-for-alle)
 
 [4.1 ANTIRASISME OG TRYGGHET FRA DISKRIMINERING 65](#4.1-antirasisme-og-trygghet-fra-diskriminering)
 
@@ -108,7 +108,7 @@
 
 [4.12 SPRÅK 79](#4.12-språk)
 
-[5\. LIVSKRAFTIGE LOKALSAMFUNN 81](#5.-livskraftige-lokalsamfunn)
+[5. LIVSKRAFTIGE LOKALSAMFUNN 81](#5.-livskraftige-lokalsamfunn)
 
 [5.1 LOKALT SELVSTYRE 85](#5.1-lokalt-selvstyre)
 
@@ -130,7 +130,7 @@
 
 [5.10 FRILUFTSLIV, IDRETT OG FYSISK AKTIVITET 93](#5.10-friluftsliv,-idrett-og-fysisk-aktivitet)
 
-[6\. MOBILITET I HELE LANDET 94](#6.-mobilitet-i-hele-landet)
+[6. MOBILITET I HELE LANDET 94](#6.-mobilitet-i-hele-landet)
 
 [6.1 GRØNNE VERKTØY I SAMFERDSEL 97](#6.1-grønne-verktøy-i-samferdsel)
 
@@ -148,7 +148,7 @@
 
 [6.8 BÆREKRAFTIG REKREASJON OG REISELIV 104](#6.8-bærekraftig-rekreasjon-og-reiseliv)
 
-[7\. EN TRYGGERE VERDEN 106](#7.-en-tryggere-verden)
+[7. EN TRYGGERE VERDEN 106](#7.-en-tryggere-verden)
 
 [7.1 BEREDSKAP 109](#7.1-beredskap)
 
@@ -170,17 +170,9 @@
 
 [7.10 KLIMA- OG NATURBISTAND 119](#7.10-klima--og-naturbistand)
 
-#
-
-#
-
-#
-
-# **1\. VÅR LEVENDE JORD** {#1.-vår-levende-jord}
+# **1. VÅR LEVENDE JORD** {#1.-vår-levende-jord}
 
 ### VISJON 2045
-
----
 
 _I 2045 har vi et samfunn som skaper verdier og velferd for alle, uten å ødelegge livsgrunnlaget vårt. Vi beskytter og restaurerer natur og dyrelivet blir rikere igjen. Norge har nådd netto null utslipp, og vi forvalter klodens felles ressurser etter prinsipper om varsomhet, rettferdighet og langsiktighet. Samtidig har vi blitt rikere på tid og opplevelser. En nyskapende og inkluderende sirkulærøkonomi har frigjort oss fra overforbruk, tidspress og naturødeleggelser. Vi deler mer, lever mer og sløser mindre._
 
@@ -190,15 +182,13 @@ _Det er mer levende og myldrende dyre- og naturliv rundt oss. Vi bygger ikke len
 
 _Vi har sluttet å basere samfunnet på fossil energi, og eksporterer heller ikke klimagassutslipp gjennom salg av olje og gass. Internasjonalt viser Norge vei gjennom at kraft, kapital og kompetanse går til næringer som øker livskvaliteten, kutter utslipp og styrker naturen. Dette er vårt viktigste bidrag til langsiktig fred._
 
-## _Dette er en arv vi er stolte av å gi videre til våre barn._
-
-###
+_Dette er en arv vi er stolte av å gi videre til våre barn._
 
 ### VINNERLØSNINGER PÅ NATUR- OG KLIMAKRISEN
 
 Naturen og atmosfæren er menneskenes hjem og rammen for alt liv. Å beskytte dette er forutsetningen for å leve gode liv i trygghet og med god helse. Menneskelig aktivitet forurenser lufta, naturen, vannet og maten vår. Bønder mister avlinger, vi opplever større flommer og flere jordras, isbreene våre smelter og mange steder i verden er ekstremvær blitt normalt. Land over hele verden er enige om at krisene må løses, og har blitt enige om Paris-avtalen og en global naturavtale.
 
-Klimakrisen er vår tids største urettferdighet. Det er de som har minst som rammes hardest \- både i Norge og i verden, mens de rikeste forurenser og forbruker mest. De unges muligheter til frihet og velferd blir dårligere for hver dag som går. Politikerne her og nå har ansvaret for å handle. Det ansvaret kan ikke overlates til noen andre, til en annen tid, et annet sted.
+Klimakrisen er vår tids største urettferdighet. Det er de som har minst som rammes hardest - både i Norge og i verden, mens de rikeste forurenser og forbruker mest. De unges muligheter til frihet og velferd blir dårligere for hver dag som går. Politikerne her og nå har ansvaret for å handle. Det ansvaret kan ikke overlates til noen andre, til en annen tid, et annet sted.
 
 Det er politiske valg som har skapt samfunnet vi har i dag, og det er politiske valg som bestemmer hva slags samfunn vi får i framtida. Effektiv klima- og miljøpolitikk er bra for både mennesker og natur. For at grønn politikk skal lykkes må vi samarbeide internasjonalt. Ved å bruke av vår rikdom og kompetanse til å finne løsninger som hjelper globalt, kan vi legge grunnlaget for å fortsatt være verdens beste land å bo i.
 
@@ -229,7 +219,7 @@ Vi mener det viktigste Norge gjør de neste fire årene er å få opp farten på
 
 En grønn økonomi er ikke avhengig av å vokse. Med vår politikk vil produksjon og forbruk basere seg på fornybare ressurser, redusert arealbruk og uttak av naturressurser, og reparasjon og vedlikehold, deling, ombruk og resirkulering. Slik lærer økonomien av økologien, der ressurser går i kretsløp.
 
-**1\. VÅRE LØSNINGER**
+**1. VÅRE LØSNINGER**
 
 ## **1.1 KLIMA** {#1.1-klima}
 
@@ -253,7 +243,7 @@ De Grønne vil:
 
 8. Opprette et uavhengig, faglig fundert klimaråd med mandat til å vurdere måloppnåelse, foreslå nødvendige tiltak og virkemidler for å nå klimamålene og føre uavhengig kontroll med om målene etterleves.
 
-9. ### Utrede et forbrukervennlig og bredt tilgjengelig system for karbonmerking av alle produkter (varer og tjenester) og deres frakt. Og at Norge skal være en pådriver for felles europeiske standarder for karbonmerking.
+9. Utrede et forbrukervennlig og bredt tilgjengelig system for karbonmerking av alle produkter (varer og tjenester) og deres frakt. Og at Norge skal være en pådriver for felles europeiske standarder for karbonmerking.
 
 ### GLOBALE KLIMAKUTT
 
@@ -269,9 +259,9 @@ De Grønne vil:
 
 ### SEKTORVISE TILTAK
 
-15. Olje og gass (11,5 millioner tonn CO2e i 2023): Utarbeide en plan for sluttfasen av norsk olje og gass, der de mest utslippsintensive feltene fases ut først. Kraft fra land skal brukes til bærekraftig industri fremfor elektrifisering av sokkelen (_se eget kapittel_).
+15. Olje og gass (11,5 millioner tonn CO2e i 2023): Utarbeide en plan for sluttfasen av norsk olje og gass, der de mest utslippsintensive feltene fases ut først. Kraft fra land skal brukes til bærekraftig industri fremfor elektrifisering av sokkelen (se eget kapittel).
 
-16. Industri og bergverk: Fjerne alle punktutslipp og sikre at industrien samlet sett når netto null innen 2040 og bidrar med negative utslipp innen 2045\. Vi skal sikre forutsigbarhet og langsiktighet gjennom krav og avgifter, støtteordninger og risikoavlastning, samt insentiver til karbonfjerning.
+16. Industri og bergverk: Fjerne alle punktutslipp og sikre at industrien samlet sett når netto null innen 2040 og bidrar med negative utslipp innen 2045. Vi skal sikre forutsigbarhet og langsiktighet gjennom krav og avgifter, støtteordninger og risikoavlastning, samt insentiver til karbonfjerning.
 
 17. Veitrafikk (8,0 millioner tonn CO2e i 2023): Fortsette å omstille transporten i Norge gjennom satsing på kollektiv, sykkel og gange, krav til nullutslipp ved nysalg av kjøretøy, satsing på grønn infrastruktur for tungtransport, bildeling, redusert biltrafikk og effektivisering av transport.
 
@@ -282,8 +272,6 @@ De Grønne vil:
 20. Andre kilder, energiforsyning og oppvarming (4,1 millioner tonn CO2e i 2023): Redusere avfallsmengden, tette utslipp fra avfallsdeponi og sikre CO2-fangst på alle større forbrenningsanlegg i Norge.
 
 21. Forby all bruk av privatfly som ikke er enten utslippsfrie, hobbyfly, sportsfly, eller brukes av sikkerhetsmessige årsaker.
-
-##
 
 ## **1.2 NATUREN PÅ LAND** {#1.2-naturen-på-land}
 
@@ -297,7 +285,7 @@ De Grønne vil:
 
 4. Innføre miljøavgift på omsetning av torv.
 
-5. Sikre at allemannsretten holdes i hevd, men åpne for regulering av ferdsel i særlig utsatte og belastede naturområder, slik at naturverdiene og besøkendes sikkerhet ivaretas.‬
+5. Sikre at allemannsretten holdes i hevd, men åpne for regulering av ferdsel i særlig utsatte og belastede naturområder, slik at naturverdiene og besøkendes sikkerhet ivaretas.
 
 6. Stanse alle nye motorveiprosjekter. Prioritere vedlikehold av allerede eksisterende veinett.
 
@@ -311,7 +299,7 @@ De Grønne vil:
 
 11. Innføre strengere restriksjoner for innførsel av planter, jord, sopp og levende dyr, for å begrense spredning av fremmedarter som kan utgjøre en økologisk risiko for norsk natur og/eller norsk matproduksjon.
 
-12. Revidere plan- og bygningsloven med utgangspunkt i arealnøytralitet, ‭naturrestaurering og naturmangfoldsloven. Loven skal forvaltes av Klima- og miljødepartementet.
+12. Revidere plan- og bygningsloven med utgangspunkt i arealnøytralitet, naturrestaurering og naturmangfoldsloven. Loven skal forvaltes av Klima- og miljødepartementet.
 
 13. Pålegge kommunene å gjennomføre “planvask” ved rullering av kommuneplanens arealdel, hvor naturområder som er regulert for nedbygging vurderes tilbakeført til natur (LNF).
 
@@ -371,7 +359,7 @@ De Grønne vil:
 
 4. Sikre ren luft i norske byer og lokalsamfunn, ved å skjerpe kravene til luftkvalitet i tråd med Folkehelseinstituttets anbefalinger.
 
-5. Kartlegge omfanget av import, omsetning, bruk og avfallshåndtering knyttet til «evighetskjemikalier» som PFAS i Norge, avbøte skadene, og kompensere dokumenterbare helse- og miljøskader fra tidligere bruk og omsetning av slike stoffer.
+5. Kartlegge omfanget av import, omsetning, bruk og avfallshåndtering knyttet til “evighetskjemikalier” som PFAS i Norge, avbøte skadene, og kompensere dokumenterbare helse- og miljøskader fra tidligere bruk og omsetning av slike stoffer.
 
 6. Forby plastprodukter med helse- og miljøskadelige tilsetningsstoffer, som hormonhermere, flammehemmere, PFAS og lignende.
 
@@ -437,7 +425,7 @@ De Grønne vil:
 
 1. Grunnlovsfeste dyrs egenverdi, og styrke krav til dyrevelferd i alle forskrifter og tilskudd for dyrehold, jakt og fangst, i tråd med dyrs artstypiske og individuelle behov.
 
-2. Forebygge dyretragedier og dårlig dyrevelferd ved å øke ressursene til tilsyn med dyrehold og opprette et eget Dyretilsyn under Klima- og miljødepartementet.
+2. Forebygge dyretragedier og dårlig dyrevelferd ved å øke ressursene til tilsyn med dyrehold og opprette et eget Dyretilsyn under Klima- og miljødepartementet.
 
 3. Styrke dyrepolitiet i alle landets politidistrikter og Økokrims arbeid mot dyrevelferdskriminalitet. Innføre forbud mot bruk, deling og oppbevaring av overgrepsbilder av alle dyr.
 
@@ -457,7 +445,7 @@ De Grønne vil:
 
 11. Ha som langsiktig mål å halvere kjøttforbruket, av hensyn til Norges selvforsyningsgrad, dyrevelferd, folkehelse og klima, og sørge for at dyrevelferd systematisk prioriteres fremfor produksjonsvekst i landbruket.
 
-12. Øke statlig investeringsstøtte til små og mellomstore fjøs som må ombygges i tråd med løsdriftskravet innen 2034\.
+12. Øke statlig investeringsstøtte til små og mellomstore fjøs som må ombygges i tråd med løsdriftskravet innen 2034.
 
 13. Innføre gjeterordninger og bonusutbetalinger til beitedyreiere som øker dyrevelferden, ved å ha mindre og sunnere besetning, mer tilsyn, mindre tap av dyr og færre rovdyrkonflikter.
 
@@ -493,7 +481,7 @@ De Grønne vil:
 
 1. Innføre en flat strømstøtte til alle husstander i områder med høy strømpris i vinterhalvåret, som utbetales uavhengig av forbruk.
 
-2. Ha et nasjonalt mål om å redusere energiforbruket i norske bygg til maksimalt 56 TWh elforbruk og 69 TWh energiforbruk innen 2030\. For å få til dette vil vi innføre strengere krav, gi tilbud om mer statlig energiveiledning og sørge for at både det offentlige og private kan få tilskudd til tiltak som sparer energi eller nettkapasitet.
+2. Ha et nasjonalt mål om å redusere energiforbruket i norske bygg til maksimalt 56 TWh elforbruk og 69 TWh energiforbruk innen 2030. For å få til dette vil vi innføre strengere krav, gi tilbud om mer statlig energiveiledning og sørge for at både det offentlige og private kan få tilskudd til tiltak som sparer energi eller nettkapasitet.
 
 3. Stoppe alle planer om å sende kraft fra land til olje- og gassinstallasjoner.
 
@@ -541,13 +529,9 @@ De Grønne vil:
 
 25. Innføre en garantert minstepris for husholdninger som selger overskuddsstrøm f.eks fra egne batterier og solceller.
 
-#
-
-# **2\. VELFERD HELE LIVET** {#2.-velferd-hele-livet}
+# **2. VELFERD HELE LIVET** {#2.-velferd-hele-livet}
 
 ### VISJON 2045
-
----
 
 _Se for deg dager med god tid. Fuglekvitter når du våkner. Utenfor vinduet ser du noen nabobarn sjekke hvilke bær som er modne i felleshagen. En annen kjeder seg og er på vei mot et tre å klatre opp i. En dame med rullator triller forbi, her går hele nabolagets oldemor litt forsiktig mot innbyggertorget. Du smiler, klar for å dele ideer og prate med andre på torget._
 
@@ -556,8 +540,6 @@ _Vi mennesker vokser og hviler og lever i naturens rytmer. Gjennom livet veksler
 _Barna har en trygg og leken oppvekst, i kontakt med det som vokser og gror. De vokser opp i et samfunn som gir dem rom til å utforske, undre seg og leke fritt. De leker og lærer mer ute i naturen, der barnas naturlige nysgjerrighet kan boltre seg. Det er mulig fordi stedene vi bor er mer kompakte, menneskevennlige og naturvennlige. Foreldre kan ha lave skuldre og la barna leke trygt i gata. Mindre skjermtid og mer varierte skoledager åpner for skaperglede, utforskning og samspill. Når barn får være barn, kan friheten og empatien deres inspirere oss alle._
 
 _I den framtida vi ser for oss blir ungdommen hørt og tatt på alvor, og opplever at samfunnet trenger dem. Eldre opplever at deres kompetanse kommer samfunnet til gode. Grunnleggende økonomisk trygghet gjør at vi kan senke skuldrene, være kreative og tenke langsiktig. Samfunnet mobiliserer rundt deg den dagen en livskrise rammer. Kortere arbeidsdager gir tid til omsorg og lek for alle aldre. I en grønnere framtid har vi muligheten til å bo mer sosialt, livet ut, og kan sammen dyrke hager, meningsfulle hverdager, fellesskap og gode nærmiljøer._
-
----
 
 ### SAMMEN OM VELFERDEN
 
@@ -576,8 +558,6 @@ Det bør bli enklere å bidra samtidig som man mottar hjelp fra velferdsstaten. 
 ### BO SOSIALT OG JOBBE MED MENING
 
 Grønn boligpolitikk handler om å sikre alle tilgang på en rimelig bolig det er godt å bo i, med lavt miljøavtrykk, og å gi rom for fellesskap og samspill. De Grønne vil bruke arkitektur for å utvikle gode steder der vi kan bruke mindre plass og energi, ha god universell utforming og bo mer sosialt. Vi vil gjenreise den sosiale boligpolitikken.
-
-###
 
 Arbeid er en av de viktigste nøklene til verdiskapning og inntekt, inkludering, helse og mening i vårt samfunn, så det er et mål at flest mulig skal ha lønnet arbeid og trives i jobben sin. De Grønne vil verne om grunnleggende rettigheter i arbeidslivet, som fast ansettelse og innflytelse over egne arbeidsvilkår. Vi vil legge til rette for høy organisasjonsgrad, en sterk arbeidsmiljølov og godt samarbeid mellom partene i arbeidslivet og staten. Arbeidslivssamarbeidet bygger på og skaper gjensidig tillit, og bidrar til at vi har produktive og innovative bedrifter som ivaretar sitt samfunnsansvar. Det er særlig viktig når norsk arbeidsliv skal omstille seg ut av oljealderen og ny teknologi gjør at mange arbeidsoppgaver blir utført på nye måter. I et arbeidsliv som endres stadig raskere og skal gjennom en stor omstilling, blir det viktig å gjøre det lettere å kombinere arbeid og andre aktiviteter, som utdannelse, i alle faser av livet. Arbeidslivet skal være raust ved å ha plass til kronisk syke, uføre og funksjonshemmede, det forutsetter et trygt sikkerhetsnett, tilrettelegging, vern mot diskriminering, at man ser folk for hva de kan og bekjemper fordommer.
 
@@ -623,8 +603,6 @@ De Grønne vil:
 15. Styrke velferdsrettighetene til selvstendig næringsdrivende for sykepenger, dagpenger og pensjon når man ikke er i et fast ansettelsesforhold, og gjøre det enklere å kombinere barn og familieliv med å drive egen virksomhet.
 
 16. På sikt jobbe for en universell grunninntekt så alle får dekket grunnleggende behov.
-
-##
 
 ## **2.1.2 FOREBYGGE UNGT UTENFORSKAP** {#2.1.2-forebygge-ungt-utenforskap}
 
@@ -778,7 +756,7 @@ De Grønne vil:
 
 3. At prinsippet om barnets beste skal ligge til grunn for hele tjenestetilbudet gjennom oppveksten og følges tett opp.
 
-   ### EN GOD START FOR FAMILIEN
+### EN GOD START FOR FAMILIEN
 
 4. Bevare dagens foreldrepermisjon med foreldrekvoter på 15 uker hver.
 
@@ -792,13 +770,13 @@ De Grønne vil:
 
 9. Sikre barns rett til samvær og omsorg med begge foreldre, også etter samlivsbrudd, ved å likestille foreldrene i Barneloven og forvaltningen av denne. Barnets beste skal alltid veie tyngst.
 
-   ### STØTTE TIL BARN OG FORELDRE MED FUNKSJONSHINDRINGER
+### STØTTE TIL BARN OG FORELDRE MED FUNKSJONSHINDRINGER
 
 10. Sikre at barn med funksjonsnedsettelser, sykdom eller utypisk utvikling får oppfylt sine lovfestede rettigheter til opplæring, helsehjelp, kommunikasjon, omsorg, samvær, lek og deltakelse, på lik linje med andre barn
 
 11. Sikre at foreldre med funksjonshindringer får riktig støtte til å utøve foreldrerollen, og at ansatte innen helse, omsorg og barnevern har oppdatert kunnskap om både synlige og usynlige funksjonsnedsettelser.
 
-12. _Sikre kunnskap og kompetanse om funksjonsnedsettelser, nevromangfold, tegnspråk og alternativ og supplerende kommunikasjon (ASK) i pedagogiske, helse- og sosialfaglige utdanninger._
+12. Sikre kunnskap og kompetanse om funksjonsnedsettelser, nevromangfold, tegnspråk og alternativ og supplerende kommunikasjon (ASK) i pedagogiske, helse- og sosialfaglige utdanninger.
 
 ## **2.2.2 BARNEVERN OG FAMILIEVERN** {#2.2.2-barnevern-og-familievern}
 
@@ -822,7 +800,7 @@ De Grønne vil:
 
 9. Gi statsforvalteren myndighet til å pålegge interkommunalt samarbeid om barnevern i særlige tilfeller.
 
-10. Gi personer under 18 år som har rusproblemer, lik rett til behandling i spesialisthelsetjenesten som de over 18\.
+10. Gi personer under 18 år som har rusproblemer, lik rett til behandling i spesialisthelsetjenesten som de over 18.
 
 11. Styrke arbeidet mot barneekteskap og sikre oppfølging av barn som risikerer eller utsettes for dette.
 
@@ -846,7 +824,7 @@ De Grønne vil:
 
 4. Fremme god helse og trivsel for barn og voksne gjennom å satse på ventilasjon og støydemping i barnehager, stille kvalitetskrav til bygg, bruke trygge materialer uten miljøgifter i lekeplasser og i leker og ha mye natur på uteområdene.
 
-   ### LEK, TRYGGHET OG STØTTE FOR ALLE SLAGS BARN
+### LEK, TRYGGHET OG STØTTE FOR ALLE SLAGS BARN
 
 5. Sikre moderasjonsordninger som gjør at familiens økonomi ikke blir et hinder for at barna får gå i barnehage.
 
@@ -880,9 +858,7 @@ De Grønne vil:
 
 8. Innføre nasjonale regler som sikrer en mobilfri skole. Slike regler må ha unntak som sikrer lærernes metodefrihet og elevenes behov for hjelpemidler.
 
-   ###
-
-   ### EN SKOLE SOM ROMMER ALLE ELEVER
+### EN SKOLE SOM ROMMER ALLE ELEVER
 
 9. Styrke gratisprinsippet i skolen og bevilge midler til trykte bøker, fysisk læremateriell og praktisk undervisning og innfasing av skolemat.
 
@@ -916,7 +892,7 @@ De Grønne vil:
 
 24. Forby narkosøk i skoletidene.
 
-    ### BARNE- OG UNGDOMSSKOLE
+### BARNE- OG UNGDOMSSKOLE
 
 25. La praktisk læring, fysisk aktivitet, lek, frilek og utendørs utforsking få en større plass i grunnskolen.
 
@@ -935,9 +911,7 @@ De Grønne vil:
 
 33. Innføre prøveprosjekter med skolestart senere på dagen i ungdomsskolen, etter modell fra Danmark. Innføre prøveprosjekter med skolestart senere på dagen i ungdomsskolen, etter modell fra Danmark.
 
-    ###
-
-    ### VIDEREGÅENDE OPPLÆRING OG FOLKEHØYSKOLE
+### VIDEREGÅENDE OPPLÆRING OG FOLKEHØYSKOLE
 
 34. Sikre kvaliteten på videregående opplæring for voksne slik at alle som ønsker det kan komme tilbake til videregående og fullføre.
 
@@ -998,7 +972,7 @@ De Grønne vil:
 
 ### FINANSIERING
 
-1. Sikre at Norge øker forskningsinnsatsen til 3% av BNP innen 2030 og at det utarbeides en opptrappings­plan frem mot målet der det offentliges andel av innsatsen utgjør 50 %.
+1. Sikre at Norge øker forskningsinnsatsen til 3% av BNP innen 2030 og at det utarbeides en opptrappingsplan frem mot målet der det offentliges andel av innsatsen utgjør 50 %.
 
 2. At basisbevilgningene til universiteter, høyskoler og forskningsinstitutter styrkes, spesielt bevilgningene til langsiktig grunnleggende forskning.
 
@@ -1012,7 +986,7 @@ De Grønne vil:
 
 7. Trappe opp grunnbevilgningen til de uavhengige forskningsinstituttene, slik at de kan bistå i omstillingen til nytt og nyskapende næringsliv.
 
-   ### REKRUTTERING
+### REKRUTTERING
 
 8. Sikre at formålet med doktorgradsutdanningen fortsetter å være å sikre samfunnets samlede behov for forskerkompetanse og at forskerutdanningens egenart bevares.
 
@@ -1022,7 +996,7 @@ De Grønne vil:
 
 11. Jobbe for flere faste stillinger i akademia og motvirke midlertidighet
 
-    ### INTERNASJONALISERING
+### INTERNASJONALISERING
 
 12. Styrke forsknings- og utviklingssamarbeid mellom norske og utenlandske forskere gjennom tiltak som fremmer akademisk mobilitet.
 
@@ -1036,13 +1010,13 @@ De Grønne vil:
 
 Den viktigste helsepolitikken er å bygge et samfunn som gjør folk friskere, gladere og mindre ensomme. Mindre stress og press, men mer pusterom og tid til det som er viktig for den enkelte, legger grunnlaget for bedre hverdager og i sum bedre helse. Det handler også om å gjøre det mulig for alle å holde seg i bevegelse, ha et godt og variert kosthold, finne fellesskap, og ha enkel tilgang til natur og kultur. Det innebærer bedre fordeling av penger og muligheter, for å motvirke sosial ulikhet i helse.
 
-Ren luft, rent vann, og mat fra levende hav og jord er også grunnleggende forutsetninger for god helse og gode liv. Den største trusselen mot lange og gode liv i framtida er natur- og klimakrisen og forurensning. God miljøpolitikk er også god helsepolitikk. God samfunnsplanlegging er vesentlig for at folk kan drive med det som gjør dem godt på lang sikt \- det som gir mening, mestring og fellesskap, og styrker både fysisk og psykisk helse, ja, hele mennesket.
+Ren luft, rent vann, og mat fra levende hav og jord er også grunnleggende forutsetninger for god helse og gode liv. Den største trusselen mot lange og gode liv i framtida er natur- og klimakrisen og forurensning. God miljøpolitikk er også god helsepolitikk. God samfunnsplanlegging er vesentlig for at folk kan drive med det som gjør dem godt på lang sikt - det som gir mening, mestring og fellesskap, og styrker både fysisk og psykisk helse, ja, hele mennesket.
 
 ### TID FOR OMSORGSMOBILISERING
 
 De Grønne vil at Norge skal ha verdens beste offentlige helsevesen der alle er sikret likeverdige helsetjenester, uavhengig av økonomi, kjønn og kulturell bakgrunn. Det skal ikke være lommeboken som avgjør kvaliteten eller omfanget av tjenestene den enkelte får tilbud om. Ideelle aktører er et gode som kan avlaste det offentlige, og bidra til et variert tjenestetilbud som svarer på den enkeltes behov og utfordringer.
 
-Tilliten til fagfolkene må gjenreises. Vi vil ha en tillitsreform som gir helse- og sosialarbeidere mer handlefrihet og rom for faglig skjønn i arbeidet. Da må mindre tid gå til rapportering og kontroll. Vi må også jobbe systematisk for å rekruttere og beholde fagfolk innenfor helse og omsorg, gjennom gode arbeidsforhold for helsepersonell. De Grønne mener samtidig at vi må frigjøre folks tid til hverandre, og gjøre det lettere å ha tid og finne arenaer for gjensidig støtte i lokalsamfunn, nabolag, blant venner og familie \- for å sikre alle omsorg når vi trenger det som mest.
+Tilliten til fagfolkene må gjenreises. Vi vil ha en tillitsreform som gir helse- og sosialarbeidere mer handlefrihet og rom for faglig skjønn i arbeidet. Da må mindre tid gå til rapportering og kontroll. Vi må også jobbe systematisk for å rekruttere og beholde fagfolk innenfor helse og omsorg, gjennom gode arbeidsforhold for helsepersonell. De Grønne mener samtidig at vi må frigjøre folks tid til hverandre, og gjøre det lettere å ha tid og finne arenaer for gjensidig støtte i lokalsamfunn, nabolag, blant venner og familie - for å sikre alle omsorg når vi trenger det som mest.
 
 Alle har en psykisk helse, og kan rammes av små og større psykiske plager i løpet av livet. De Grønne vil at forebyggingen av psykiske plager skal gjennomsyre hele samfunnet, så vi fra barnsben av blir bedre til å støtte hverandre i å leve gode liv. Samtidig er psykisk helsevern underdimensjonert i dag, og det trengs grep for å få ned lange ventelister som forverrer helsen. Vi må prioritere gode kommunale lavterskeltiltak, og nok ressurser i spesialisthelsetjenesten, inkludert døgnplasser, for å ivareta en sårbar pasientgruppe.
 
@@ -1097,7 +1071,7 @@ De Grønne vil:
 
 17. Sikre god legemiddelberedskap, og jobbe for mer selvforsyning i framtida.
 
-**2.3.2 FØDSEL OG BARSELOMSORG**
+## **2.3.2 FØDSEL OG BARSELOMSORG** {#2.3.2-fødsel-og-barselomsorg}
 
 1. Sikre god barselomsorg og tett oppfølging ved livets start.
 
@@ -1131,7 +1105,7 @@ De Grønne vil:
 
 7. Sette i gang en livshjelps- og palliasjonsreform som skal sikre bedre lindring og møte de ulike behovene til personer med store lidelser eller risiko for selvmord, uavhengig av alder, diagnoser, funksjonsnedsettelser eller forventet levetid.
 
-8. Ordningen med livstestamente og fremtidsfullmakt skal forbedres slik at alle har enkelt tilgang til å opprette dem, og kan reservere seg mot – eller bekrefte at gjenopplivning ønskes. Ønskene skal synes i kjernejournalen i helsenorge.
+8. Ordningen med livstestamente og fremtidsfullmakt skal forbedres slik at alle har enkelt tilgang til å opprette dem, og kan reservere seg mot - eller bekrefte at gjenopplivning ønskes. Ønskene skal synes i kjernejournalen i helsenorge.
 
 9. Skjerme utsatte grupper mot egenandeler og ikke-møtt gebyr i helsetjenesten.
 
@@ -1251,21 +1225,19 @@ De Grønne vil:
 
 20. Innføre fritak for egenandeler i helsetjenesten for personer med tung rusavhengighet.
 
-# **3\. VERDISKAPING SOM VARER** {#3.-verdiskaping-som-varer}
+# **3. VERDISKAPING SOM VARER** {#3.-verdiskaping-som-varer}
 
 ### VISJON 2045
-
----
 
 _I 2045 er Norge en levende økonomi, med vekstkraftige, nyskapende bedrifter som gjør verden bedre. Verdiskapingen gir oss gode, trygge liv innenfor naturens tålegrenser. Nye, sirkulære forretningsmodeller sørger for at vi har redusert ressursuttaket i økonomien, men økt innovasjonstakten og velferden i landet._
 
 _De miljøvennlige løsningene er de enkleste, beste og billigste både for bedrifter og folk som handler. Vi har gått bort fra bruk-og-kast-samfunnet, og tar heller godt vare på tingene våre med skaperkraft og oppfinnsomhet. Det har endret hele industrien, og erstattet råvareuttak, avfall og forurensning med ny teknologi, ansvarlig mineralutvinning og sirkulære, industrielle prosesser som tar vare på ressursene._
 
-_Norge eksporterer ikke lenger fossil energi \- vi skaper i stedet varer og tjenester som gjør verden til et bedre sted. Kloke hoder som før jobbet i olja, har viktige roller innen drift, innovasjon og utvikling i et mangfold av andre næringer, som grønn industri, bioøkonomi, teknologibransjer, fornybar energi og mye, mye mer._
+_Norge eksporterer ikke lenger fossil energi - vi skaper i stedet varer og tjenester som gjør verden til et bedre sted. Kloke hoder som før jobbet i olja, har viktige roller innen drift, innovasjon og utvikling i et mangfold av andre næringer, som grønn industri, bioøkonomi, teknologibransjer, fornybar energi og mye, mye mer._
 
 _Poenget er ikke at hver og en skal eie mest mulig, men at alle har tilgang til det de trenger. Deletjenester, holdbare produkter og utbredt reparasjon og gjenvinning kjennetegner samfunnet vårt. Håndverksyrkene har fått en ny vår, for samfunnet er avhengig av folk som kan reparere, ombruke og vedlikeholde det vi har._
 
-## _Folk er nærmere maten og kjenner godt til hva den betyr for helsa vår og verden . Maten er basert på lokale ressurser, kretsløpsbaserte metoder og god dyrevelferd. Vi dyrker mer frukt, grønt og korn enn noen gang før, og er mer selvforsynte enn på lang tid. Norge har tatt tilbake rollen som foregangsland innen bærekraftig verdiskaping basert på egne naturressurser og forvalter livet i jorda, langs kysten, i skogen og på land med omsorg og respekt._
+_Folk er nærmere maten og kjenner godt til hva den betyr for helsa vår og verden . Maten er basert på lokale ressurser, kretsløpsbaserte metoder og god dyrevelferd. Vi dyrker mer frukt, grønt og korn enn noen gang før, og er mer selvforsynte enn på lang tid. Norge har tatt tilbake rollen som foregangsland innen bærekraftig verdiskaping basert på egne naturressurser og forvalter livet i jorda, langs kysten, i skogen og på land med omsorg og respekt._
 
 ### EN MODERNE OG INKLUDERENDE SIRKULÆRØKONOMI
 
@@ -1285,7 +1257,7 @@ Hele den politiske verktøykassen må legge til rette for sirkularitet basert p�
 
 ### ET ROBUST OG MANGFOLDIG NÆRINGSLIV ETTER OLJEALDEREN
 
-I flere tiår har utvinning og eksport av olje og gass vært viktig for norsk økonomi, både direkte gjennom skatter og avgifter, eierskap og utbytte, og ikke minst gjennom forvaltningen av inntektene gjennom Statens pensjonsfond utland. Samtidig er eksport av petroleum Norges største bidrag til global oppvarming. I dag binder næringen opp viktige ressurser som kapital, kompetanse og kraft. De Grønne vil derfor fase ut norsk olje- og gassvirksomhet på en forutsigbar måte frem mot 2040\.
+I flere tiår har utvinning og eksport av olje og gass vært viktig for norsk økonomi, både direkte gjennom skatter og avgifter, eierskap og utbytte, og ikke minst gjennom forvaltningen av inntektene gjennom Statens pensjonsfond utland. Samtidig er eksport av petroleum Norges største bidrag til global oppvarming. I dag binder næringen opp viktige ressurser som kapital, kompetanse og kraft. De Grønne vil derfor fase ut norsk olje- og gassvirksomhet på en forutsigbar måte frem mot 2040.
 
 Ved at oljenæringen gradvis fases ut frigjøres ressurser til resten av norsk næringsliv. Det vil gi Norge en mer robust næringsstruktur, som er mer mangfoldig og rigget for nullutslippssamfunnet. Kompetansen, som i dag er bundet opp til olje og gass, er ettertraktet innen blant annet havvind, skipsfart, karbonfangst- og lagring, IKT-sektoren, prosessindustri, romfart og bioøkonomi.
 
@@ -1299,19 +1271,19 @@ Omstillingen krever et godt økosystem bestående av kunnskap, teknologi, innova
 
 ### ET BÆREKRAFTIG MATSYSTEM OG BIOØKONOMI
 
-Målet for norsk matproduksjon må være best mulig mat, basert på våre egne naturressurser. I en verden preget av geopolitisk uro og klimaendringer, er lokal matproduksjon og \-foredling en viktig del av vår beredskap. De Grønnes matpolitikk anerkjenner at kosthold, folkehelse og jordens helse henger sammen. Vi må ta tak i strukturene som favoriserer stordrift, og heller bruke virkemidlene slik at resultatet blir bra både for bønder, dyr, mennesker og lokalsamfunn. De Grønnes matpolitikk sikrer en god forvaltning av naturressursene, god dyrevelferd, trygg mat og at de som produserer maten vår har en lønn å leve av.
+Målet for norsk matproduksjon må være best mulig mat, basert på våre egne naturressurser. I en verden preget av geopolitisk uro og klimaendringer, er lokal matproduksjon og -foredling en viktig del av vår beredskap. De Grønnes matpolitikk anerkjenner at kosthold, folkehelse og jordens helse henger sammen. Vi må ta tak i strukturene som favoriserer stordrift, og heller bruke virkemidlene slik at resultatet blir bra både for bønder, dyr, mennesker og lokalsamfunn. De Grønnes matpolitikk sikrer en god forvaltning av naturressursene, god dyrevelferd, trygg mat og at de som produserer maten vår har en lønn å leve av.
 
 De Grønne vil øke norsk produksjon av frukt, bær, grønnsaker og matkorn ved å belønne bruk av areal som er egnet til mat til mennesker direkte fremfor mat via husdyr. Kjøtt, fisk, melk og egg må baseres på norske fôr- og beiteressurser.
 
 Potensialet i bioøkonomien er enormt. De Grønne vil forvalte ressursene på land og langs kysten med en reell balanse mellom verdiskaping, arena for friluftsliv og rekreasjon, og livsgrunnlag for arter og økosystemer. For skognæringen må vi øke verdiskapingen fra hver tømmerstokk og ha større kontroll på uttaket av skog. Fiskeriressursene må forvaltes og videreforedles lokalt, mens havbruket må omstille seg ut av enorme miljø- og dyrevelferdsproblemer. Slik kan vi sørge for at framtidige generasjoner kan fortsette å høste av naturen og skape gode liv og lokalsamfunn basert på den.
 
-**3\. VÅRE LØSNINGER**
+**3. VÅRE LØSNINGER**
 
 ## **3.1 TRYGT UT AV OLJEALDEREN** {#3.1-trygt-ut-av-oljealderen}
 
 De Grønne vil:
 
-1. At Stortinget skal innføre et mål om at norsk olje og gass skal avvikles innen 2040\.
+1. At Stortinget skal innføre et mål om at norsk olje og gass skal avvikles innen 2040.
 
 2. At Norge på kort sikt skal være en stabil gassleverandør til Europa.
 
@@ -1329,7 +1301,7 @@ De Grønne vil:
 
 9. Etablere en omstillingsavgift per utvunnet fat olje og gass som avhenger av utslippsintensitet, i tråd med prinsippet om at forurenser betaler. Omstillingsavgiften skal brukes til klimakutt og klimatilpasning i Norge og Sokkeldirektoratet skal rapportere årlig på utslippsintensitet for hvert felt for å vise hvilke felt som er skitnest.
 
-10. Trappe opp CO2-avgiften på utslipp fra petroleumsvirksomhet i tråd med 1,5- gradersmålet, inkludert en oppjustering også etter 2030\.
+10. Trappe opp CO2-avgiften på utslipp fra petroleumsvirksomhet i tråd med 1,5- gradersmålet, inkludert en oppjustering også etter 2030.
 
 11. Etablere en statlig støtteordning for plugging av brønner og avslutning av felt. Ordningen fritar ikke selskapene for ansvaret som følger fra petroleumsloven, men skal bidra til å komme i gang tidligere med dette arbeidet.
 
@@ -1337,7 +1309,7 @@ De Grønne vil:
 
 13. Stille krav til dokumentasjon og åpenhet rundt petroleumsindustriens markedsføring og informasjonsarbeid, og innføre reguleringer som begrenser slik aktivitet.
 
-14. Fase ut Equinors eierskap i prosjekter i olje og gass i utlandet senest innen 2028\.
+14. Fase ut Equinors eierskap i prosjekter i olje og gass i utlandet senest innen 2028.
 
 15. Vurdere lavere arbeidsgiveravgift i en periode for kommuner særlig påvirket av grønn omstilling.
 
@@ -1383,7 +1355,7 @@ De Grønne vil:
 
 19. Arbeide for å innføre og videreutvikle flere former for naturbaserte vann- og avløpssystemer, eller andre løsninger som separerer gråvann, brunvann m.m. for mindre vannforbruk og bedre gjenbruk av ressurser, enten det er som mindre desentraliserte anlegg eller for større leilighetsbygg eller bydeler.
 
-20. Sikre full utfasing av torv i hagejord og dyrkingsmedier innen 2030\.
+20. Sikre full utfasing av torv i hagejord og dyrkingsmedier innen 2030.
 
 21. Revidere plan- og bygningsloven slik at kommuner og andre kan stille krav om utslippsfri bygge- og anleggsvirksomhet når utbyggingen skjer i privat regi eller av andre offentlige aktører enn kommunen.
 
@@ -1509,7 +1481,7 @@ De Grønne vil:
 
 4. Sikre at matkasteloven sørger for at det blir slutt på destruksjon av fullverdig mat som ikke tilfredsstiller pakkestandarder.
 
-5. At det offentlige bruker sin innkjøpsmakt til å velge kortreiste, sunne og økologiske matvarer. Minimum 20 prosent av innkjøp og konsum skal være økologisk norskproduserte råvarer innen 2030\.
+5. At det offentlige bruker sin innkjøpsmakt til å velge kortreiste, sunne og økologiske matvarer. Minimum 20 prosent av innkjøp og konsum skal være økologisk norskproduserte råvarer innen 2030.
 
 6. Styrke konkurranselovgivningen i dagligvarebransjen for å sikre et robust matmarked som understøtter tilgang til sunne matvarer i butikkene, enklere tilgang for bøndene til kundene og priser som settes i rimelig forhold til behov for marginer.
 
@@ -1553,7 +1525,7 @@ De Grønne vil:
 
 14. Øke tilskuddet til små og mellomstore grøntprodusenter. Tilskudd skal også gis ved bruk av areal som ikke er registrert som jordbruksareal.
 
-15. Styrke rådgivningstjenester for bønder som ønsker å legge om til regenerativt og/eller økologisk landbruk. Minst 20 prosent av jordbruksproduksjonen skal være økologisk innen 2030\.
+15. Styrke rådgivningstjenester for bønder som ønsker å legge om til regenerativt og/eller økologisk landbruk. Minst 20 prosent av jordbruksproduksjonen skal være økologisk innen 2030.
 
 16. Ha et føre var-prinsipp for bruk av genmodifisering i matproduksjon. Regelverket må sikre at langsiktige konsekvenser for arter og økosystemer blir dokumentert før produksjonsmetoder og matvarer distribueres, og at makt ikke konsentreres til få aktører.
 
@@ -1595,7 +1567,7 @@ De Grønne vil:
 
 1. Gjennomføre en omstilling av hele havbruksnæringen i retning av integrert, sirkulært havbruk med null utslipp. Omfanget av oppdrettsindustrien skal tilpasses et nivå som er forsvarlig med hensyn til miljø og dyrevelferd.
 
-2. Kun gi nye, tidsbegrensede konsesjoner til oppdrettsanlegg som oppfyller strenge krav til null lus, rømming og utslipp, oppsamling og utnyttelse av bioavfall, øvrige miljøhensyn og dødelighet på under 5 prosent. Vekst på eksisterende anlegg må oppfylle samme krav, og alle eksisterende anlegg skal ha samme krav innen 2030\.
+2. Kun gi nye, tidsbegrensede konsesjoner til oppdrettsanlegg som oppfyller strenge krav til null lus, rømming og utslipp, oppsamling og utnyttelse av bioavfall, øvrige miljøhensyn og dødelighet på under 5 prosent. Vekst på eksisterende anlegg må oppfylle samme krav, og alle eksisterende anlegg skal ha samme krav innen 2030.
 
 3. Bringe dyrevelferden i oppdrettsnæringen i samsvar med dyrevelferdsloven, blant annet ved å avvikle lusebehandling med rensefisk og termisk avlusning, samt utvide kravene til rapportering av sykdommer.
 
@@ -1607,7 +1579,7 @@ De Grønne vil:
 
 7. Forby oppdrett av torsk i sjø til det kan dokumenteres faglig at torskeoppdrett kan drives helt uten negativ påvirkning på vill torsk.
 
-8. Bygge opp bærekraftig fôrproduksjon i Norge, med et mål om at 50 % av fôret til norsk oppdrettsfisk skal komme fra norske ressurser innen 2035\. Produksjonsomfanget i næringen må tilpasses dette målet.
+8. Bygge opp bærekraftig fôrproduksjon i Norge, med et mål om at 50 % av fôret til norsk oppdrettsfisk skal komme fra norske ressurser innen 2035. Produksjonsomfanget i næringen må tilpasses dette målet.
 
 9. Innføre forbud mot å tømme kjemikalier fra lusebehandling nær sårbare områder.
 
@@ -1619,7 +1591,7 @@ De Grønne vil:
 
 1. Jobbe for et skogbruk som utvikler en lønnsom skognæring som ivaretar skogen som leveområde og økosystem, og som bidrar til økt naturmangfold.
 
-2. Verne minst ti prosent av produktiv skog innen 2030\.
+2. Verne minst ti prosent av produktiv skog innen 2030.
 
 3. Innføre forbud mot all flatehogst i ur- og naturskog, altså skog der det ikke har vært flatehogd etter 1940, og gjøre all hogst i denne type skog søknadspliktig.
 
@@ -1639,11 +1611,9 @@ De Grønne vil:
 
 11. Øke bevilgningene til frivillig skogvern, og sikre et høyt og forutsigbart støttenivå.
 
-# **4\. DEMOKRATI FOR ALLE** {#4.-demokrati-for-alle}
+# **4. DEMOKRATI FOR ALLE** {#4.-demokrati-for-alle}
 
 ### VISJON 2045
-
----
 
 _I 2045 trenger man ikke å frykte å være annerledes, for samfunnet er like trygt for alle. Likestilling og muligheten til å delta i samfunnet og egen hverdag sikres uavhengig av funksjon og identitet. Deltakelse i samfunnet skaper livskvalitet og bygger tilhørighet og tillit, nedenfra og opp. Alle slags folk har mulighet til å bli ledere eller politikere, uavhengig av etnisitet, funksjonsvariasjon og økonomisk bakgrunn. Mangfoldet bidrar til at vi finner enda bedre løsninger på utfordringene som dukker opp._
 
@@ -1651,7 +1621,7 @@ _Det har blitt vanlig å engasjere seg i sine lokalsamfunn gjennom hverdagsdemok
 
 _Frie, uavhengige medier fortsetter å sørge for en opplyst offentlig debatt mellom mennesker uten maskingenerert desinformasjon. Ansvarlige rammer for teknologi og kunstig intelligens gjør at disse brukes trygt og til det beste for mennesker. Tilliten er stor, men ikke naiv: åpenhet og ettersyn forhindrer korrupsjon. Vi snakker med hverandre på tvers av politiske skillelinjer. Det er stort rom for uenighet, men ikke for hatprat. Vi bygger videre på en kultur der vi er interesserte i å lytte til folk som er annerledes enn oss selv. Alle har likestilt tilgang til arbeid og helsehjelp, og diskriminering og vold får prioritert oppfølging som gir konsekvenser. Vi tar bedre vare på våre mange språk, livssyn og tradisjoner, som samer og minoriteter trygt kan være stolte av og vise frem._
 
-## _Sammen tar vi gode valg, ikke bare for oss selv, men også på vegne av de som kommer etter oss, for naturen, og i solidaritet med medmenneskene vi deler planeten med._
+_Sammen tar vi gode valg, ikke bare for oss selv, men også på vegne av de som kommer etter oss, for naturen, og i solidaritet med medmenneskene vi deler planeten med._
 
 ### TRYGGHET FRA DISKRIMINERING
 
@@ -1661,11 +1631,9 @@ Samfunnet må aktivt motarbeide diskriminering mot utsatte grupper både i lovve
 
 De Grønne vil jobbe for full likestilling uavhengig av kropp og kognisjon. Funksjonsvarierte møter i dag hindre for å dra i en begravelse eller på et politisk møte, selv om man får assistanse for å dra på legetime eller jobb. De som er gift får ikke alltid leve sammen, og foreldrerollen blir sjeldent tilrettelagt for. Omkring 90% av bygninger er ikke rullestoltilgjengelig og mennesker med usynlige funksjonsnedsettelser får knapt tilrettelegging for å kunne delta i samfunnet. Selvbestemmelse og selvstendig deltakelse er viktige prinsipper for frigjøring av funksjonshindrede. De Grønne vil sikre lik rett til brukerstyrt personlig assistanse (BPA) i hele landet, og sørge for at hindre for deltakelse raskt fjernes, spesielt innen arbeid, utdanning og politisk deltakelse.
 
-###
-
 ### EN NY VÅR FOR DEMOKRATIET
 
-De Grønne vil styrke lokaldemokratiet og sivilsamfunnet, og jobbe for demokratisk kontroll over infrastruktur og viktige tjenester. Alle innbyggere skal ha reell mulighet til å delta i beslutninger som angår seg og sitt nærmiljø, også de gruppene som er svakt representert i demokratiet. Forsøk på å svekke demokratiet i verden kan gi en økende mistillit og distanse mellom system og borgere \- begge veier. Beslutningsprosesser må være transparente og tilgjengelige, og hele tiden ha som mål å inkludere flere.
+De Grønne vil styrke lokaldemokratiet og sivilsamfunnet, og jobbe for demokratisk kontroll over infrastruktur og viktige tjenester. Alle innbyggere skal ha reell mulighet til å delta i beslutninger som angår seg og sitt nærmiljø, også de gruppene som er svakt representert i demokratiet. Forsøk på å svekke demokratiet i verden kan gi en økende mistillit og distanse mellom system og borgere - begge veier. Beslutningsprosesser må være transparente og tilgjengelige, og hele tiden ha som mål å inkludere flere.
 
 Rettsstaten og vern av menneskerettighetene er en forutsetning for et mangfoldig og jevnbyrdig samfunn med trygghet og frihet for den enkelte. Vi har ingen garanti mot autoritære krefter i framtida, og må forebygge med sterke institusjoner og bred deltakelse. Et velfungerende demokrati er ferskvare. Selv om vi har et sunt demokrati med høy tillit mellom folk, må vi til enhver tid fornye og forsterke det.
 
@@ -1683,15 +1651,13 @@ God integrering gir rom for å kunne holde sine røtter levende, samtidig som ma
 TRYGGHET FRA VOLD OG OVERGREP  
 De Grønne jobber for et tilstedeværende og operativt politi over hele landet, som holder innbyggerne trygge. Det er avgjørende å følge opp og forebygge alvorlige lovbrudd med store konsekvenser for de som rammes, som vold og overgrep i nære relasjoner, gjengkriminalitet, menneskehandel og hatefulle ytringer og hatkriminalitet overfor minoriteter. De Grønne vil styrke krisesentre, overgreps- og voldtektsmottakene, og bygge ut behandlingstilbudet for utsatte og overgripere. Alle som møter barn og mennesker i utsatte situasjoner skal ha med seg en grunnleggende kompetanse i å ivareta voldsutsatte og snu de onde sirklene dette kan sette i gang.
 
-###
-
 ### ROM FOR Å PRAKTISERE TRADISJON OG SPRÅK
 
 Norge har over lang tid undertrykt vårt urfolk samene og de nasjonale minoritetene, kvener/norskfinner, jøder, skogfinner, romer og romanifolk/reisende. Samiske områder er særlig sårbare for klimaendringer. Som både FNs klima- og naturpanel har understreket, er urfolks- og lokalkunnskap grunnleggende i møte med klimaendringene. Fosen-saken viste hvordan urfolks rettigheter fortsatt krenkes, noe det er på høy tid at staten tar på alvor. De Grønne vil ta det nødvendige oppgjøret som Sannhets- og forsoningskommisjonen etterspør.
 
 Likestilling mellom nynorsk og bokmål må realiseres, og norsk tegnspråk må bli en naturlig del av samfunnet. Alternativ og supplerende kommunikasjon (ASK) må få offisiell status i språklova. Språkkompetansen i innvandrermiljøene er en ressurs for samfunnet vårt. Det er behov for betydelige tiltak for at brukere av urfolks- og minoritetsspråkene samisk, kvensk, romani og romanés skal kunne ta tilbake språket sitt. Sørsamisk og lulesamisk, samt samisk i kystområdene, trenger et særskilt løft. De Grønne vil la språkmangfoldet synes og høres, og utnytte mulighetene det gir.
 
-**4\. VÅRE LØSNINGER**
+**4. VÅRE LØSNINGER**
 
 ## **4.1 ANTIRASISME OG TRYGGHET FRA DISKRIMINERING** {#4.1-antirasisme-og-trygghet-fra-diskriminering}
 
@@ -1709,7 +1675,7 @@ De Grønne vil:
 
 6. Styrke arbeidet mot seksuell trakassering, og inkludere trakasseringssaker i ordningen for fri rettshjelp.
 
-7. Øke statsstøtten til organisasjoner og sentre som jobber mot hatkriminalitet, og formidler om viktige historiske angrep som 25\. juni, 22\. juli-senteret og 10\. august-stiftelsen.
+7. Øke statsstøtten til organisasjoner og sentre som jobber mot hatkriminalitet, og formidler om viktige historiske angrep som 25. juni, 22. juli-senteret og 10. august-stiftelsen.
 
 8. Ikke gi statsstøtte til organisasjoner som fremmer rasistiske eller diskriminerende holdninger.
 
@@ -1853,7 +1819,7 @@ De Grønne vil:
 
 14. Jobbe for en lovendring der ileggelse av kontaktforbud omdefineres fra å være en straff til et forebyggende beskyttelsestiltak.
 
-15. Styrke politiets arbeid mot vold i nære relasjoner og etablere flere RISK-spesialenheter (risikoanalyse og kriminalitetsforebygging av vold i nære relasjoner). Målet er at RISK er et landsdekkende program innen 2026\.
+15. Styrke politiets arbeid mot vold i nære relasjoner og etablere flere RISK-spesialenheter (risikoanalyse og kriminalitetsforebygging av vold i nære relasjoner). Målet er at RISK er et landsdekkende program innen 2026.
 
 16. Styrke kunnskapsgrunnlaget om koblingen mellom vold og overgrep mot dyr, og vold og overgrep mot barn og i nære relasjoner, og sikre at barnevernet blir varslet når omsorgspersoner blir dømt for vold mot dyr.
 
@@ -1925,7 +1891,7 @@ De Grønne vil:
 
 12. Stille krav til åpenhet om hvordan algoritmer som tar beslutninger som angår den enkelte fungerer, for både offentlige og private virksomheter. Algoritmer må kunne etterprøves for å sikre rettferdig og lovmessig bruk.
 
-    ### SOSIALE MEDIER OG AVHENGIGHETSSKAPENDE TEKNOLOGI
+### SOSIALE MEDIER OG AVHENGIGHETSSKAPENDE TEKNOLOGI
 
 13. Pålegge sosiale medier å ha en ansvarlig redaktør for visning av innhold, utforming av algoritmer og markedsføring på det sosiale mediet, og bøtelegges ved vedvarende og hyppige brudd på norsk lov på plattformen.
 
@@ -1941,7 +1907,7 @@ De Grønne vil:
 
 19. Utrede virkemidler for sikring av like konkurransevilkår og jobbe for at alle medie- og teknologiselskaper som tjener penger i Norge, eller på brukerdata generert av norske brukere, betaler skatt av fortjenesten i Norge.
 
-    ### KUNSTIG INTELLIGENS
+### KUNSTIG INTELLIGENS
 
 20. Kategorisere kunstig intelligens etter risiko, og regulere bruk deretter, i tråd med EUs AI ACT. Tilsyn med dette bør samles i ett tilsynsorgan med overordnet ansvar, så ansvaret ikke fragmenteres mellom flere organer.
 
@@ -2125,11 +2091,9 @@ De Grønne vil:
 
 16. Jobbe for at kvensk språk løftes opp et nivå i EU sin ordning for minoritetsspråk og får sterkere beskyttelse.
 
-# **5\. LIVSKRAFTIGE LOKALSAMFUNN** {#5.-livskraftige-lokalsamfunn}
+# **5. LIVSKRAFTIGE LOKALSAMFUNN** {#5.-livskraftige-lokalsamfunn}
 
 ### VISJON 2045
-
----
 
 _I 2045 bor vi i vennlige, frodige og oppfinnsomme byer, bygder og nabolag. Uansett hvor i landet vi bor opplever vi å ha gode tjenester nært hjemmet. Det skapes mer og skjer stadig noe spennende i lokalsamfunn med hver sin særegne stedsidentitet._
 
@@ -2137,7 +2101,7 @@ _Kortere avstander, menneskevennlig stedsutvikling og arbeidstid, har gjort at f
 
 _Framtidas byer, bygder og nabolag er mer selvhjulpne. Kommunene har lav terskel for å teste nye løsninger, slik at lokalt engasjement og kunnskap kommer fellesskapet til gode. Endringene vi skaper sammen får kraft når vi tydelig ser hvordan lokale initiativer også bidrar til å løse verdens store utfordringer._
 
-## _Sirkulærøkonomien gjør at folk kan delta, skape og påvirke mer, uten at det går på bekostning av det lokale eller globale livsgrunnlaget. Våre bygder og byer er blitt grønnere og mer fargerike, med mindre forurensing og avfall på avveie. Mennesker i alle aldre legger viktige premisser for stedsutviklingen, og vi vier mer oppmerksomhet til de nære fellesskapene: dalen, bygda, øya \- nabolaget vårt._
+_Sirkulærøkonomien gjør at folk kan delta, skape og påvirke mer, uten at det går på bekostning av det lokale eller globale livsgrunnlaget. Våre bygder og byer er blitt grønnere og mer fargerike, med mindre forurensing og avfall på avveie. Mennesker i alle aldre legger viktige premisser for stedsutviklingen, og vi vier mer oppmerksomhet til de nære fellesskapene: dalen, bygda, øya - nabolaget vårt._
 
 ### GODE NABOLAG I BYER OG BYGDER
 
@@ -2185,7 +2149,7 @@ Politikere skal holde en armlengdes avstand til kunstfaglige vurderinger, men si
 
 MDG vil legge til rette for at kulturfeltet kan spille en nøkkelrolle i klimapolitikken. Norge må ta en ledende rolle i å fremme kulturbaserte klimaløsninger, både nasjonalt og internasjonalt. MDG vil at kulturfeltet skal inkluderes i alle strategier for å nå klimamålene.
 
-**5\. VÅRE LØSNINGER**
+**5. VÅRE LØSNINGER**
 
 ## **5.1 LOKALT SELVSTYRE** {#5.1-lokalt-selvstyre}
 
@@ -2291,7 +2255,7 @@ De Grønne vil:
 
 9. Stille strengere minstekrav til levetid for at varer skal kunne selges og markedsføres i Norge, og styrke reklamasjonsretten i forbrukerkjøpsloven. Reklamasjonstid for elektriske artikler som hvitevarer og fjernsyn må heves til 10 år.
 
-10. Bekjempe «fast fashion» ved å innføre avgift på klær med kort levetid, etablere levetidsmerking på klesplagg, og utrede en kastelov for å redusere svinn i klesindustrien.
+10. Bekjempe “fast fashion” ved å innføre avgift på klær med kort levetid, etablere levetidsmerking på klesplagg, og utrede en kastelov for å redusere svinn i klesindustrien.
 
 ## **5.5 INTEGRERING OG INKLUDERING** {#5.5-integrering-og-inkludering}
 
@@ -2361,7 +2325,7 @@ De Grønne vil:
 
 8. Stille krav i tilskuddsordninger der det er relevant om miljøvennlige transportformer, materialflytanalyse, avfallshåndtering. Ordningene skal belønne flerbruk, rehabilitering av bygg og reparasjon og deling av utstyr.
 
-9. Revidere og styrke ordningen med utstillingsvederlag og \-honorar, slik at kunstinstitusjoner gir kunstnere riktig kompensasjon for arbeidet med utstillinger og de reelle produksjonskostnadene.
+9. Revidere og styrke ordningen med utstillingsvederlag og -honorar, slik at kunstinstitusjoner gir kunstnere riktig kompensasjon for arbeidet med utstillinger og de reelle produksjonskostnadene.
 
 10. Stille krav om at offentlig støttede kulturinstitusjoner skal operere i tråd med tariffavtaler og standardkontrakter som sikrer rimelig lønn for arbeidet til skapende og utøvende kunstnere, inkludert frilansere.
 
@@ -2443,7 +2407,7 @@ De Grønne vil:
 
 2. Legge til rette for egenorganisert aktivitet og et mangfold av rimelige idretts- og fritidstilbud for barn og unge.
 
-3. ‬Øke støtten til fritidsklubber, og idrettsklubber som tilrettelegger for at barn kan delta uansett funksjonsnivå og bakgrunn
+3. Øke støtten til fritidsklubber, og idrettsklubber som tilrettelegger for at barn kan delta uansett funksjonsnivå og bakgrunn
 
 4. Støtte dele- og utlånsordninger for hjelpemidler, frilufts-, kultur-, aktivitets- og idrettsutstyr.
 
@@ -2469,15 +2433,9 @@ De Grønne vil:
 
 15. Sørge for at idretten er miljøvennlig gjennom å fase ut gummigranulat på kunstgressanlegg, håndheve fluor-forbudet i skismøring, og støtte alternativer.
 
-#
-
-# **6\. MOBILITET I HELE LANDET** {#6.-mobilitet-i-hele-landet}
-
-##
+# **6. MOBILITET I HELE LANDET** {#6.-mobilitet-i-hele-landet}
 
 ### VISJON 2045
-
----
 
 _I 2045 er hverdagsreiser og annen transport trygg og god for miljøet. Folk og varer fraktes fra A til B uten utslipp og unødvendig naturødeleggelse. Om du bor i by eller bygd, eller er på ferie i Norge, er det enkelt å reise miljøvennlig. Fordi vi har satset på kompakt og naturvennlig stedsutvikling, er landet koblet sammen gjennom et smidig og effektivt transportsystem. Bussen, banen og toget er blitt et naturlig førstevalg. Få savner tiden hvor vi brukte skattepenger til å utvide flyplasser og motorveier._
 
@@ -2486,8 +2444,6 @@ _Ti-minutters-byen er på plass, med kort vei til skole, arbeid og fritid. Det f
 _På bygda samles gode krefter i trivelige bygdesentrum. I de delene av Norge hvor det fortsatt er behov for privatbiler, er det elbil som gjelder. Overalt er det gode lademuligheter. Fylkesveiene, som tidligere var farlige å kjøre på, er nå så godt vedlikeholdt at folk alltid kommer trygt frem til jobb, skole og fritidsaktiviteter._
 
 _Å kunne reise og bevege seg fritt er et samfunnsgode, og grønn politikk har gjort dette mer tilgjengelig for alle. Løsningene vi har utviklet er like tilgjengelige for oss som bor her som de som kommer på besøk fra andre land og landsdeler for arbeid eller fornøyelse. Helhet og nytenking i mobilitetssektoren har gitt sirkulærøkonomien i Norge et kraftig løft. Norge er en attraktiv partner for andre land med mobilitetsløsninger som kan skaleres opp og bidrar til globale klimakutt._
-
----
 
 ### VI ER ALLE MYKE TRAFIKANTER
 
@@ -2509,7 +2465,7 @@ De Grønne vil gjøre det enklere å slippe å eie egen bil. Å være avhengig a
 
 Sjøfartsnasjonen Norge har gode forutsetninger for å bli verdensledende på miljøvennlig og effektiv skipsfart. Utslippsfri sjøtransport er i ferd med å bli en viktig eksportartikkel og vil bidra til økt sysselsetting langs kysten. Kystfylkene har naturlige sjøforbindelser som bør utnyttes i større grad enn i dag. Hurtigbåter og båttaxier uten utslipp bør bli en del av kollektivtransporten der det er mulig, og kombinere passasjertransport med varelevering. Utslippsfrie ferjer skal binde kystsamfunn sammen og skape effektive korridorer for transport av mennesker og gods langs kysten vår.
 
-Noe av flytrafikken kan i framtida gjennomføres utslippsfritt, men det er usikkerhet knyttet til spesielt større fly og lengre reiser. Vi vil tilrettelegge for utslippsfrie flyreiser der det ikke finnes gode alternativer, slik som på kortbanenettet. De fleste flyreisene skjer imidlertid mellom våre største byer der mye kan reduseres ved å styrke alternativene på bakken. Internasjonale flyreiser bør reduseres slik at de utgjør en liten andel av hver innbygger sine reiser i løpet av livet**.** Folk må få tydelig informasjon om klimaeffekten av reisene sine og være sikre på at de miljøvennlige reisemåtene prioriteres av politikerne.
+Noe av flytrafikken kan i framtida gjennomføres utslippsfritt, men det er usikkerhet knyttet til spesielt større fly og lengre reiser. Vi vil tilrettelegge for utslippsfrie flyreiser der det ikke finnes gode alternativer, slik som på kortbanenettet. De fleste flyreisene skjer imidlertid mellom våre største byer der mye kan reduseres ved å styrke alternativene på bakken. Internasjonale flyreiser bør reduseres slik at de utgjør en liten andel av hver innbygger sine reiser i løpet av livet. Folk må få tydelig informasjon om klimaeffekten av reisene sine og være sikre på at de miljøvennlige reisemåtene prioriteres av politikerne.
 
 ### GODSET SKAL TRYGT HELT FREM
 
@@ -2519,7 +2475,7 @@ Transport av varer krever stadig mer energi og areal som følge av forholdsvis l
 
 Norge er et attraktivt ferieland, med alt vi har å tilby. De Grønne ønsker at Norge går i front for å skape et reiseliv på naturens og miljøets premisser, der folk kan oppleve vakker natur og unike opplevelser uten å undergrave naturen de kommer for å oppleve. De Grønne vil ha kvalitet fremfor kvantitet i reiselivsnæringen, og la hensynet til lokalbefolkning, klima og natur komme først. Nærturismen må utvikles slik at de korte turene er rimelige og tilgjengelige, samtidig som de gir pusterom i og mellom hverdagene, med en helhetlig tilrettelegging på tvers av kommuner kan lengre turer på sykkel bli mer tilgjengelig i feriene våre.
 
-**6\. VÅRE LØSNINGER**
+**6. VÅRE LØSNINGER**
 
 ## **6.1 GRØNNE VERKTØY I SAMFERDSEL** {#6.1-grønne-verktøy-i-samferdsel}
 
@@ -2633,7 +2589,7 @@ De Grønne vil:
 
 De Grønne vil:
 
-1. Jobbe for at deling av elbil blir den enkleste og billigste måten å ha tilgang til bil for de aller fleste nordmenn innen 2035\.
+1. Jobbe for at deling av elbil blir den enkleste og billigste måten å ha tilgang til bil for de aller fleste nordmenn innen 2035.
 
 2. Gradvis innføre moms på hele kjøpssummen ved salg av nye elbiler, og bruke inntektene på å blant annet sikre god nok ladeinfrastruktur i hele Norge.
 
@@ -2759,11 +2715,9 @@ De Grønne vil:
 
 14. Legge til rette for deleløsninger for fritidsbåter, tilby lading til el-båter, oppgradere flere småbåthavner og å legge til rette for utlån av utstyr som gjør båtliv tilgjengelig for flere.
 
-# **7\. EN TRYGGERE VERDEN** {#7.-en-tryggere-verden}
+# **7. EN TRYGGERE VERDEN** {#7.-en-tryggere-verden}
 
 ### VISJON 2045
-
----
 
 _I 2045 samarbeider ledere og folk godt på tvers av landegrenser og skillelinjer. Europa er preget av fred, at menneskerettighetene respekteres og at vi har en regelbasert verdensorden tuftet på demokrati og rettsstat._
 
@@ -2773,15 +2727,13 @@ _Vi har lagt bak oss kappløpet om å stenge grenser. Mennesker fra andre steder
 
 _I 2045 har vi erkjent hva det betyr at vi bare har én klode: At menneskeheten lever i et skjebnefellesskap hvor samarbeid gir trygghet._
 
----
-
 ### MER SOLIDARITET OG SAMARBEID
 
 Verden i dag preges av store globale utfordringer, med krig og konflikt og eskalerende klimaendringer. På få år har antallet mennesker som trenger humanitær hjelp mangedoblet seg. Altfor mange sulter, rammes av ekstremvær eller opplever krig og konflikt, og flere enn noensinne er på flukt. De Grønne mener at løsningene på vår tids globale utfordringer er tillit, dialog, sterkere solidaritet og mer internasjonalt samarbeid. Vi må jobbe sammen for å utvikle alle samfunn så alle kan leve trygge liv innenfor planetens tålegrenser.
 
 ### ALLTID BEREDT
 
-Samfunnet er sårbart. De Grønne vil styrke totalberedskapen, så samfunnet rustes for å håndtere flere kriser samtidig \- naturkriser, helsetrusler og angrep mot demokrati og samfunn. Norge skal være en pådriver for forskning, dialog og internasjonalt samarbeid for å redusere risikoen for nye kriser. Vi trenger å produsere mer mat selv, bygge opp beredskapslagre for mat, frø, såkorn og medisiner, og sikre kritisk infrastruktur og mer desentralisert energiproduksjon.
+Samfunnet er sårbart. De Grønne vil styrke totalberedskapen, så samfunnet rustes for å håndtere flere kriser samtidig - naturkriser, helsetrusler og angrep mot demokrati og samfunn. Norge skal være en pådriver for forskning, dialog og internasjonalt samarbeid for å redusere risikoen for nye kriser. Vi trenger å produsere mer mat selv, bygge opp beredskapslagre for mat, frø, såkorn og medisiner, og sikre kritisk infrastruktur og mer desentralisert energiproduksjon.
 
 To nøkkelfaktorer for god beredskap er forebygging og samarbeid på tvers. I tillegg må vi klare å opprettholde høy tillit i samfunnet, for å reagere samlet og riktig når kriser rammer.
 
@@ -2807,13 +2759,13 @@ Samtidig som vi understreker at det viktigste for en fredelig verden er kulturel
 
 Det er kun ved å dele på godene i verden at vi kan skape en trygg og medmenneskelig verden for alle. Vi skal være en forkjemper for at de globale økonomiske systemene skaper fred og velstand i stedet for utbytting og fattigdom. Norge står i en særstilling på grunn av vår store oljerikdom, vårt sterke demokrati og et velfungerende velferdssamfunn. Det gir oss ansvar og mange muligheter til å bidra til løsningene verden trenger.
 
-Det mest ansvarlige vi kan gjøre med Statens pensjonsfond utland (SPU) er å investere det i en levelig framtid \- det er også det økonomisk tryggeste på sikt. Fondet gir Norge et unikt økonomisk handlingsrom, også etter at oljeutvinningen avvikles. Det kan sikre framtidig velferd og være et verktøy for å løse klima- og naturkrisen. Framtidige generasjoner trenger først og fremst å ha livsgrunnlaget i behold, mer enn en sparebøsse. Fondets investeringer bør derfor bidra til å innfri FNs bærekraftsmål.
+Det mest ansvarlige vi kan gjøre med Statens pensjonsfond utland (SPU) er å investere det i en levelig framtid - det er også det økonomisk tryggeste på sikt. Fondet gir Norge et unikt økonomisk handlingsrom, også etter at oljeutvinningen avvikles. Det kan sikre framtidig velferd og være et verktøy for å løse klima- og naturkrisen. Framtidige generasjoner trenger først og fremst å ha livsgrunnlaget i behold, mer enn en sparebøsse. Fondets investeringer bør derfor bidra til å innfri FNs bærekraftsmål.
 
 Utviklingssamarbeid og bistand bidrar til en tryggere og mer rettferdig verden. Nødhjelp og bistand må gis på mottakerens premisser, og unngå å skade mottakerlandenes økonomi, selvråderett og skaperevne. Vi vil støtte sivilsamfunn og demokratibygging, som bidrar til å beskytte sårbare og marginaliserte grupper og forvalte naturressurser bærekraftig. I tillegg til den etablerte bistandsprosenten vil vi ha en klima- og naturprosent som skal kutte klimautslipp, hindre ødeleggelse av natur og miljø, restaurere ødelagte økosystemer og legge naturbaserte løsninger til grunn. Den skal ikke gå på bekostning av annet utviklingsarbeid og nødhjelp, eller omstillingen av Norge.
 
 Samarbeider vi om å leve mer langsiktig her på jorda, skaper vi en tryggere verden for alle.
 
-**7\. VÅRE LØSNINGER**
+**7. VÅRE LØSNINGER**
 
 ## **7.1 BEREDSKAP** {#7.1-beredskap}
 
@@ -2921,7 +2873,7 @@ De Grønne vil:
 
 19. Styrke Norges humanitære bistand og overføringene av midler til søreuropeiske land, der det trengs kapasitetsbygging for å sikre rettferdig og human behandling av mennesker på flukt.
 
-20. Ta initiativ til felleseuropeiske løsninger for tilstrekkelig søk- og redningskapasitet i Middelhavet, og hindre at norske bidrag til dette går til [pushbacks](https://tidsskriftet.no/2021/08/kronikk/norge-sjofartsnasjonen-som-lar-mennesker-drukne) eller militser.
+20. Ta initiativ til felleseuropeiske løsninger for tilstrekkelig søk- og redningskapasitet i Middelhavet, og hindre at norske bidrag til dette går til pushbacks eller militser.
 
 21. Grunnlovsfeste retten til å søke asyl.
 
@@ -3046,7 +2998,7 @@ De Grønne vil:
 
 7. Støtte avtaler som legger til rette for økte norske investeringer i utviklingsland, forutsatt at det skjer på lokalbefolkningens premisser. Åpenhetsloven må gjelde for slike investeringer.
 
-8. Arbeide for en internasjonal Robin Hood-skatt ([Tobinskatt](https://snl.no/James_Tobin)) på omsetning av valuta og verdipapirer, som skal øremerkes tiltak for bærekraftig utvikling.
+8. Arbeide for en internasjonal Robin Hood-skatt (Tobinskatt) på omsetning av valuta og verdipapirer, som skal øremerkes tiltak for bærekraftig utvikling.
 
 9. Støtte EUs arbeid for å sikre egen produksjon og foredling av kritiske råmaterialer, gitt at produksjonen opprettholder miljøkrav.
 

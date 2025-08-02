@@ -7,7 +7,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "tableOfContentsEntry",
-      "original": "[1\\. VÅR LEVENDE JORD 3](#1.-vår-levende-jord)"
+      "original": "[1. VÅR LEVENDE JORD 3](#1.-vår-levende-jord)"
     },
     { "type": "empty", "original": "" },
     { "type": "tableOfContentsEntry", "original": "[1.1 KLIMA 7](#1.1-klima)" },
@@ -49,7 +49,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "tableOfContentsEntry",
-      "original": "[2\\. VELFERD HELE LIVET 19](#2.-velferd-hele-livet)"
+      "original": "[2. VELFERD HELE LIVET 19](#2.-velferd-hele-livet)"
     },
     { "type": "empty", "original": "" },
     {
@@ -149,7 +149,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "tableOfContentsEntry",
-      "original": "[3\\. VERDISKAPING SOM VARER 45](#3.-verdiskaping-som-varer)"
+      "original": "[3. VERDISKAPING SOM VARER 45](#3.-verdiskaping-som-varer)"
     },
     { "type": "empty", "original": "" },
     {
@@ -209,7 +209,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "tableOfContentsEntry",
-      "original": "[4\\. DEMOKRATI FOR ALLE 61](#4.-demokrati-for-alle)"
+      "original": "[4. DEMOKRATI FOR ALLE 61](#4.-demokrati-for-alle)"
     },
     { "type": "empty", "original": "" },
     {
@@ -274,7 +274,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "tableOfContentsEntry",
-      "original": "[5\\. LIVSKRAFTIGE LOKALSAMFUNN 81](#5.-livskraftige-lokalsamfunn)"
+      "original": "[5. LIVSKRAFTIGE LOKALSAMFUNN 81](#5.-livskraftige-lokalsamfunn)"
     },
     { "type": "empty", "original": "" },
     {
@@ -329,7 +329,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "tableOfContentsEntry",
-      "original": "[6\\. MOBILITET I HELE LANDET 94](#6.-mobilitet-i-hele-landet)"
+      "original": "[6. MOBILITET I HELE LANDET 94](#6.-mobilitet-i-hele-landet)"
     },
     { "type": "empty", "original": "" },
     {
@@ -371,7 +371,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "tableOfContentsEntry",
-      "original": "[7\\. EN TRYGGERE VERDEN 106](#7.-en-tryggere-verden)"
+      "original": "[7. EN TRYGGERE VERDEN 106](#7.-en-tryggere-verden)"
     },
     { "type": "empty", "original": "" },
     {
@@ -424,17 +424,11 @@
       "original": "[7.10 KLIMA- OG NATURBISTAND 119](#7.10-klima--og-naturbistand)"
     },
     { "type": "empty", "original": "" },
-    { "type": "empty", "original": "#" },
-    { "type": "empty", "original": "" },
-    { "type": "empty", "original": "#" },
-    { "type": "empty", "original": "" },
-    { "type": "empty", "original": "#" },
-    { "type": "empty", "original": "" },
     {
       "type": "chapter",
       "chapterId": "1",
       "title": "VÅR LEVENDE JORD",
-      "original": "# **1\\. VÅR LEVENDE JORD** {#1.-vår-levende-jord}"
+      "original": "# **1. VÅR LEVENDE JORD** {#1.-vår-levende-jord}"
     },
     { "type": "empty", "original": "" },
     {
@@ -443,34 +437,30 @@
       "original": "### VISJON 2045"
     },
     { "type": "empty", "original": "" },
-    { "type": "paragraph", "text": "---" },
-    { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_I 2045 har vi et samfunn som skaper verdier og velferd for alle, uten å ødelegge livsgrunnlaget vårt. Vi beskytter og restaurerer natur og dyrelivet blir rikere igjen. Norge har nådd netto null utslipp, og vi forvalter klodens felles ressurser etter prinsipper om varsomhet, rettferdighet og langsiktighet. Samtidig har vi blitt rikere på tid og opplevelser. En nyskapende og inkluderende sirkulærøkonomi har frigjort oss fra overforbruk, tidspress og naturødeleggelser. Vi deler mer, lever mer og sløser mindre._"
+      "text": "I 2045 har vi et samfunn som skaper verdier og velferd for alle, uten å ødelegge livsgrunnlaget vårt. Vi beskytter og restaurerer natur og dyrelivet blir rikere igjen. Norge har nådd netto null utslipp, og vi forvalter klodens felles ressurser etter prinsipper om varsomhet, rettferdighet og langsiktighet. Samtidig har vi blitt rikere på tid og opplevelser. En nyskapende og inkluderende sirkulærøkonomi har frigjort oss fra overforbruk, tidspress og naturødeleggelser. Vi deler mer, lever mer og sløser mindre."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Flere har tilgang på opplevelser som beriker livene, i naturen og i nabolagene sine. Vi har hytte, båt og bil gjennom stadig bedre deletjenester, så vi ikke trenger å eie alt vi bruker. Det vi eier varer lenger, og vi har lært oss å reparere igjen. Hverdagslige valg, som hva vi skal ha til middag og hvordan vi skal komme oss til jobb, etterlater seg ikke lenger arr på jorden, men nærer den. Tenåringen kan få sin første sprellende villaks på kroken, og bestemor kan fortsatt peke på rypa i fjellet._"
+      "text": "Flere har tilgang på opplevelser som beriker livene, i naturen og i nabolagene sine. Vi har hytte, båt og bil gjennom stadig bedre deletjenester, så vi ikke trenger å eie alt vi bruker. Det vi eier varer lenger, og vi har lært oss å reparere igjen. Hverdagslige valg, som hva vi skal ha til middag og hvordan vi skal komme oss til jobb, etterlater seg ikke lenger arr på jorden, men nærer den. Tenåringen kan få sin første sprellende villaks på kroken, og bestemor kan fortsatt peke på rypa i fjellet."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Det er mer levende og myldrende dyre- og naturliv rundt oss. Vi bygger ikke lenger motorveier eller store kjøpesentre utenfor bysentrum, men skaper heller gode steder for både folk og natur, der vi har det vi trenger til våre daglige behov i nærheten. Loven verner naturen, som endelig vinner i møte med kortsiktige økonomiske interesser._"
+      "text": "Det er mer levende og myldrende dyre- og naturliv rundt oss. Vi bygger ikke lenger motorveier eller store kjøpesentre utenfor bysentrum, men skaper heller gode steder for både folk og natur, der vi har det vi trenger til våre daglige behov i nærheten. Loven verner naturen, som endelig vinner i møte med kortsiktige økonomiske interesser."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Vi har sluttet å basere samfunnet på fossil energi, og eksporterer heller ikke klimagassutslipp gjennom salg av olje og gass. Internasjonalt viser Norge vei gjennom at kraft, kapital og kompetanse går til næringer som øker livskvaliteten, kutter utslipp og styrker naturen. Dette er vårt viktigste bidrag til langsiktig fred._"
+      "text": "Vi har sluttet å basere samfunnet på fossil energi, og eksporterer heller ikke klimagassutslipp gjennom salg av olje og gass. Internasjonalt viser Norge vei gjennom at kraft, kapital og kompetanse går til næringer som øker livskvaliteten, kutter utslipp og styrker naturen. Dette er vårt viktigste bidrag til langsiktig fred."
     },
     { "type": "empty", "original": "" },
     {
-      "type": "unknown",
-      "original": "## _Dette er en arv vi er stolte av å gi videre til våre barn._"
+      "type": "paragraph",
+      "text": "Dette er en arv vi er stolte av å gi videre til våre barn."
     },
-    { "type": "empty", "original": "" },
-    { "type": "empty", "original": "###" },
     { "type": "empty", "original": "" },
     {
       "type": "headline",
@@ -485,7 +475,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "Klimakrisen er vår tids største urettferdighet. Det er de som har minst som rammes hardest \\- både i Norge og i verden, mens de rikeste forurenser og forbruker mest. De unges muligheter til frihet og velferd blir dårligere for hver dag som går. Politikerne her og nå har ansvaret for å handle. Det ansvaret kan ikke overlates til noen andre, til en annen tid, et annet sted."
+      "text": "Klimakrisen er vår tids største urettferdighet. Det er de som har minst som rammes hardest - både i Norge og i verden, mens de rikeste forurenser og forbruker mest. De unges muligheter til frihet og velferd blir dårligere for hver dag som går. Politikerne her og nå har ansvaret for å handle. Det ansvaret kan ikke overlates til noen andre, til en annen tid, et annet sted."
     },
     { "type": "empty", "original": "" },
     {
@@ -566,13 +556,13 @@
     {
       "type": "proposalsStart",
       "sectionId": "1",
-      "original": "**1\\. VÅRE LØSNINGER**"
+      "original": "**1. VÅRE LØSNINGER**"
     },
     { "type": "empty", "original": "" },
     {
       "type": "section",
       "sectionId": "1.1",
-      "title": "KLIMA** {#1.1-klima}",
+      "title": "KLIMA",
       "original": "## **1.1 KLIMA** {#1.1-klima}"
     },
     { "type": "empty", "original": "" },
@@ -643,8 +633,8 @@
     {
       "type": "numberedItem",
       "itemId": "9",
-      "text": "### Utrede et forbrukervennlig og bredt tilgjengelig system for karbonmerking av alle produkter (varer og tjenester) og deres frakt. Og at Norge skal være en pådriver for felles europeiske standarder for karbonmerking.",
-      "original": "9. ### Utrede et forbrukervennlig og bredt tilgjengelig system for karbonmerking av alle produkter (varer og tjenester) og deres frakt. Og at Norge skal være en pådriver for felles europeiske standarder for karbonmerking."
+      "text": "Utrede et forbrukervennlig og bredt tilgjengelig system for karbonmerking av alle produkter (varer og tjenester) og deres frakt. Og at Norge skal være en pådriver for felles europeiske standarder for karbonmerking.",
+      "original": "9. Utrede et forbrukervennlig og bredt tilgjengelig system for karbonmerking av alle produkter (varer og tjenester) og deres frakt. Og at Norge skal være en pådriver for felles europeiske standarder for karbonmerking."
     },
     { "type": "empty", "original": "" },
     {
@@ -697,15 +687,15 @@
     {
       "type": "numberedItem",
       "itemId": "15",
-      "text": "Olje og gass (11,5 millioner tonn CO2e i 2023): Utarbeide en plan for sluttfasen av norsk olje og gass, der de mest utslippsintensive feltene fases ut først. Kraft fra land skal brukes til bærekraftig industri fremfor elektrifisering av sokkelen (_se eget kapittel_).",
-      "original": "15. Olje og gass (11,5 millioner tonn CO2e i 2023): Utarbeide en plan for sluttfasen av norsk olje og gass, der de mest utslippsintensive feltene fases ut først. Kraft fra land skal brukes til bærekraftig industri fremfor elektrifisering av sokkelen (_se eget kapittel_)."
+      "text": "Olje og gass (11,5 millioner tonn CO2e i 2023): Utarbeide en plan for sluttfasen av norsk olje og gass, der de mest utslippsintensive feltene fases ut først. Kraft fra land skal brukes til bærekraftig industri fremfor elektrifisering av sokkelen (se eget kapittel).",
+      "original": "15. Olje og gass (11,5 millioner tonn CO2e i 2023): Utarbeide en plan for sluttfasen av norsk olje og gass, der de mest utslippsintensive feltene fases ut først. Kraft fra land skal brukes til bærekraftig industri fremfor elektrifisering av sokkelen (se eget kapittel)."
     },
     { "type": "empty", "original": "" },
     {
       "type": "numberedItem",
       "itemId": "16",
-      "text": "Industri og bergverk: Fjerne alle punktutslipp og sikre at industrien samlet sett når netto null innen 2040 og bidrar med negative utslipp innen 2045\\. Vi skal sikre forutsigbarhet og langsiktighet gjennom krav og avgifter, støtteordninger og risikoavlastning, samt insentiver til karbonfjerning.",
-      "original": "16. Industri og bergverk: Fjerne alle punktutslipp og sikre at industrien samlet sett når netto null innen 2040 og bidrar med negative utslipp innen 2045\\. Vi skal sikre forutsigbarhet og langsiktighet gjennom krav og avgifter, støtteordninger og risikoavlastning, samt insentiver til karbonfjerning."
+      "text": "Industri og bergverk: Fjerne alle punktutslipp og sikre at industrien samlet sett når netto null innen 2040 og bidrar med negative utslipp innen 2045. Vi skal sikre forutsigbarhet og langsiktighet gjennom krav og avgifter, støtteordninger og risikoavlastning, samt insentiver til karbonfjerning.",
+      "original": "16. Industri og bergverk: Fjerne alle punktutslipp og sikre at industrien samlet sett når netto null innen 2040 og bidrar med negative utslipp innen 2045. Vi skal sikre forutsigbarhet og langsiktighet gjennom krav og avgifter, støtteordninger og risikoavlastning, samt insentiver til karbonfjerning."
     },
     { "type": "empty", "original": "" },
     {
@@ -743,12 +733,10 @@
       "original": "21. Forby all bruk av privatfly som ikke er enten utslippsfrie, hobbyfly, sportsfly, eller brukes av sikkerhetsmessige årsaker."
     },
     { "type": "empty", "original": "" },
-    { "type": "empty", "original": "##" },
-    { "type": "empty", "original": "" },
     {
       "type": "section",
       "sectionId": "1.2",
-      "title": "NATUREN PÅ LAND** {#1.2-naturen-på-land}",
+      "title": "NATUREN PÅ LAND",
       "original": "## **1.2 NATUREN PÅ LAND** {#1.2-naturen-på-land}"
     },
     { "type": "empty", "original": "" },
@@ -785,8 +773,8 @@
     {
       "type": "numberedItem",
       "itemId": "5",
-      "text": "Sikre at allemannsretten holdes i hevd, men åpne for regulering av ferdsel i særlig utsatte og belastede naturområder, slik at naturverdiene og besøkendes sikkerhet ivaretas.‬",
-      "original": "5. Sikre at allemannsretten holdes i hevd, men åpne for regulering av ferdsel i særlig utsatte og belastede naturområder, slik at naturverdiene og besøkendes sikkerhet ivaretas.‬"
+      "text": "Sikre at allemannsretten holdes i hevd, men åpne for regulering av ferdsel i særlig utsatte og belastede naturområder, slik at naturverdiene og besøkendes sikkerhet ivaretas.",
+      "original": "5. Sikre at allemannsretten holdes i hevd, men åpne for regulering av ferdsel i særlig utsatte og belastede naturområder, slik at naturverdiene og besøkendes sikkerhet ivaretas."
     },
     { "type": "empty", "original": "" },
     {
@@ -834,8 +822,8 @@
     {
       "type": "numberedItem",
       "itemId": "12",
-      "text": "Revidere plan- og bygningsloven med utgangspunkt i arealnøytralitet, ‭naturrestaurering og naturmangfoldsloven. Loven skal forvaltes av Klima- og miljødepartementet.",
-      "original": "12. Revidere plan- og bygningsloven med utgangspunkt i arealnøytralitet, ‭naturrestaurering og naturmangfoldsloven. Loven skal forvaltes av Klima- og miljødepartementet."
+      "text": "Revidere plan- og bygningsloven med utgangspunkt i arealnøytralitet, naturrestaurering og naturmangfoldsloven. Loven skal forvaltes av Klima- og miljødepartementet.",
+      "original": "12. Revidere plan- og bygningsloven med utgangspunkt i arealnøytralitet, naturrestaurering og naturmangfoldsloven. Loven skal forvaltes av Klima- og miljødepartementet."
     },
     { "type": "empty", "original": "" },
     {
@@ -890,7 +878,7 @@
     {
       "type": "section",
       "sectionId": "1.3",
-      "title": "HAV, FJORDER OG VASSDRAG** {#1.3-hav,-fjorder-og-vassdrag}",
+      "title": "HAV, FJORDER OG VASSDRAG",
       "original": "## **1.3 HAV, FJORDER OG VASSDRAG** {#1.3-hav,-fjorder-og-vassdrag}"
     },
     { "type": "empty", "original": "" },
@@ -997,7 +985,7 @@
     {
       "type": "section",
       "sectionId": "1.4",
-      "title": "MILJØGIFTER OG FORURENSING** {#1.4-miljøgifter-og-forurensing}",
+      "title": "MILJØGIFTER OG FORURENSING",
       "original": "## **1.4 MILJØGIFTER OG FORURENSING** {#1.4-miljøgifter-og-forurensing}"
     },
     { "type": "empty", "original": "" },
@@ -1034,8 +1022,8 @@
     {
       "type": "numberedItem",
       "itemId": "5",
-      "text": "Kartlegge omfanget av import, omsetning, bruk og avfallshåndtering knyttet til «evighetskjemikalier» som PFAS i Norge, avbøte skadene, og kompensere dokumenterbare helse- og miljøskader fra tidligere bruk og omsetning av slike stoffer.",
-      "original": "5. Kartlegge omfanget av import, omsetning, bruk og avfallshåndtering knyttet til «evighetskjemikalier» som PFAS i Norge, avbøte skadene, og kompensere dokumenterbare helse- og miljøskader fra tidligere bruk og omsetning av slike stoffer."
+      "text": "Kartlegge omfanget av import, omsetning, bruk og avfallshåndtering knyttet til “evighetskjemikalier” som PFAS i Norge, avbøte skadene, og kompensere dokumenterbare helse- og miljøskader fra tidligere bruk og omsetning av slike stoffer.",
+      "original": "5. Kartlegge omfanget av import, omsetning, bruk og avfallshåndtering knyttet til “evighetskjemikalier” som PFAS i Norge, avbøte skadene, og kompensere dokumenterbare helse- og miljøskader fra tidligere bruk og omsetning av slike stoffer."
     },
     { "type": "empty", "original": "" },
     {
@@ -1076,7 +1064,7 @@
     {
       "type": "section",
       "sectionId": "1.5",
-      "title": "PLAST** {#1.5-plast}",
+      "title": "PLAST",
       "original": "## **1.5 PLAST** {#1.5-plast}"
     },
     { "type": "empty", "original": "" },
@@ -1169,7 +1157,7 @@
     {
       "type": "section",
       "sectionId": "1.6",
-      "title": "ANNET AVFALL** {#1.6-annet-avfall}",
+      "title": "ANNET AVFALL",
       "original": "## **1.6 ANNET AVFALL** {#1.6-annet-avfall}"
     },
     { "type": "empty", "original": "" },
@@ -1234,7 +1222,7 @@
     {
       "type": "section",
       "sectionId": "1.7",
-      "title": "DYREVERN OG DYREVELFERD** {#1.7-dyrevern-og-dyrevelferd}",
+      "title": "DYREVERN OG DYREVELFERD",
       "original": "## **1.7 DYREVERN OG DYREVELFERD** {#1.7-dyrevern-og-dyrevelferd}"
     },
     { "type": "empty", "original": "" },
@@ -1250,8 +1238,8 @@
     {
       "type": "numberedItem",
       "itemId": "2",
-      "text": "Forebygge dyretragedier og dårlig dyrevelferd ved å øke ressursene til tilsyn med dyrehold og opprette et eget Dyretilsyn under Klima- og miljødepartementet.",
-      "original": "2. Forebygge dyretragedier og dårlig dyrevelferd ved å øke ressursene til tilsyn med dyrehold og opprette et eget Dyretilsyn under Klima- og miljødepartementet."
+      "text": "Forebygge dyretragedier og dårlig dyrevelferd ved å øke ressursene til tilsyn med dyrehold og opprette et eget Dyretilsyn under Klima- og miljødepartementet.",
+      "original": "2. Forebygge dyretragedier og dårlig dyrevelferd ved å øke ressursene til tilsyn med dyrehold og opprette et eget Dyretilsyn under Klima- og miljødepartementet."
     },
     { "type": "empty", "original": "" },
     {
@@ -1320,8 +1308,8 @@
     {
       "type": "numberedItem",
       "itemId": "12",
-      "text": "Øke statlig investeringsstøtte til små og mellomstore fjøs som må ombygges i tråd med løsdriftskravet innen 2034\\.",
-      "original": "12. Øke statlig investeringsstøtte til små og mellomstore fjøs som må ombygges i tråd med løsdriftskravet innen 2034\\."
+      "text": "Øke statlig investeringsstøtte til små og mellomstore fjøs som må ombygges i tråd med løsdriftskravet innen 2034.",
+      "original": "12. Øke statlig investeringsstøtte til små og mellomstore fjøs som må ombygges i tråd med løsdriftskravet innen 2034."
     },
     { "type": "empty", "original": "" },
     {
@@ -1425,7 +1413,7 @@
     {
       "type": "section",
       "sectionId": "1.8",
-      "title": "ENERGI** {#1.8-energi}",
+      "title": "ENERGI",
       "original": "## **1.8 ENERGI** {#1.8-energi}"
     },
     { "type": "empty", "original": "" },
@@ -1441,8 +1429,8 @@
     {
       "type": "numberedItem",
       "itemId": "2",
-      "text": "Ha et nasjonalt mål om å redusere energiforbruket i norske bygg til maksimalt 56 TWh elforbruk og 69 TWh energiforbruk innen 2030\\. For å få til dette vil vi innføre strengere krav, gi tilbud om mer statlig energiveiledning og sørge for at både det offentlige og private kan få tilskudd til tiltak som sparer energi eller nettkapasitet.",
-      "original": "2. Ha et nasjonalt mål om å redusere energiforbruket i norske bygg til maksimalt 56 TWh elforbruk og 69 TWh energiforbruk innen 2030\\. For å få til dette vil vi innføre strengere krav, gi tilbud om mer statlig energiveiledning og sørge for at både det offentlige og private kan få tilskudd til tiltak som sparer energi eller nettkapasitet."
+      "text": "Ha et nasjonalt mål om å redusere energiforbruket i norske bygg til maksimalt 56 TWh elforbruk og 69 TWh energiforbruk innen 2030. For å få til dette vil vi innføre strengere krav, gi tilbud om mer statlig energiveiledning og sørge for at både det offentlige og private kan få tilskudd til tiltak som sparer energi eller nettkapasitet.",
+      "original": "2. Ha et nasjonalt mål om å redusere energiforbruket i norske bygg til maksimalt 56 TWh elforbruk og 69 TWh energiforbruk innen 2030. For å få til dette vil vi innføre strengere krav, gi tilbud om mer statlig energiveiledning og sørge for at både det offentlige og private kan få tilskudd til tiltak som sparer energi eller nettkapasitet."
     },
     { "type": "empty", "original": "" },
     {
@@ -1606,13 +1594,11 @@
       "original": "25. Innføre en garantert minstepris for husholdninger som selger overskuddsstrøm f.eks fra egne batterier og solceller."
     },
     { "type": "empty", "original": "" },
-    { "type": "empty", "original": "#" },
-    { "type": "empty", "original": "" },
     {
       "type": "chapter",
       "chapterId": "2",
       "title": "VELFERD HELE LIVET",
-      "original": "# **2\\. VELFERD HELE LIVET** {#2.-velferd-hele-livet}"
+      "original": "# **2. VELFERD HELE LIVET** {#2.-velferd-hele-livet}"
     },
     { "type": "empty", "original": "" },
     {
@@ -1621,29 +1607,25 @@
       "original": "### VISJON 2045"
     },
     { "type": "empty", "original": "" },
-    { "type": "paragraph", "text": "---" },
-    { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Se for deg dager med god tid. Fuglekvitter når du våkner. Utenfor vinduet ser du noen nabobarn sjekke hvilke bær som er modne i felleshagen. En annen kjeder seg og er på vei mot et tre å klatre opp i. En dame med rullator triller forbi, her går hele nabolagets oldemor litt forsiktig mot innbyggertorget. Du smiler, klar for å dele ideer og prate med andre på torget._"
+      "text": "Se for deg dager med god tid. Fuglekvitter når du våkner. Utenfor vinduet ser du noen nabobarn sjekke hvilke bær som er modne i felleshagen. En annen kjeder seg og er på vei mot et tre å klatre opp i. En dame med rullator triller forbi, her går hele nabolagets oldemor litt forsiktig mot innbyggertorget. Du smiler, klar for å dele ideer og prate med andre på torget."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Vi mennesker vokser og hviler og lever i naturens rytmer. Gjennom livet veksler behovene for å gi og ta imot. Alle trenger vi andre, og alle har vi noe å bidra med. Framtidas bærekraftige velferdssamfunn er et økosystem der livet utspiller seg i samspill med andre liv, og alle får delta likeverdig. De Grønne vil bygge et samfunn der folk har bedre tid og blir mindre ensomme, der overskuddet deles likere mellom oss, og vi lettere kan finne kortreiste gleder og trygge fellesskap._"
+      "text": "Vi mennesker vokser og hviler og lever i naturens rytmer. Gjennom livet veksler behovene for å gi og ta imot. Alle trenger vi andre, og alle har vi noe å bidra med. Framtidas bærekraftige velferdssamfunn er et økosystem der livet utspiller seg i samspill med andre liv, og alle får delta likeverdig. De Grønne vil bygge et samfunn der folk har bedre tid og blir mindre ensomme, der overskuddet deles likere mellom oss, og vi lettere kan finne kortreiste gleder og trygge fellesskap."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Barna har en trygg og leken oppvekst, i kontakt med det som vokser og gror. De vokser opp i et samfunn som gir dem rom til å utforske, undre seg og leke fritt. De leker og lærer mer ute i naturen, der barnas naturlige nysgjerrighet kan boltre seg. Det er mulig fordi stedene vi bor er mer kompakte, menneskevennlige og naturvennlige. Foreldre kan ha lave skuldre og la barna leke trygt i gata. Mindre skjermtid og mer varierte skoledager åpner for skaperglede, utforskning og samspill. Når barn får være barn, kan friheten og empatien deres inspirere oss alle._"
+      "text": "Barna har en trygg og leken oppvekst, i kontakt med det som vokser og gror. De vokser opp i et samfunn som gir dem rom til å utforske, undre seg og leke fritt. De leker og lærer mer ute i naturen, der barnas naturlige nysgjerrighet kan boltre seg. Det er mulig fordi stedene vi bor er mer kompakte, menneskevennlige og naturvennlige. Foreldre kan ha lave skuldre og la barna leke trygt i gata. Mindre skjermtid og mer varierte skoledager åpner for skaperglede, utforskning og samspill. Når barn får være barn, kan friheten og empatien deres inspirere oss alle."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_I den framtida vi ser for oss blir ungdommen hørt og tatt på alvor, og opplever at samfunnet trenger dem. Eldre opplever at deres kompetanse kommer samfunnet til gode. Grunnleggende økonomisk trygghet gjør at vi kan senke skuldrene, være kreative og tenke langsiktig. Samfunnet mobiliserer rundt deg den dagen en livskrise rammer. Kortere arbeidsdager gir tid til omsorg og lek for alle aldre. I en grønnere framtid har vi muligheten til å bo mer sosialt, livet ut, og kan sammen dyrke hager, meningsfulle hverdager, fellesskap og gode nærmiljøer._"
+      "text": "I den framtida vi ser for oss blir ungdommen hørt og tatt på alvor, og opplever at samfunnet trenger dem. Eldre opplever at deres kompetanse kommer samfunnet til gode. Grunnleggende økonomisk trygghet gjør at vi kan senke skuldrene, være kreative og tenke langsiktig. Samfunnet mobiliserer rundt deg den dagen en livskrise rammer. Kortere arbeidsdager gir tid til omsorg og lek for alle aldre. I en grønnere framtid har vi muligheten til å bo mer sosialt, livet ut, og kan sammen dyrke hager, meningsfulle hverdager, fellesskap og gode nærmiljøer."
     },
-    { "type": "empty", "original": "" },
-    { "type": "paragraph", "text": "---" },
     { "type": "empty", "original": "" },
     {
       "type": "headline",
@@ -1695,8 +1677,6 @@
       "text": "Grønn boligpolitikk handler om å sikre alle tilgang på en rimelig bolig det er godt å bo i, med lavt miljøavtrykk, og å gi rom for fellesskap og samspill. De Grønne vil bruke arkitektur for å utvikle gode steder der vi kan bruke mindre plass og energi, ha god universell utforming og bo mer sosialt. Vi vil gjenreise den sosiale boligpolitikken."
     },
     { "type": "empty", "original": "" },
-    { "type": "empty", "original": "###" },
-    { "type": "empty", "original": "" },
     {
       "type": "paragraph",
       "text": "Arbeid er en av de viktigste nøklene til verdiskapning og inntekt, inkludering, helse og mening i vårt samfunn, så det er et mål at flest mulig skal ha lønnet arbeid og trives i jobben sin. De Grønne vil verne om grunnleggende rettigheter i arbeidslivet, som fast ansettelse og innflytelse over egne arbeidsvilkår. Vi vil legge til rette for høy organisasjonsgrad, en sterk arbeidsmiljølov og godt samarbeid mellom partene i arbeidslivet og staten. Arbeidslivssamarbeidet bygger på og skaper gjensidig tillit, og bidrar til at vi har produktive og innovative bedrifter som ivaretar sitt samfunnsansvar. Det er særlig viktig når norsk arbeidsliv skal omstille seg ut av oljealderen og ny teknologi gjør at mange arbeidsoppgaver blir utført på nye måter. I et arbeidsliv som endres stadig raskere og skal gjennom en stor omstilling, blir det viktig å gjøre det lettere å kombinere arbeid og andre aktiviteter, som utdannelse, i alle faser av livet. Arbeidslivet skal være raust ved å ha plass til kronisk syke, uføre og funksjonshemmede, det forutsetter et trygt sikkerhetsnett, tilrettelegging, vern mot diskriminering, at man ser folk for hva de kan og bekjemper fordommer."
@@ -1723,7 +1703,7 @@
     {
       "type": "section",
       "sectionId": "2.1.1",
-      "title": "FORDELING OG FATTIGDOMSBEKJEMPELSE** {#2.1.1-fordeling-og-fattigdomsbekjempelse}",
+      "title": "FORDELING OG FATTIGDOMSBEKJEMPELSE",
       "original": "## **2.1.1 FORDELING OG FATTIGDOMSBEKJEMPELSE** {#2.1.1-fordeling-og-fattigdomsbekjempelse}"
     },
     { "type": "empty", "original": "" },
@@ -1840,12 +1820,10 @@
       "original": "16. På sikt jobbe for en universell grunninntekt så alle får dekket grunnleggende behov."
     },
     { "type": "empty", "original": "" },
-    { "type": "empty", "original": "##" },
-    { "type": "empty", "original": "" },
     {
       "type": "section",
       "sectionId": "2.1.2",
-      "title": "FOREBYGGE UNGT UTENFORSKAP** {#2.1.2-forebygge-ungt-utenforskap}",
+      "title": "FOREBYGGE UNGT UTENFORSKAP",
       "original": "## **2.1.2 FOREBYGGE UNGT UTENFORSKAP** {#2.1.2-forebygge-ungt-utenforskap}"
     },
     { "type": "empty", "original": "" },
@@ -1917,7 +1895,7 @@
     {
       "type": "section",
       "sectionId": "2.1.3",
-      "title": "ARBEIDSLIV OG ARBEIDSINKLUDERING** {#2.1.3-arbeidsliv-og-arbeidsinkludering}",
+      "title": "ARBEIDSLIV OG ARBEIDSINKLUDERING",
       "original": "## **2.1.3 ARBEIDSLIV OG ARBEIDSINKLUDERING** {#2.1.3-arbeidsliv-og-arbeidsinkludering}"
     },
     { "type": "empty", "original": "" },
@@ -2080,7 +2058,7 @@
     {
       "type": "section",
       "sectionId": "2.1.4",
-      "title": "BOLIGPOLITIKK** {#2.1.4-boligpolitikk}",
+      "title": "BOLIGPOLITIKK",
       "original": "## **2.1.4 BOLIGPOLITIKK** {#2.1.4-boligpolitikk}"
     },
     { "type": "empty", "original": "" },
@@ -2166,7 +2144,7 @@
     {
       "type": "section",
       "sectionId": "2.1.5",
-      "title": "SENIORPOLITIKK** {#2.1.5-seniorpolitikk}",
+      "title": "SENIORPOLITIKK",
       "original": "## **2.1.5 SENIORPOLITIKK** {#2.1.5-seniorpolitikk}"
     },
     { "type": "empty", "original": "" },
@@ -2302,7 +2280,7 @@
     {
       "type": "section",
       "sectionId": "2.2.1",
-      "title": "GOD BARNDOM OG FAMILIELIV** {#2.2.1-god-barndom-og-familieliv}",
+      "title": "GOD BARNDOM OG FAMILIELIV",
       "original": "## **2.2.1 GOD BARNDOM OG FAMILIELIV** {#2.2.1-god-barndom-og-familieliv}"
     },
     { "type": "empty", "original": "" },
@@ -2338,7 +2316,7 @@
     {
       "type": "headline",
       "title": "EN GOD START FOR FAMILIEN",
-      "original": "   ### EN GOD START FOR FAMILIEN"
+      "original": "### EN GOD START FOR FAMILIEN"
     },
     { "type": "empty", "original": "" },
     {
@@ -2386,7 +2364,7 @@
     {
       "type": "headline",
       "title": "STØTTE TIL BARN OG FORELDRE MED FUNKSJONSHINDRINGER",
-      "original": "   ### STØTTE TIL BARN OG FORELDRE MED FUNKSJONSHINDRINGER"
+      "original": "### STØTTE TIL BARN OG FORELDRE MED FUNKSJONSHINDRINGER"
     },
     { "type": "empty", "original": "" },
     {
@@ -2406,14 +2384,14 @@
     {
       "type": "numberedItem",
       "itemId": "12",
-      "text": "_Sikre kunnskap og kompetanse om funksjonsnedsettelser, nevromangfold, tegnspråk og alternativ og supplerende kommunikasjon (ASK) i pedagogiske, helse- og sosialfaglige utdanninger._",
-      "original": "12. _Sikre kunnskap og kompetanse om funksjonsnedsettelser, nevromangfold, tegnspråk og alternativ og supplerende kommunikasjon (ASK) i pedagogiske, helse- og sosialfaglige utdanninger._"
+      "text": "Sikre kunnskap og kompetanse om funksjonsnedsettelser, nevromangfold, tegnspråk og alternativ og supplerende kommunikasjon (ASK) i pedagogiske, helse- og sosialfaglige utdanninger.",
+      "original": "12. Sikre kunnskap og kompetanse om funksjonsnedsettelser, nevromangfold, tegnspråk og alternativ og supplerende kommunikasjon (ASK) i pedagogiske, helse- og sosialfaglige utdanninger."
     },
     { "type": "empty", "original": "" },
     {
       "type": "section",
       "sectionId": "2.2.2",
-      "title": "BARNEVERN OG FAMILIEVERN** {#2.2.2-barnevern-og-familievern}",
+      "title": "BARNEVERN OG FAMILIEVERN",
       "original": "## **2.2.2 BARNEVERN OG FAMILIEVERN** {#2.2.2-barnevern-og-familievern}"
     },
     { "type": "empty", "original": "" },
@@ -2485,8 +2463,8 @@
     {
       "type": "numberedItem",
       "itemId": "10",
-      "text": "Gi personer under 18 år som har rusproblemer, lik rett til behandling i spesialisthelsetjenesten som de over 18\\.",
-      "original": "10. Gi personer under 18 år som har rusproblemer, lik rett til behandling i spesialisthelsetjenesten som de over 18\\."
+      "text": "Gi personer under 18 år som har rusproblemer, lik rett til behandling i spesialisthelsetjenesten som de over 18.",
+      "original": "10. Gi personer under 18 år som har rusproblemer, lik rett til behandling i spesialisthelsetjenesten som de over 18."
     },
     { "type": "empty", "original": "" },
     {
@@ -2520,7 +2498,7 @@
     {
       "type": "section",
       "sectionId": "2.2.3",
-      "title": "BARNEHAGE** {#2.2.3-barnehage}",
+      "title": "BARNEHAGE",
       "original": "## **2.2.3 BARNEHAGE** {#2.2.3-barnehage}"
     },
     { "type": "empty", "original": "" },
@@ -2563,7 +2541,7 @@
     {
       "type": "headline",
       "title": "LEK, TRYGGHET OG STØTTE FOR ALLE SLAGS BARN",
-      "original": "   ### LEK, TRYGGHET OG STØTTE FOR ALLE SLAGS BARN"
+      "original": "### LEK, TRYGGHET OG STØTTE FOR ALLE SLAGS BARN"
     },
     { "type": "empty", "original": "" },
     {
@@ -2604,7 +2582,7 @@
     {
       "type": "section",
       "sectionId": "2.2.4",
-      "title": "SKOLE OG OPPLÆRING** {#2.2.4-skole-og-opplæring}",
+      "title": "SKOLE OG OPPLÆRING",
       "original": "## **2.2.4 SKOLE OG OPPLÆRING** {#2.2.4-skole-og-opplæring}"
     },
     { "type": "empty", "original": "" },
@@ -2672,12 +2650,10 @@
       "original": "8. Innføre nasjonale regler som sikrer en mobilfri skole. Slike regler må ha unntak som sikrer lærernes metodefrihet og elevenes behov for hjelpemidler."
     },
     { "type": "empty", "original": "" },
-    { "type": "empty", "original": "   ###" },
-    { "type": "empty", "original": "" },
     {
       "type": "headline",
       "title": "EN SKOLE SOM ROMMER ALLE ELEVER",
-      "original": "   ### EN SKOLE SOM ROMMER ALLE ELEVER"
+      "original": "### EN SKOLE SOM ROMMER ALLE ELEVER"
     },
     { "type": "empty", "original": "" },
     {
@@ -2795,7 +2771,7 @@
     {
       "type": "headline",
       "title": "BARNE- OG UNGDOMSSKOLE",
-      "original": "    ### BARNE- OG UNGDOMSSKOLE"
+      "original": "### BARNE- OG UNGDOMSSKOLE"
     },
     { "type": "empty", "original": "" },
     {
@@ -2860,12 +2836,10 @@
       "original": "33. Innføre prøveprosjekter med skolestart senere på dagen i ungdomsskolen, etter modell fra Danmark. Innføre prøveprosjekter med skolestart senere på dagen i ungdomsskolen, etter modell fra Danmark."
     },
     { "type": "empty", "original": "" },
-    { "type": "empty", "original": "    ###" },
-    { "type": "empty", "original": "" },
     {
       "type": "headline",
       "title": "VIDEREGÅENDE OPPLÆRING OG FOLKEHØYSKOLE",
-      "original": "    ### VIDEREGÅENDE OPPLÆRING OG FOLKEHØYSKOLE"
+      "original": "### VIDEREGÅENDE OPPLÆRING OG FOLKEHØYSKOLE"
     },
     { "type": "empty", "original": "" },
     {
@@ -2947,7 +2921,7 @@
     {
       "type": "section",
       "sectionId": "2.2.5",
-      "title": "HØYERE UTDANNING OG STUDENTER** {#2.2.5-høyere-utdanning-og-studenter}",
+      "title": "HØYERE UTDANNING OG STUDENTER",
       "original": "## **2.2.5 HØYERE UTDANNING OG STUDENTER** {#2.2.5-høyere-utdanning-og-studenter}"
     },
     { "type": "empty", "original": "" },
@@ -3054,7 +3028,7 @@
     {
       "type": "section",
       "sectionId": "2.2.6",
-      "title": "FORSKNING** {#2.2.6-forskning}",
+      "title": "FORSKNING",
       "original": "## **2.2.6 FORSKNING** {#2.2.6-forskning}"
     },
     { "type": "empty", "original": "" },
@@ -3069,8 +3043,8 @@
     {
       "type": "numberedItem",
       "itemId": "1",
-      "text": "Sikre at Norge øker forskningsinnsatsen til 3% av BNP innen 2030 og at det utarbeides en opptrappings­plan frem mot målet der det offentliges andel av innsatsen utgjør 50 %.",
-      "original": "1. Sikre at Norge øker forskningsinnsatsen til 3% av BNP innen 2030 og at det utarbeides en opptrappings­plan frem mot målet der det offentliges andel av innsatsen utgjør 50 %."
+      "text": "Sikre at Norge øker forskningsinnsatsen til 3% av BNP innen 2030 og at det utarbeides en opptrappingsplan frem mot målet der det offentliges andel av innsatsen utgjør 50 %.",
+      "original": "1. Sikre at Norge øker forskningsinnsatsen til 3% av BNP innen 2030 og at det utarbeides en opptrappingsplan frem mot målet der det offentliges andel av innsatsen utgjør 50 %."
     },
     { "type": "empty", "original": "" },
     {
@@ -3118,7 +3092,7 @@
     {
       "type": "headline",
       "title": "REKRUTTERING",
-      "original": "   ### REKRUTTERING"
+      "original": "### REKRUTTERING"
     },
     { "type": "empty", "original": "" },
     {
@@ -3152,7 +3126,7 @@
     {
       "type": "headline",
       "title": "INTERNASJONALISERING",
-      "original": "    ### INTERNASJONALISERING"
+      "original": "### INTERNASJONALISERING"
     },
     { "type": "empty", "original": "" },
     {
@@ -3196,7 +3170,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "Ren luft, rent vann, og mat fra levende hav og jord er også grunnleggende forutsetninger for god helse og gode liv. Den største trusselen mot lange og gode liv i framtida er natur- og klimakrisen og forurensning. God miljøpolitikk er også god helsepolitikk. God samfunnsplanlegging er vesentlig for at folk kan drive med det som gjør dem godt på lang sikt \\- det som gir mening, mestring og fellesskap, og styrker både fysisk og psykisk helse, ja, hele mennesket."
+      "text": "Ren luft, rent vann, og mat fra levende hav og jord er også grunnleggende forutsetninger for god helse og gode liv. Den største trusselen mot lange og gode liv i framtida er natur- og klimakrisen og forurensning. God miljøpolitikk er også god helsepolitikk. God samfunnsplanlegging er vesentlig for at folk kan drive med det som gjør dem godt på lang sikt - det som gir mening, mestring og fellesskap, og styrker både fysisk og psykisk helse, ja, hele mennesket."
     },
     { "type": "empty", "original": "" },
     {
@@ -3212,7 +3186,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "Tilliten til fagfolkene må gjenreises. Vi vil ha en tillitsreform som gir helse- og sosialarbeidere mer handlefrihet og rom for faglig skjønn i arbeidet. Da må mindre tid gå til rapportering og kontroll. Vi må også jobbe systematisk for å rekruttere og beholde fagfolk innenfor helse og omsorg, gjennom gode arbeidsforhold for helsepersonell. De Grønne mener samtidig at vi må frigjøre folks tid til hverandre, og gjøre det lettere å ha tid og finne arenaer for gjensidig støtte i lokalsamfunn, nabolag, blant venner og familie \\- for å sikre alle omsorg når vi trenger det som mest."
+      "text": "Tilliten til fagfolkene må gjenreises. Vi vil ha en tillitsreform som gir helse- og sosialarbeidere mer handlefrihet og rom for faglig skjønn i arbeidet. Da må mindre tid gå til rapportering og kontroll. Vi må også jobbe systematisk for å rekruttere og beholde fagfolk innenfor helse og omsorg, gjennom gode arbeidsforhold for helsepersonell. De Grønne mener samtidig at vi må frigjøre folks tid til hverandre, og gjøre det lettere å ha tid og finne arenaer for gjensidig støtte i lokalsamfunn, nabolag, blant venner og familie - for å sikre alle omsorg når vi trenger det som mest."
     },
     { "type": "empty", "original": "" },
     {
@@ -3256,7 +3230,7 @@
     {
       "type": "section",
       "sectionId": "2.3.1",
-      "title": "FOLKEHELSE** {#2.3.1-folkehelse}",
+      "title": "FOLKEHELSE",
       "original": "## **2.3.1 FOLKEHELSE** {#2.3.1-folkehelse}"
     },
     { "type": "empty", "original": "" },
@@ -3381,7 +3355,12 @@
       "original": "17. Sikre god legemiddelberedskap, og jobbe for mer selvforsyning i framtida."
     },
     { "type": "empty", "original": "" },
-    { "type": "unknown", "original": "**2.3.2 FØDSEL OG BARSELOMSORG**" },
+    {
+      "type": "section",
+      "sectionId": "2.3.2",
+      "title": "FØDSEL OG BARSELOMSORG",
+      "original": "## **2.3.2 FØDSEL OG BARSELOMSORG** {#2.3.2-fødsel-og-barselomsorg}"
+    },
     { "type": "empty", "original": "" },
     {
       "type": "numberedItem",
@@ -3435,7 +3414,7 @@
     {
       "type": "section",
       "sectionId": "2.3.3",
-      "title": "NÆRE HELSETJENESTER** {#2.3.3-nære-helsetjenester}",
+      "title": "NÆRE HELSETJENESTER",
       "original": "## **2.3.3 NÆRE HELSETJENESTER** {#2.3.3-nære-helsetjenester}"
     },
     { "type": "empty", "original": "" },
@@ -3493,8 +3472,8 @@
     {
       "type": "numberedItem",
       "itemId": "8",
-      "text": "Ordningen med livstestamente og fremtidsfullmakt skal forbedres slik at alle har enkelt tilgang til å opprette dem, og kan reservere seg mot – eller bekrefte at gjenopplivning ønskes. Ønskene skal synes i kjernejournalen i helsenorge.",
-      "original": "8. Ordningen med livstestamente og fremtidsfullmakt skal forbedres slik at alle har enkelt tilgang til å opprette dem, og kan reservere seg mot – eller bekrefte at gjenopplivning ønskes. Ønskene skal synes i kjernejournalen i helsenorge."
+      "text": "Ordningen med livstestamente og fremtidsfullmakt skal forbedres slik at alle har enkelt tilgang til å opprette dem, og kan reservere seg mot - eller bekrefte at gjenopplivning ønskes. Ønskene skal synes i kjernejournalen i helsenorge.",
+      "original": "8. Ordningen med livstestamente og fremtidsfullmakt skal forbedres slik at alle har enkelt tilgang til å opprette dem, og kan reservere seg mot - eller bekrefte at gjenopplivning ønskes. Ønskene skal synes i kjernejournalen i helsenorge."
     },
     { "type": "empty", "original": "" },
     {
@@ -3563,7 +3542,7 @@
     {
       "type": "section",
       "sectionId": "2.3.4",
-      "title": "SPESIALISTHELSETJENESTEN** {#2.3.4-spesialisthelsetjenesten}",
+      "title": "SPESIALISTHELSETJENESTEN",
       "original": "## **2.3.4 SPESIALISTHELSETJENESTEN** {#2.3.4-spesialisthelsetjenesten}"
     },
     { "type": "empty", "original": "" },
@@ -3663,7 +3642,7 @@
     {
       "type": "section",
       "sectionId": "2.3.5",
-      "title": "PSYKISK HELSE** {#2.3.5-psykisk-helse}",
+      "title": "PSYKISK HELSE",
       "original": "## **2.3.5 PSYKISK HELSE** {#2.3.5-psykisk-helse}"
     },
     { "type": "empty", "original": "" },
@@ -3749,7 +3728,7 @@
     {
       "type": "section",
       "sectionId": "2.3.6",
-      "title": "RUSPOLITIKK** {#2.3.6-ruspolitikk}",
+      "title": "RUSPOLITIKK",
       "original": "## **2.3.6 RUSPOLITIKK** {#2.3.6-ruspolitikk}"
     },
     { "type": "empty", "original": "" },
@@ -3899,7 +3878,7 @@
       "type": "chapter",
       "chapterId": "3",
       "title": "VERDISKAPING SOM VARER",
-      "original": "# **3\\. VERDISKAPING SOM VARER** {#3.-verdiskaping-som-varer}"
+      "original": "# **3. VERDISKAPING SOM VARER** {#3.-verdiskaping-som-varer}"
     },
     { "type": "empty", "original": "" },
     {
@@ -3908,31 +3887,29 @@
       "original": "### VISJON 2045"
     },
     { "type": "empty", "original": "" },
-    { "type": "paragraph", "text": "---" },
-    { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_I 2045 er Norge en levende økonomi, med vekstkraftige, nyskapende bedrifter som gjør verden bedre. Verdiskapingen gir oss gode, trygge liv innenfor naturens tålegrenser. Nye, sirkulære forretningsmodeller sørger for at vi har redusert ressursuttaket i økonomien, men økt innovasjonstakten og velferden i landet._"
+      "text": "I 2045 er Norge en levende økonomi, med vekstkraftige, nyskapende bedrifter som gjør verden bedre. Verdiskapingen gir oss gode, trygge liv innenfor naturens tålegrenser. Nye, sirkulære forretningsmodeller sørger for at vi har redusert ressursuttaket i økonomien, men økt innovasjonstakten og velferden i landet."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_De miljøvennlige løsningene er de enkleste, beste og billigste både for bedrifter og folk som handler. Vi har gått bort fra bruk-og-kast-samfunnet, og tar heller godt vare på tingene våre med skaperkraft og oppfinnsomhet. Det har endret hele industrien, og erstattet råvareuttak, avfall og forurensning med ny teknologi, ansvarlig mineralutvinning og sirkulære, industrielle prosesser som tar vare på ressursene._"
+      "text": "De miljøvennlige løsningene er de enkleste, beste og billigste både for bedrifter og folk som handler. Vi har gått bort fra bruk-og-kast-samfunnet, og tar heller godt vare på tingene våre med skaperkraft og oppfinnsomhet. Det har endret hele industrien, og erstattet råvareuttak, avfall og forurensning med ny teknologi, ansvarlig mineralutvinning og sirkulære, industrielle prosesser som tar vare på ressursene."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Norge eksporterer ikke lenger fossil energi \\- vi skaper i stedet varer og tjenester som gjør verden til et bedre sted. Kloke hoder som før jobbet i olja, har viktige roller innen drift, innovasjon og utvikling i et mangfold av andre næringer, som grønn industri, bioøkonomi, teknologibransjer, fornybar energi og mye, mye mer._"
+      "text": "Norge eksporterer ikke lenger fossil energi - vi skaper i stedet varer og tjenester som gjør verden til et bedre sted. Kloke hoder som før jobbet i olja, har viktige roller innen drift, innovasjon og utvikling i et mangfold av andre næringer, som grønn industri, bioøkonomi, teknologibransjer, fornybar energi og mye, mye mer."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Poenget er ikke at hver og en skal eie mest mulig, men at alle har tilgang til det de trenger. Deletjenester, holdbare produkter og utbredt reparasjon og gjenvinning kjennetegner samfunnet vårt. Håndverksyrkene har fått en ny vår, for samfunnet er avhengig av folk som kan reparere, ombruke og vedlikeholde det vi har._"
+      "text": "Poenget er ikke at hver og en skal eie mest mulig, men at alle har tilgang til det de trenger. Deletjenester, holdbare produkter og utbredt reparasjon og gjenvinning kjennetegner samfunnet vårt. Håndverksyrkene har fått en ny vår, for samfunnet er avhengig av folk som kan reparere, ombruke og vedlikeholde det vi har."
     },
     { "type": "empty", "original": "" },
     {
-      "type": "unknown",
-      "original": "## _Folk er nærmere maten og kjenner godt til hva den betyr for helsa vår og verden . Maten er basert på lokale ressurser, kretsløpsbaserte metoder og god dyrevelferd. Vi dyrker mer frukt, grønt og korn enn noen gang før, og er mer selvforsynte enn på lang tid. Norge har tatt tilbake rollen som foregangsland innen bærekraftig verdiskaping basert på egne naturressurser og forvalter livet i jorda, langs kysten, i skogen og på land med omsorg og respekt._"
+      "type": "paragraph",
+      "text": "Folk er nærmere maten og kjenner godt til hva den betyr for helsa vår og verden . Maten er basert på lokale ressurser, kretsløpsbaserte metoder og god dyrevelferd. Vi dyrker mer frukt, grønt og korn enn noen gang før, og er mer selvforsynte enn på lang tid. Norge har tatt tilbake rollen som foregangsland innen bærekraftig verdiskaping basert på egne naturressurser og forvalter livet i jorda, langs kysten, i skogen og på land med omsorg og respekt."
     },
     { "type": "empty", "original": "" },
     {
@@ -3985,7 +3962,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "I flere tiår har utvinning og eksport av olje og gass vært viktig for norsk økonomi, både direkte gjennom skatter og avgifter, eierskap og utbytte, og ikke minst gjennom forvaltningen av inntektene gjennom Statens pensjonsfond utland. Samtidig er eksport av petroleum Norges største bidrag til global oppvarming. I dag binder næringen opp viktige ressurser som kapital, kompetanse og kraft. De Grønne vil derfor fase ut norsk olje- og gassvirksomhet på en forutsigbar måte frem mot 2040\\."
+      "text": "I flere tiår har utvinning og eksport av olje og gass vært viktig for norsk økonomi, både direkte gjennom skatter og avgifter, eierskap og utbytte, og ikke minst gjennom forvaltningen av inntektene gjennom Statens pensjonsfond utland. Samtidig er eksport av petroleum Norges største bidrag til global oppvarming. I dag binder næringen opp viktige ressurser som kapital, kompetanse og kraft. De Grønne vil derfor fase ut norsk olje- og gassvirksomhet på en forutsigbar måte frem mot 2040."
     },
     { "type": "empty", "original": "" },
     {
@@ -4022,7 +3999,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "Målet for norsk matproduksjon må være best mulig mat, basert på våre egne naturressurser. I en verden preget av geopolitisk uro og klimaendringer, er lokal matproduksjon og \\-foredling en viktig del av vår beredskap. De Grønnes matpolitikk anerkjenner at kosthold, folkehelse og jordens helse henger sammen. Vi må ta tak i strukturene som favoriserer stordrift, og heller bruke virkemidlene slik at resultatet blir bra både for bønder, dyr, mennesker og lokalsamfunn. De Grønnes matpolitikk sikrer en god forvaltning av naturressursene, god dyrevelferd, trygg mat og at de som produserer maten vår har en lønn å leve av."
+      "text": "Målet for norsk matproduksjon må være best mulig mat, basert på våre egne naturressurser. I en verden preget av geopolitisk uro og klimaendringer, er lokal matproduksjon og -foredling en viktig del av vår beredskap. De Grønnes matpolitikk anerkjenner at kosthold, folkehelse og jordens helse henger sammen. Vi må ta tak i strukturene som favoriserer stordrift, og heller bruke virkemidlene slik at resultatet blir bra både for bønder, dyr, mennesker og lokalsamfunn. De Grønnes matpolitikk sikrer en god forvaltning av naturressursene, god dyrevelferd, trygg mat og at de som produserer maten vår har en lønn å leve av."
     },
     { "type": "empty", "original": "" },
     {
@@ -4038,13 +4015,13 @@
     {
       "type": "proposalsStart",
       "sectionId": "3",
-      "original": "**3\\. VÅRE LØSNINGER**"
+      "original": "**3. VÅRE LØSNINGER**"
     },
     { "type": "empty", "original": "" },
     {
       "type": "section",
       "sectionId": "3.1",
-      "title": "TRYGT UT AV OLJEALDEREN** {#3.1-trygt-ut-av-oljealderen}",
+      "title": "TRYGT UT AV OLJEALDEREN",
       "original": "## **3.1 TRYGT UT AV OLJEALDEREN** {#3.1-trygt-ut-av-oljealderen}"
     },
     { "type": "empty", "original": "" },
@@ -4053,8 +4030,8 @@
     {
       "type": "numberedItem",
       "itemId": "1",
-      "text": "At Stortinget skal innføre et mål om at norsk olje og gass skal avvikles innen 2040\\.",
-      "original": "1. At Stortinget skal innføre et mål om at norsk olje og gass skal avvikles innen 2040\\."
+      "text": "At Stortinget skal innføre et mål om at norsk olje og gass skal avvikles innen 2040.",
+      "original": "1. At Stortinget skal innføre et mål om at norsk olje og gass skal avvikles innen 2040."
     },
     { "type": "empty", "original": "" },
     {
@@ -4116,8 +4093,8 @@
     {
       "type": "numberedItem",
       "itemId": "10",
-      "text": "Trappe opp CO2-avgiften på utslipp fra petroleumsvirksomhet i tråd med 1,5- gradersmålet, inkludert en oppjustering også etter 2030\\.",
-      "original": "10. Trappe opp CO2-avgiften på utslipp fra petroleumsvirksomhet i tråd med 1,5- gradersmålet, inkludert en oppjustering også etter 2030\\."
+      "text": "Trappe opp CO2-avgiften på utslipp fra petroleumsvirksomhet i tråd med 1,5- gradersmålet, inkludert en oppjustering også etter 2030.",
+      "original": "10. Trappe opp CO2-avgiften på utslipp fra petroleumsvirksomhet i tråd med 1,5- gradersmålet, inkludert en oppjustering også etter 2030."
     },
     { "type": "empty", "original": "" },
     {
@@ -4144,8 +4121,8 @@
     {
       "type": "numberedItem",
       "itemId": "14",
-      "text": "Fase ut Equinors eierskap i prosjekter i olje og gass i utlandet senest innen 2028\\.",
-      "original": "14. Fase ut Equinors eierskap i prosjekter i olje og gass i utlandet senest innen 2028\\."
+      "text": "Fase ut Equinors eierskap i prosjekter i olje og gass i utlandet senest innen 2028.",
+      "original": "14. Fase ut Equinors eierskap i prosjekter i olje og gass i utlandet senest innen 2028."
     },
     { "type": "empty", "original": "" },
     {
@@ -4158,7 +4135,7 @@
     {
       "type": "section",
       "sectionId": "3.2",
-      "title": "NÆRINGSPOLITIKK FOR SIRKULÆRØKONOMI** {#3.2-næringspolitikk-for-sirkulærøkonomi}",
+      "title": "NÆRINGSPOLITIKK FOR SIRKULÆRØKONOMI",
       "original": "## **3.2 NÆRINGSPOLITIKK FOR SIRKULÆRØKONOMI** {#3.2-næringspolitikk-for-sirkulærøkonomi}"
     },
     { "type": "empty", "original": "" },
@@ -4300,8 +4277,8 @@
     {
       "type": "numberedItem",
       "itemId": "20",
-      "text": "Sikre full utfasing av torv i hagejord og dyrkingsmedier innen 2030\\.",
-      "original": "20. Sikre full utfasing av torv i hagejord og dyrkingsmedier innen 2030\\."
+      "text": "Sikre full utfasing av torv i hagejord og dyrkingsmedier innen 2030.",
+      "original": "20. Sikre full utfasing av torv i hagejord og dyrkingsmedier innen 2030."
     },
     { "type": "empty", "original": "" },
     {
@@ -4314,7 +4291,7 @@
     {
       "type": "section",
       "sectionId": "3.3",
-      "title": "GRÜNDERE OG SMÅBEDRIFTER** {#3.3-gründere-og-småbedrifter}",
+      "title": "GRÜNDERE OG SMÅBEDRIFTER",
       "original": "## **3.3 GRÜNDERE OG SMÅBEDRIFTER** {#3.3-gründere-og-småbedrifter}"
     },
     { "type": "empty", "original": "" },
@@ -4442,7 +4419,7 @@
     {
       "type": "section",
       "sectionId": "3.4",
-      "title": "EN GRØNN ØKONOMISK KURS** {#3.4-en-grønn-økonomisk-kurs}",
+      "title": "EN GRØNN ØKONOMISK KURS",
       "original": "## **3.4 EN GRØNN ØKONOMISK KURS** {#3.4-en-grønn-økonomisk-kurs}"
     },
     { "type": "empty", "original": "" },
@@ -4507,7 +4484,7 @@
     {
       "type": "section",
       "sectionId": "3.5",
-      "title": "SKATT OG AVGIFTER** {#3.5-skatt-og-avgifter}",
+      "title": "SKATT OG AVGIFTER",
       "original": "## **3.5 SKATT OG AVGIFTER** {#3.5-skatt-og-avgifter}"
     },
     { "type": "empty", "original": "" },
@@ -4621,7 +4598,7 @@
     {
       "type": "section",
       "sectionId": "3.6",
-      "title": "OFFENTLIGE INNKJØP** {#3.6-offentlige-innkjøp}",
+      "title": "OFFENTLIGE INNKJØP",
       "original": "## **3.6 OFFENTLIGE INNKJØP** {#3.6-offentlige-innkjøp}"
     },
     { "type": "empty", "original": "" },
@@ -4679,7 +4656,7 @@
     {
       "type": "section",
       "sectionId": "3.7",
-      "title": "MATSYSTEMET** {#3.7-matsystemet}",
+      "title": "MATSYSTEMET",
       "original": "## **3.7 MATSYSTEMET** {#3.7-matsystemet}"
     },
     { "type": "empty", "original": "" },
@@ -4716,8 +4693,8 @@
     {
       "type": "numberedItem",
       "itemId": "5",
-      "text": "At det offentlige bruker sin innkjøpsmakt til å velge kortreiste, sunne og økologiske matvarer. Minimum 20 prosent av innkjøp og konsum skal være økologisk norskproduserte råvarer innen 2030\\.",
-      "original": "5. At det offentlige bruker sin innkjøpsmakt til å velge kortreiste, sunne og økologiske matvarer. Minimum 20 prosent av innkjøp og konsum skal være økologisk norskproduserte råvarer innen 2030\\."
+      "text": "At det offentlige bruker sin innkjøpsmakt til å velge kortreiste, sunne og økologiske matvarer. Minimum 20 prosent av innkjøp og konsum skal være økologisk norskproduserte råvarer innen 2030.",
+      "original": "5. At det offentlige bruker sin innkjøpsmakt til å velge kortreiste, sunne og økologiske matvarer. Minimum 20 prosent av innkjøp og konsum skal være økologisk norskproduserte råvarer innen 2030."
     },
     { "type": "empty", "original": "" },
     {
@@ -4758,7 +4735,7 @@
     {
       "type": "section",
       "sectionId": "3.8",
-      "title": "JORDBRUK** {#3.8-jordbruk}",
+      "title": "JORDBRUK",
       "original": "## **3.8 JORDBRUK** {#3.8-jordbruk}"
     },
     { "type": "empty", "original": "" },
@@ -4865,8 +4842,8 @@
     {
       "type": "numberedItem",
       "itemId": "15",
-      "text": "Styrke rådgivningstjenester for bønder som ønsker å legge om til regenerativt og/eller økologisk landbruk. Minst 20 prosent av jordbruksproduksjonen skal være økologisk innen 2030\\.",
-      "original": "15. Styrke rådgivningstjenester for bønder som ønsker å legge om til regenerativt og/eller økologisk landbruk. Minst 20 prosent av jordbruksproduksjonen skal være økologisk innen 2030\\."
+      "text": "Styrke rådgivningstjenester for bønder som ønsker å legge om til regenerativt og/eller økologisk landbruk. Minst 20 prosent av jordbruksproduksjonen skal være økologisk innen 2030.",
+      "original": "15. Styrke rådgivningstjenester for bønder som ønsker å legge om til regenerativt og/eller økologisk landbruk. Minst 20 prosent av jordbruksproduksjonen skal være økologisk innen 2030."
     },
     { "type": "empty", "original": "" },
     {
@@ -4900,7 +4877,7 @@
     {
       "type": "section",
       "sectionId": "3.9",
-      "title": "FISKERI** {#3.9-fiskeri}",
+      "title": "FISKERI",
       "original": "## **3.9 FISKERI** {#3.9-fiskeri}"
     },
     { "type": "empty", "original": "" },
@@ -4986,7 +4963,7 @@
     {
       "type": "section",
       "sectionId": "3.10",
-      "title": "OPPDRETT OG HAVBRUK** {#3.10-oppdrett-og-havbruk}",
+      "title": "OPPDRETT OG HAVBRUK",
       "original": "## **3.10 OPPDRETT OG HAVBRUK** {#3.10-oppdrett-og-havbruk}"
     },
     { "type": "empty", "original": "" },
@@ -5002,8 +4979,8 @@
     {
       "type": "numberedItem",
       "itemId": "2",
-      "text": "Kun gi nye, tidsbegrensede konsesjoner til oppdrettsanlegg som oppfyller strenge krav til null lus, rømming og utslipp, oppsamling og utnyttelse av bioavfall, øvrige miljøhensyn og dødelighet på under 5 prosent. Vekst på eksisterende anlegg må oppfylle samme krav, og alle eksisterende anlegg skal ha samme krav innen 2030\\.",
-      "original": "2. Kun gi nye, tidsbegrensede konsesjoner til oppdrettsanlegg som oppfyller strenge krav til null lus, rømming og utslipp, oppsamling og utnyttelse av bioavfall, øvrige miljøhensyn og dødelighet på under 5 prosent. Vekst på eksisterende anlegg må oppfylle samme krav, og alle eksisterende anlegg skal ha samme krav innen 2030\\."
+      "text": "Kun gi nye, tidsbegrensede konsesjoner til oppdrettsanlegg som oppfyller strenge krav til null lus, rømming og utslipp, oppsamling og utnyttelse av bioavfall, øvrige miljøhensyn og dødelighet på under 5 prosent. Vekst på eksisterende anlegg må oppfylle samme krav, og alle eksisterende anlegg skal ha samme krav innen 2030.",
+      "original": "2. Kun gi nye, tidsbegrensede konsesjoner til oppdrettsanlegg som oppfyller strenge krav til null lus, rømming og utslipp, oppsamling og utnyttelse av bioavfall, øvrige miljøhensyn og dødelighet på under 5 prosent. Vekst på eksisterende anlegg må oppfylle samme krav, og alle eksisterende anlegg skal ha samme krav innen 2030."
     },
     { "type": "empty", "original": "" },
     {
@@ -5044,8 +5021,8 @@
     {
       "type": "numberedItem",
       "itemId": "8",
-      "text": "Bygge opp bærekraftig fôrproduksjon i Norge, med et mål om at 50 % av fôret til norsk oppdrettsfisk skal komme fra norske ressurser innen 2035\\. Produksjonsomfanget i næringen må tilpasses dette målet.",
-      "original": "8. Bygge opp bærekraftig fôrproduksjon i Norge, med et mål om at 50 % av fôret til norsk oppdrettsfisk skal komme fra norske ressurser innen 2035\\. Produksjonsomfanget i næringen må tilpasses dette målet."
+      "text": "Bygge opp bærekraftig fôrproduksjon i Norge, med et mål om at 50 % av fôret til norsk oppdrettsfisk skal komme fra norske ressurser innen 2035. Produksjonsomfanget i næringen må tilpasses dette målet.",
+      "original": "8. Bygge opp bærekraftig fôrproduksjon i Norge, med et mål om at 50 % av fôret til norsk oppdrettsfisk skal komme fra norske ressurser innen 2035. Produksjonsomfanget i næringen må tilpasses dette målet."
     },
     { "type": "empty", "original": "" },
     {
@@ -5065,7 +5042,7 @@
     {
       "type": "section",
       "sectionId": "3.11",
-      "title": "SKOGBRUK** {#3.11-skogbruk}",
+      "title": "SKOGBRUK",
       "original": "## **3.11 SKOGBRUK** {#3.11-skogbruk}"
     },
     { "type": "empty", "original": "" },
@@ -5081,8 +5058,8 @@
     {
       "type": "numberedItem",
       "itemId": "2",
-      "text": "Verne minst ti prosent av produktiv skog innen 2030\\.",
-      "original": "2. Verne minst ti prosent av produktiv skog innen 2030\\."
+      "text": "Verne minst ti prosent av produktiv skog innen 2030.",
+      "original": "2. Verne minst ti prosent av produktiv skog innen 2030."
     },
     { "type": "empty", "original": "" },
     {
@@ -5152,7 +5129,7 @@
       "type": "chapter",
       "chapterId": "4",
       "title": "DEMOKRATI FOR ALLE",
-      "original": "# **4\\. DEMOKRATI FOR ALLE** {#4.-demokrati-for-alle}"
+      "original": "# **4. DEMOKRATI FOR ALLE** {#4.-demokrati-for-alle}"
     },
     { "type": "empty", "original": "" },
     {
@@ -5161,26 +5138,24 @@
       "original": "### VISJON 2045"
     },
     { "type": "empty", "original": "" },
-    { "type": "paragraph", "text": "---" },
-    { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_I 2045 trenger man ikke å frykte å være annerledes, for samfunnet er like trygt for alle. Likestilling og muligheten til å delta i samfunnet og egen hverdag sikres uavhengig av funksjon og identitet. Deltakelse i samfunnet skaper livskvalitet og bygger tilhørighet og tillit, nedenfra og opp. Alle slags folk har mulighet til å bli ledere eller politikere, uavhengig av etnisitet, funksjonsvariasjon og økonomisk bakgrunn. Mangfoldet bidrar til at vi finner enda bedre løsninger på utfordringene som dukker opp._"
+      "text": "I 2045 trenger man ikke å frykte å være annerledes, for samfunnet er like trygt for alle. Likestilling og muligheten til å delta i samfunnet og egen hverdag sikres uavhengig av funksjon og identitet. Deltakelse i samfunnet skaper livskvalitet og bygger tilhørighet og tillit, nedenfra og opp. Alle slags folk har mulighet til å bli ledere eller politikere, uavhengig av etnisitet, funksjonsvariasjon og økonomisk bakgrunn. Mangfoldet bidrar til at vi finner enda bedre løsninger på utfordringene som dukker opp."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Det har blitt vanlig å engasjere seg i sine lokalsamfunn gjennom hverdagsdemokratiet: velforeninger, skoler, frivillighet, innbyggerinvolvering og andre former for grasrotinitiativ. Politisk og økonomisk makt og innflytelse er spredt i befolkningen. Flere er medlem i ideelle og politiske organisasjoner og partier, og veien til påvirkning er kort. 16-åringer har stemmerett, unge opplever at deres engasjement betyr noe, og politikere lytter. Det norske demokratiet er et levende folkestyre, og sikrer både rettsstaten og menneskerettighetene våre._"
+      "text": "Det har blitt vanlig å engasjere seg i sine lokalsamfunn gjennom hverdagsdemokratiet: velforeninger, skoler, frivillighet, innbyggerinvolvering og andre former for grasrotinitiativ. Politisk og økonomisk makt og innflytelse er spredt i befolkningen. Flere er medlem i ideelle og politiske organisasjoner og partier, og veien til påvirkning er kort. 16-åringer har stemmerett, unge opplever at deres engasjement betyr noe, og politikere lytter. Det norske demokratiet er et levende folkestyre, og sikrer både rettsstaten og menneskerettighetene våre."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Frie, uavhengige medier fortsetter å sørge for en opplyst offentlig debatt mellom mennesker uten maskingenerert desinformasjon. Ansvarlige rammer for teknologi og kunstig intelligens gjør at disse brukes trygt og til det beste for mennesker. Tilliten er stor, men ikke naiv: åpenhet og ettersyn forhindrer korrupsjon. Vi snakker med hverandre på tvers av politiske skillelinjer. Det er stort rom for uenighet, men ikke for hatprat. Vi bygger videre på en kultur der vi er interesserte i å lytte til folk som er annerledes enn oss selv. Alle har likestilt tilgang til arbeid og helsehjelp, og diskriminering og vold får prioritert oppfølging som gir konsekvenser. Vi tar bedre vare på våre mange språk, livssyn og tradisjoner, som samer og minoriteter trygt kan være stolte av og vise frem._"
+      "text": "Frie, uavhengige medier fortsetter å sørge for en opplyst offentlig debatt mellom mennesker uten maskingenerert desinformasjon. Ansvarlige rammer for teknologi og kunstig intelligens gjør at disse brukes trygt og til det beste for mennesker. Tilliten er stor, men ikke naiv: åpenhet og ettersyn forhindrer korrupsjon. Vi snakker med hverandre på tvers av politiske skillelinjer. Det er stort rom for uenighet, men ikke for hatprat. Vi bygger videre på en kultur der vi er interesserte i å lytte til folk som er annerledes enn oss selv. Alle har likestilt tilgang til arbeid og helsehjelp, og diskriminering og vold får prioritert oppfølging som gir konsekvenser. Vi tar bedre vare på våre mange språk, livssyn og tradisjoner, som samer og minoriteter trygt kan være stolte av og vise frem."
     },
     { "type": "empty", "original": "" },
     {
-      "type": "unknown",
-      "original": "## _Sammen tar vi gode valg, ikke bare for oss selv, men også på vegne av de som kommer etter oss, for naturen, og i solidaritet med medmenneskene vi deler planeten med._"
+      "type": "paragraph",
+      "text": "Sammen tar vi gode valg, ikke bare for oss selv, men også på vegne av de som kommer etter oss, for naturen, og i solidaritet med medmenneskene vi deler planeten med."
     },
     { "type": "empty", "original": "" },
     {
@@ -5205,8 +5180,6 @@
       "text": "De Grønne vil jobbe for full likestilling uavhengig av kropp og kognisjon. Funksjonsvarierte møter i dag hindre for å dra i en begravelse eller på et politisk møte, selv om man får assistanse for å dra på legetime eller jobb. De som er gift får ikke alltid leve sammen, og foreldrerollen blir sjeldent tilrettelagt for. Omkring 90% av bygninger er ikke rullestoltilgjengelig og mennesker med usynlige funksjonsnedsettelser får knapt tilrettelegging for å kunne delta i samfunnet. Selvbestemmelse og selvstendig deltakelse er viktige prinsipper for frigjøring av funksjonshindrede. De Grønne vil sikre lik rett til brukerstyrt personlig assistanse (BPA) i hele landet, og sørge for at hindre for deltakelse raskt fjernes, spesielt innen arbeid, utdanning og politisk deltakelse."
     },
     { "type": "empty", "original": "" },
-    { "type": "empty", "original": "###" },
-    { "type": "empty", "original": "" },
     {
       "type": "headline",
       "title": "EN NY VÅR FOR DEMOKRATIET",
@@ -5215,7 +5188,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "De Grønne vil styrke lokaldemokratiet og sivilsamfunnet, og jobbe for demokratisk kontroll over infrastruktur og viktige tjenester. Alle innbyggere skal ha reell mulighet til å delta i beslutninger som angår seg og sitt nærmiljø, også de gruppene som er svakt representert i demokratiet. Forsøk på å svekke demokratiet i verden kan gi en økende mistillit og distanse mellom system og borgere \\- begge veier. Beslutningsprosesser må være transparente og tilgjengelige, og hele tiden ha som mål å inkludere flere."
+      "text": "De Grønne vil styrke lokaldemokratiet og sivilsamfunnet, og jobbe for demokratisk kontroll over infrastruktur og viktige tjenester. Alle innbyggere skal ha reell mulighet til å delta i beslutninger som angår seg og sitt nærmiljø, også de gruppene som er svakt representert i demokratiet. Forsøk på å svekke demokratiet i verden kan gi en økende mistillit og distanse mellom system og borgere - begge veier. Beslutningsprosesser må være transparente og tilgjengelige, og hele tiden ha som mål å inkludere flere."
     },
     { "type": "empty", "original": "" },
     {
@@ -5256,8 +5229,6 @@
       "text": "De Grønne jobber for et tilstedeværende og operativt politi over hele landet, som holder innbyggerne trygge. Det er avgjørende å følge opp og forebygge alvorlige lovbrudd med store konsekvenser for de som rammes, som vold og overgrep i nære relasjoner, gjengkriminalitet, menneskehandel og hatefulle ytringer og hatkriminalitet overfor minoriteter. De Grønne vil styrke krisesentre, overgreps- og voldtektsmottakene, og bygge ut behandlingstilbudet for utsatte og overgripere. Alle som møter barn og mennesker i utsatte situasjoner skal ha med seg en grunnleggende kompetanse i å ivareta voldsutsatte og snu de onde sirklene dette kan sette i gang."
     },
     { "type": "empty", "original": "" },
-    { "type": "empty", "original": "###" },
-    { "type": "empty", "original": "" },
     {
       "type": "headline",
       "title": "ROM FOR Å PRAKTISERE TRADISJON OG SPRÅK",
@@ -5277,13 +5248,13 @@
     {
       "type": "proposalsStart",
       "sectionId": "4",
-      "original": "**4\\. VÅRE LØSNINGER**"
+      "original": "**4. VÅRE LØSNINGER**"
     },
     { "type": "empty", "original": "" },
     {
       "type": "section",
       "sectionId": "4.1",
-      "title": "ANTIRASISME OG TRYGGHET FRA DISKRIMINERING** {#4.1-antirasisme-og-trygghet-fra-diskriminering}",
+      "title": "ANTIRASISME OG TRYGGHET FRA DISKRIMINERING",
       "original": "## **4.1 ANTIRASISME OG TRYGGHET FRA DISKRIMINERING** {#4.1-antirasisme-og-trygghet-fra-diskriminering}"
     },
     { "type": "empty", "original": "" },
@@ -5334,8 +5305,8 @@
     {
       "type": "numberedItem",
       "itemId": "7",
-      "text": "Øke statsstøtten til organisasjoner og sentre som jobber mot hatkriminalitet, og formidler om viktige historiske angrep som 25\\. juni, 22\\. juli-senteret og 10\\. august-stiftelsen.",
-      "original": "7. Øke statsstøtten til organisasjoner og sentre som jobber mot hatkriminalitet, og formidler om viktige historiske angrep som 25\\. juni, 22\\. juli-senteret og 10\\. august-stiftelsen."
+      "text": "Øke statsstøtten til organisasjoner og sentre som jobber mot hatkriminalitet, og formidler om viktige historiske angrep som 25. juni, 22. juli-senteret og 10. august-stiftelsen.",
+      "original": "7. Øke statsstøtten til organisasjoner og sentre som jobber mot hatkriminalitet, og formidler om viktige historiske angrep som 25. juni, 22. juli-senteret og 10. august-stiftelsen."
     },
     { "type": "empty", "original": "" },
     {
@@ -5362,7 +5333,7 @@
     {
       "type": "section",
       "sectionId": "4.2",
-      "title": "TA BORT FUNKSJONSHINDRE** {#4.2-ta-bort-funksjonshindre}",
+      "title": "TA BORT FUNKSJONSHINDRE",
       "original": "## **4.2 TA BORT FUNKSJONSHINDRE** {#4.2-ta-bort-funksjonshindre}"
     },
     { "type": "empty", "original": "" },
@@ -5497,7 +5468,7 @@
     {
       "type": "section",
       "sectionId": "4.3",
-      "title": "LIKESTILLING OG SELVBESTEMMELSE** {#4.3-likestilling-og-selvbestemmelse}",
+      "title": "LIKESTILLING OG SELVBESTEMMELSE",
       "original": "## **4.3 LIKESTILLING OG SELVBESTEMMELSE** {#4.3-likestilling-og-selvbestemmelse}"
     },
     { "type": "empty", "original": "" },
@@ -5597,7 +5568,7 @@
     {
       "type": "section",
       "sectionId": "4.4",
-      "title": "SKEIVES RETTIGHETER OG KJØNNSMANGFOLD** {#4.4-skeives-rettigheter-og-kjønnsmangfold}",
+      "title": "SKEIVES RETTIGHETER OG KJØNNSMANGFOLD",
       "original": "## **4.4 SKEIVES RETTIGHETER OG KJØNNSMANGFOLD** {#4.4-skeives-rettigheter-og-kjønnsmangfold}"
     },
     { "type": "empty", "original": "" },
@@ -5711,7 +5682,7 @@
     {
       "type": "section",
       "sectionId": "4.5",
-      "title": "VERN MOT VOLD OG OVERGREP** {#4.5-vern-mot-vold-og-overgrep}",
+      "title": "VERN MOT VOLD OG OVERGREP",
       "original": "## **4.5 VERN MOT VOLD OG OVERGREP** {#4.5-vern-mot-vold-og-overgrep}"
     },
     { "type": "empty", "original": "" },
@@ -5818,8 +5789,8 @@
     {
       "type": "numberedItem",
       "itemId": "15",
-      "text": "Styrke politiets arbeid mot vold i nære relasjoner og etablere flere RISK-spesialenheter (risikoanalyse og kriminalitetsforebygging av vold i nære relasjoner). Målet er at RISK er et landsdekkende program innen 2026\\.",
-      "original": "15. Styrke politiets arbeid mot vold i nære relasjoner og etablere flere RISK-spesialenheter (risikoanalyse og kriminalitetsforebygging av vold i nære relasjoner). Målet er at RISK er et landsdekkende program innen 2026\\."
+      "text": "Styrke politiets arbeid mot vold i nære relasjoner og etablere flere RISK-spesialenheter (risikoanalyse og kriminalitetsforebygging av vold i nære relasjoner). Målet er at RISK er et landsdekkende program innen 2026.",
+      "original": "15. Styrke politiets arbeid mot vold i nære relasjoner og etablere flere RISK-spesialenheter (risikoanalyse og kriminalitetsforebygging av vold i nære relasjoner). Målet er at RISK er et landsdekkende program innen 2026."
     },
     { "type": "empty", "original": "" },
     {
@@ -5839,7 +5810,7 @@
     {
       "type": "section",
       "sectionId": "4.6",
-      "title": "DEMOKRATI** {#4.6-demokrati}",
+      "title": "DEMOKRATI",
       "original": "## **4.6 DEMOKRATI** {#4.6-demokrati}"
     },
     { "type": "empty", "original": "" },
@@ -5960,7 +5931,7 @@
     {
       "type": "section",
       "sectionId": "4.7",
-      "title": "DIGITALISERING OG KUNSTIG INTELLIGENS** {#4.7-digitalisering-og-kunstig-intelligens}",
+      "title": "DIGITALISERING OG KUNSTIG INTELLIGENS",
       "original": "## **4.7 DIGITALISERING OG KUNSTIG INTELLIGENS** {#4.7-digitalisering-og-kunstig-intelligens}"
     },
     { "type": "empty", "original": "" },
@@ -6059,7 +6030,7 @@
     {
       "type": "headline",
       "title": "SOSIALE MEDIER OG AVHENGIGHETSSKAPENDE TEKNOLOGI",
-      "original": "    ### SOSIALE MEDIER OG AVHENGIGHETSSKAPENDE TEKNOLOGI"
+      "original": "### SOSIALE MEDIER OG AVHENGIGHETSSKAPENDE TEKNOLOGI"
     },
     { "type": "empty", "original": "" },
     {
@@ -6114,7 +6085,7 @@
     {
       "type": "headline",
       "title": "KUNSTIG INTELLIGENS",
-      "original": "    ### KUNSTIG INTELLIGENS"
+      "original": "### KUNSTIG INTELLIGENS"
     },
     { "type": "empty", "original": "" },
     {
@@ -6155,7 +6126,7 @@
     {
       "type": "section",
       "sectionId": "4.8",
-      "title": "MEDIER OG OFFENTLIGHET** {#4.8-medier-og-offentlighet}",
+      "title": "MEDIER OG OFFENTLIGHET",
       "original": "## **4.8 MEDIER OG OFFENTLIGHET** {#4.8-medier-og-offentlighet}"
     },
     { "type": "empty", "original": "" },
@@ -6255,7 +6226,7 @@
     {
       "type": "section",
       "sectionId": "4.9",
-      "title": "RETTSSTAT, MENNESKERETTIGHETER OG POLITI** {#4.9-rettsstat,-menneskerettigheter-og-politi}",
+      "title": "RETTSSTAT, MENNESKERETTIGHETER OG POLITI",
       "original": "## **4.9 RETTSSTAT, MENNESKERETTIGHETER OG POLITI** {#4.9-rettsstat,-menneskerettigheter-og-politi}"
     },
     { "type": "empty", "original": "" },
@@ -6397,7 +6368,7 @@
     {
       "type": "section",
       "sectionId": "4.10",
-      "title": "KRIMINALOMSORG** {#4.10-kriminalomsorg}",
+      "title": "KRIMINALOMSORG",
       "original": "## **4.10 KRIMINALOMSORG** {#4.10-kriminalomsorg}"
     },
     { "type": "empty", "original": "" },
@@ -6483,7 +6454,7 @@
     {
       "type": "section",
       "sectionId": "4.11",
-      "title": "URFOLK OG NASJONALE MINORITETER** {#4.11-urfolk-og-nasjonale-minoriteter}",
+      "title": "URFOLK OG NASJONALE MINORITETER",
       "original": "## **4.11 URFOLK OG NASJONALE MINORITETER** {#4.11-urfolk-og-nasjonale-minoriteter}"
     },
     { "type": "empty", "original": "" },
@@ -6611,7 +6582,7 @@
     {
       "type": "section",
       "sectionId": "4.12",
-      "title": "SPRÅK** {#4.12-språk}",
+      "title": "SPRÅK",
       "original": "## **4.12 SPRÅK** {#4.12-språk}"
     },
     { "type": "empty", "original": "" },
@@ -6733,7 +6704,7 @@
       "type": "chapter",
       "chapterId": "5",
       "title": "LIVSKRAFTIGE LOKALSAMFUNN",
-      "original": "# **5\\. LIVSKRAFTIGE LOKALSAMFUNN** {#5.-livskraftige-lokalsamfunn}"
+      "original": "# **5. LIVSKRAFTIGE LOKALSAMFUNN** {#5.-livskraftige-lokalsamfunn}"
     },
     { "type": "empty", "original": "" },
     {
@@ -6742,26 +6713,24 @@
       "original": "### VISJON 2045"
     },
     { "type": "empty", "original": "" },
-    { "type": "paragraph", "text": "---" },
-    { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_I 2045 bor vi i vennlige, frodige og oppfinnsomme byer, bygder og nabolag. Uansett hvor i landet vi bor opplever vi å ha gode tjenester nært hjemmet. Det skapes mer og skjer stadig noe spennende i lokalsamfunn med hver sin særegne stedsidentitet._"
+      "text": "I 2045 bor vi i vennlige, frodige og oppfinnsomme byer, bygder og nabolag. Uansett hvor i landet vi bor opplever vi å ha gode tjenester nært hjemmet. Det skapes mer og skjer stadig noe spennende i lokalsamfunn med hver sin særegne stedsidentitet."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Kortere avstander, menneskevennlig stedsutvikling og arbeidstid, har gjort at flere kan engasjere seg i det skapende hverdagsdemokratiet: I velforeninger, skoler, organisasjoner og sivilsamfunn. Vi møtes på biblioteket, på fellesverkstedet og i parken, vi nyter og deltar i lokalt kulturliv. Her får vi høre til, i alt vårt mangfold. Den daglige deltakelsen bygger tilhørighet og tillit, nedenfra og opp. Vi tør å være til bry for hverandre. Vi er åpne og rause overfor nyankommere, og tar dem imot til å bli aktive samfunnsborgere._"
+      "text": "Kortere avstander, menneskevennlig stedsutvikling og arbeidstid, har gjort at flere kan engasjere seg i det skapende hverdagsdemokratiet: I velforeninger, skoler, organisasjoner og sivilsamfunn. Vi møtes på biblioteket, på fellesverkstedet og i parken, vi nyter og deltar i lokalt kulturliv. Her får vi høre til, i alt vårt mangfold. Den daglige deltakelsen bygger tilhørighet og tillit, nedenfra og opp. Vi tør å være til bry for hverandre. Vi er åpne og rause overfor nyankommere, og tar dem imot til å bli aktive samfunnsborgere."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Framtidas byer, bygder og nabolag er mer selvhjulpne. Kommunene har lav terskel for å teste nye løsninger, slik at lokalt engasjement og kunnskap kommer fellesskapet til gode. Endringene vi skaper sammen får kraft når vi tydelig ser hvordan lokale initiativer også bidrar til å løse verdens store utfordringer._"
+      "text": "Framtidas byer, bygder og nabolag er mer selvhjulpne. Kommunene har lav terskel for å teste nye løsninger, slik at lokalt engasjement og kunnskap kommer fellesskapet til gode. Endringene vi skaper sammen får kraft når vi tydelig ser hvordan lokale initiativer også bidrar til å løse verdens store utfordringer."
     },
     { "type": "empty", "original": "" },
     {
-      "type": "unknown",
-      "original": "## _Sirkulærøkonomien gjør at folk kan delta, skape og påvirke mer, uten at det går på bekostning av det lokale eller globale livsgrunnlaget. Våre bygder og byer er blitt grønnere og mer fargerike, med mindre forurensing og avfall på avveie. Mennesker i alle aldre legger viktige premisser for stedsutviklingen, og vi vier mer oppmerksomhet til de nære fellesskapene: dalen, bygda, øya \\- nabolaget vårt._"
+      "type": "paragraph",
+      "text": "Sirkulærøkonomien gjør at folk kan delta, skape og påvirke mer, uten at det går på bekostning av det lokale eller globale livsgrunnlaget. Våre bygder og byer er blitt grønnere og mer fargerike, med mindre forurensing og avfall på avveie. Mennesker i alle aldre legger viktige premisser for stedsutviklingen, og vi vier mer oppmerksomhet til de nære fellesskapene: dalen, bygda, øya - nabolaget vårt."
     },
     { "type": "empty", "original": "" },
     {
@@ -6888,13 +6857,13 @@
     {
       "type": "proposalsStart",
       "sectionId": "5",
-      "original": "**5\\. VÅRE LØSNINGER**"
+      "original": "**5. VÅRE LØSNINGER**"
     },
     { "type": "empty", "original": "" },
     {
       "type": "section",
       "sectionId": "5.1",
-      "title": "LOKALT SELVSTYRE** {#5.1-lokalt-selvstyre}",
+      "title": "LOKALT SELVSTYRE",
       "original": "## **5.1 LOKALT SELVSTYRE** {#5.1-lokalt-selvstyre}"
     },
     { "type": "empty", "original": "" },
@@ -6980,7 +6949,7 @@
     {
       "type": "section",
       "sectionId": "5.2",
-      "title": "VENNLIGE, FRODIGE OG OPPFINNSOMME BYER** {#5.2-vennlige,-frodige-og-oppfinnsomme-byer}",
+      "title": "VENNLIGE, FRODIGE OG OPPFINNSOMME BYER",
       "original": "## **5.2 VENNLIGE, FRODIGE OG OPPFINNSOMME BYER** {#5.2-vennlige,-frodige-og-oppfinnsomme-byer}"
     },
     { "type": "empty", "original": "" },
@@ -7080,7 +7049,7 @@
     {
       "type": "section",
       "sectionId": "5.3",
-      "title": "LEVENDE, GRØNNE DISTRIKTER** {#5.3-levende,-grønne-distrikter}",
+      "title": "LEVENDE, GRØNNE DISTRIKTER",
       "original": "## **5.3 LEVENDE, GRØNNE DISTRIKTER** {#5.3-levende,-grønne-distrikter}"
     },
     { "type": "empty", "original": "" },
@@ -7166,7 +7135,7 @@
     {
       "type": "section",
       "sectionId": "5.4",
-      "title": "FRIHET FRA OVERFORBRUKET** {#5.4-frihet-fra-overforbruket}",
+      "title": "FRIHET FRA OVERFORBRUKET",
       "original": "## **5.4 FRIHET FRA OVERFORBRUKET** {#5.4-frihet-fra-overforbruket}"
     },
     { "type": "empty", "original": "" },
@@ -7238,14 +7207,14 @@
     {
       "type": "numberedItem",
       "itemId": "10",
-      "text": "Bekjempe «fast fashion» ved å innføre avgift på klær med kort levetid, etablere levetidsmerking på klesplagg, og utrede en kastelov for å redusere svinn i klesindustrien.",
-      "original": "10. Bekjempe «fast fashion» ved å innføre avgift på klær med kort levetid, etablere levetidsmerking på klesplagg, og utrede en kastelov for å redusere svinn i klesindustrien."
+      "text": "Bekjempe “fast fashion” ved å innføre avgift på klær med kort levetid, etablere levetidsmerking på klesplagg, og utrede en kastelov for å redusere svinn i klesindustrien.",
+      "original": "10. Bekjempe “fast fashion” ved å innføre avgift på klær med kort levetid, etablere levetidsmerking på klesplagg, og utrede en kastelov for å redusere svinn i klesindustrien."
     },
     { "type": "empty", "original": "" },
     {
       "type": "section",
       "sectionId": "5.5",
-      "title": "INTEGRERING OG INKLUDERING** {#5.5-integrering-og-inkludering}",
+      "title": "INTEGRERING OG INKLUDERING",
       "original": "## **5.5 INTEGRERING OG INKLUDERING** {#5.5-integrering-og-inkludering}"
     },
     { "type": "empty", "original": "" },
@@ -7331,7 +7300,7 @@
     {
       "type": "section",
       "sectionId": "5.6",
-      "title": "SIVILSAMFUNN OG FRIVILLIGHET** {#5.6-sivilsamfunn-og-frivillighet}",
+      "title": "SIVILSAMFUNN OG FRIVILLIGHET",
       "original": "## **5.6 SIVILSAMFUNN OG FRIVILLIGHET** {#5.6-sivilsamfunn-og-frivillighet}"
     },
     { "type": "empty", "original": "" },
@@ -7403,7 +7372,7 @@
     {
       "type": "section",
       "sectionId": "5.7",
-      "title": "KUNST OG KULTUR** {#5.7-kunst-og-kultur}",
+      "title": "KUNST OG KULTUR",
       "original": "## **5.7 KUNST OG KULTUR** {#5.7-kunst-og-kultur}"
     },
     { "type": "empty", "original": "" },
@@ -7468,8 +7437,8 @@
     {
       "type": "numberedItem",
       "itemId": "9",
-      "text": "Revidere og styrke ordningen med utstillingsvederlag og \\-honorar, slik at kunstinstitusjoner gir kunstnere riktig kompensasjon for arbeidet med utstillinger og de reelle produksjonskostnadene.",
-      "original": "9. Revidere og styrke ordningen med utstillingsvederlag og \\-honorar, slik at kunstinstitusjoner gir kunstnere riktig kompensasjon for arbeidet med utstillinger og de reelle produksjonskostnadene."
+      "text": "Revidere og styrke ordningen med utstillingsvederlag og -honorar, slik at kunstinstitusjoner gir kunstnere riktig kompensasjon for arbeidet med utstillinger og de reelle produksjonskostnadene.",
+      "original": "9. Revidere og styrke ordningen med utstillingsvederlag og -honorar, slik at kunstinstitusjoner gir kunstnere riktig kompensasjon for arbeidet med utstillinger og de reelle produksjonskostnadene."
     },
     { "type": "empty", "original": "" },
     {
@@ -7517,7 +7486,7 @@
     {
       "type": "section",
       "sectionId": "5.8",
-      "title": "KULTURARV** {#5.8-kulturarv}",
+      "title": "KULTURARV",
       "original": "## **5.8 KULTURARV** {#5.8-kulturarv}"
     },
     { "type": "empty", "original": "" },
@@ -7645,7 +7614,7 @@
     {
       "type": "section",
       "sectionId": "5.9",
-      "title": "RELIGION OG LIVSSYN** {#5.9-religion-og-livssyn}",
+      "title": "RELIGION OG LIVSSYN",
       "original": "## **5.9 RELIGION OG LIVSSYN** {#5.9-religion-og-livssyn}"
     },
     { "type": "empty", "original": "" },
@@ -7717,7 +7686,7 @@
     {
       "type": "section",
       "sectionId": "5.10",
-      "title": "FRILUFTSLIV, IDRETT OG FYSISK AKTIVITET** {#5.10-friluftsliv,-idrett-og-fysisk-aktivitet}",
+      "title": "FRILUFTSLIV, IDRETT OG FYSISK AKTIVITET",
       "original": "## **5.10 FRILUFTSLIV, IDRETT OG FYSISK AKTIVITET** {#5.10-friluftsliv,-idrett-og-fysisk-aktivitet}"
     },
     { "type": "empty", "original": "" },
@@ -7740,8 +7709,8 @@
     {
       "type": "numberedItem",
       "itemId": "3",
-      "text": "‬Øke støtten til fritidsklubber, og idrettsklubber som tilrettelegger for at barn kan delta uansett funksjonsnivå og bakgrunn",
-      "original": "3. ‬Øke støtten til fritidsklubber, og idrettsklubber som tilrettelegger for at barn kan delta uansett funksjonsnivå og bakgrunn"
+      "text": "Øke støtten til fritidsklubber, og idrettsklubber som tilrettelegger for at barn kan delta uansett funksjonsnivå og bakgrunn",
+      "original": "3. Øke støtten til fritidsklubber, og idrettsklubber som tilrettelegger for at barn kan delta uansett funksjonsnivå og bakgrunn"
     },
     { "type": "empty", "original": "" },
     {
@@ -7828,16 +7797,12 @@
       "original": "15. Sørge for at idretten er miljøvennlig gjennom å fase ut gummigranulat på kunstgressanlegg, håndheve fluor-forbudet i skismøring, og støtte alternativer."
     },
     { "type": "empty", "original": "" },
-    { "type": "empty", "original": "#" },
-    { "type": "empty", "original": "" },
     {
       "type": "chapter",
       "chapterId": "6",
       "title": "MOBILITET I HELE LANDET",
-      "original": "# **6\\. MOBILITET I HELE LANDET** {#6.-mobilitet-i-hele-landet}"
+      "original": "# **6. MOBILITET I HELE LANDET** {#6.-mobilitet-i-hele-landet}"
     },
-    { "type": "empty", "original": "" },
-    { "type": "empty", "original": "##" },
     { "type": "empty", "original": "" },
     {
       "type": "headline",
@@ -7845,29 +7810,25 @@
       "original": "### VISJON 2045"
     },
     { "type": "empty", "original": "" },
-    { "type": "paragraph", "text": "---" },
-    { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_I 2045 er hverdagsreiser og annen transport trygg og god for miljøet. Folk og varer fraktes fra A til B uten utslipp og unødvendig naturødeleggelse. Om du bor i by eller bygd, eller er på ferie i Norge, er det enkelt å reise miljøvennlig. Fordi vi har satset på kompakt og naturvennlig stedsutvikling, er landet koblet sammen gjennom et smidig og effektivt transportsystem. Bussen, banen og toget er blitt et naturlig førstevalg. Få savner tiden hvor vi brukte skattepenger til å utvide flyplasser og motorveier._"
+      "text": "I 2045 er hverdagsreiser og annen transport trygg og god for miljøet. Folk og varer fraktes fra A til B uten utslipp og unødvendig naturødeleggelse. Om du bor i by eller bygd, eller er på ferie i Norge, er det enkelt å reise miljøvennlig. Fordi vi har satset på kompakt og naturvennlig stedsutvikling, er landet koblet sammen gjennom et smidig og effektivt transportsystem. Bussen, banen og toget er blitt et naturlig førstevalg. Få savner tiden hvor vi brukte skattepenger til å utvide flyplasser og motorveier."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Ti-minutters-byen er på plass, med kort vei til skole, arbeid og fritid. Det frigjør tid i hverdagen og plass i nærmiljøet. Med et godt mobilitetstilbud, sykkel og bildeling, trenger ikke folk i og rundt de største byene å kjøpe bil. Deletjenester gjør det mulig for alle familier, uavhengig av inntekt, å komme seg på helgetur og hytteferie._"
+      "text": "Ti-minutters-byen er på plass, med kort vei til skole, arbeid og fritid. Det frigjør tid i hverdagen og plass i nærmiljøet. Med et godt mobilitetstilbud, sykkel og bildeling, trenger ikke folk i og rundt de største byene å kjøpe bil. Deletjenester gjør det mulig for alle familier, uavhengig av inntekt, å komme seg på helgetur og hytteferie."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_På bygda samles gode krefter i trivelige bygdesentrum. I de delene av Norge hvor det fortsatt er behov for privatbiler, er det elbil som gjelder. Overalt er det gode lademuligheter. Fylkesveiene, som tidligere var farlige å kjøre på, er nå så godt vedlikeholdt at folk alltid kommer trygt frem til jobb, skole og fritidsaktiviteter._"
+      "text": "På bygda samles gode krefter i trivelige bygdesentrum. I de delene av Norge hvor det fortsatt er behov for privatbiler, er det elbil som gjelder. Overalt er det gode lademuligheter. Fylkesveiene, som tidligere var farlige å kjøre på, er nå så godt vedlikeholdt at folk alltid kommer trygt frem til jobb, skole og fritidsaktiviteter."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Å kunne reise og bevege seg fritt er et samfunnsgode, og grønn politikk har gjort dette mer tilgjengelig for alle. Løsningene vi har utviklet er like tilgjengelige for oss som bor her som de som kommer på besøk fra andre land og landsdeler for arbeid eller fornøyelse. Helhet og nytenking i mobilitetssektoren har gitt sirkulærøkonomien i Norge et kraftig løft. Norge er en attraktiv partner for andre land med mobilitetsløsninger som kan skaleres opp og bidrar til globale klimakutt._"
+      "text": "Å kunne reise og bevege seg fritt er et samfunnsgode, og grønn politikk har gjort dette mer tilgjengelig for alle. Løsningene vi har utviklet er like tilgjengelige for oss som bor her som de som kommer på besøk fra andre land og landsdeler for arbeid eller fornøyelse. Helhet og nytenking i mobilitetssektoren har gitt sirkulærøkonomien i Norge et kraftig løft. Norge er en attraktiv partner for andre land med mobilitetsløsninger som kan skaleres opp og bidrar til globale klimakutt."
     },
-    { "type": "empty", "original": "" },
-    { "type": "paragraph", "text": "---" },
     { "type": "empty", "original": "" },
     {
       "type": "headline",
@@ -7924,8 +7885,8 @@
     },
     { "type": "empty", "original": "" },
     {
-      "type": "unknown",
-      "original": "Noe av flytrafikken kan i framtida gjennomføres utslippsfritt, men det er usikkerhet knyttet til spesielt større fly og lengre reiser. Vi vil tilrettelegge for utslippsfrie flyreiser der det ikke finnes gode alternativer, slik som på kortbanenettet. De fleste flyreisene skjer imidlertid mellom våre største byer der mye kan reduseres ved å styrke alternativene på bakken. Internasjonale flyreiser bør reduseres slik at de utgjør en liten andel av hver innbygger sine reiser i løpet av livet**.** Folk må få tydelig informasjon om klimaeffekten av reisene sine og være sikre på at de miljøvennlige reisemåtene prioriteres av politikerne."
+      "type": "paragraph",
+      "text": "Noe av flytrafikken kan i framtida gjennomføres utslippsfritt, men det er usikkerhet knyttet til spesielt større fly og lengre reiser. Vi vil tilrettelegge for utslippsfrie flyreiser der det ikke finnes gode alternativer, slik som på kortbanenettet. De fleste flyreisene skjer imidlertid mellom våre største byer der mye kan reduseres ved å styrke alternativene på bakken. Internasjonale flyreiser bør reduseres slik at de utgjør en liten andel av hver innbygger sine reiser i løpet av livet. Folk må få tydelig informasjon om klimaeffekten av reisene sine og være sikre på at de miljøvennlige reisemåtene prioriteres av politikerne."
     },
     { "type": "empty", "original": "" },
     {
@@ -7953,13 +7914,13 @@
     {
       "type": "proposalsStart",
       "sectionId": "6",
-      "original": "**6\\. VÅRE LØSNINGER**"
+      "original": "**6. VÅRE LØSNINGER**"
     },
     { "type": "empty", "original": "" },
     {
       "type": "section",
       "sectionId": "6.1",
-      "title": "GRØNNE VERKTØY I SAMFERDSEL** {#6.1-grønne-verktøy-i-samferdsel}",
+      "title": "GRØNNE VERKTØY I SAMFERDSEL",
       "original": "## **6.1 GRØNNE VERKTØY I SAMFERDSEL** {#6.1-grønne-verktøy-i-samferdsel}"
     },
     { "type": "empty", "original": "" },
@@ -8066,7 +8027,7 @@
     {
       "type": "section",
       "sectionId": "6.2",
-      "title": "SYKKEL OG GANGE** {#6.2-sykkel-og-gange}",
+      "title": "SYKKEL OG GANGE",
       "original": "## **6.2 SYKKEL OG GANGE** {#6.2-sykkel-og-gange}"
     },
     { "type": "empty", "original": "" },
@@ -8124,7 +8085,7 @@
     {
       "type": "section",
       "sectionId": "6.3",
-      "title": "KOLLEKTIVTILBUD SOM RYGGRAD I PERSONTRANSPORT I HELE LANDET** {#6.3-kollektivtilbud-som-ryggrad-i-persontransport-i-hele-landet}",
+      "title": "KOLLEKTIVTILBUD SOM RYGGRAD I PERSONTRANSPORT I HELE LANDET",
       "original": "## **6.3 KOLLEKTIVTILBUD SOM RYGGRAD I PERSONTRANSPORT I HELE LANDET** {#6.3-kollektivtilbud-som-ryggrad-i-persontransport-i-hele-landet}"
     },
     { "type": "empty", "original": "" },
@@ -8196,7 +8157,7 @@
     {
       "type": "section",
       "sectionId": "6.4",
-      "title": "TOG** {#6.4-tog}",
+      "title": "TOG",
       "original": "## **6.4 TOG** {#6.4-tog}"
     },
     { "type": "empty", "original": "" },
@@ -8317,7 +8278,7 @@
     {
       "type": "section",
       "sectionId": "6.5",
-      "title": "DELEMOBILITET** {#6.5-delemobilitet}",
+      "title": "DELEMOBILITET",
       "original": "## **6.5 DELEMOBILITET** {#6.5-delemobilitet}"
     },
     { "type": "empty", "original": "" },
@@ -8326,8 +8287,8 @@
     {
       "type": "numberedItem",
       "itemId": "1",
-      "text": "Jobbe for at deling av elbil blir den enkleste og billigste måten å ha tilgang til bil for de aller fleste nordmenn innen 2035\\.",
-      "original": "1. Jobbe for at deling av elbil blir den enkleste og billigste måten å ha tilgang til bil for de aller fleste nordmenn innen 2035\\."
+      "text": "Jobbe for at deling av elbil blir den enkleste og billigste måten å ha tilgang til bil for de aller fleste nordmenn innen 2035.",
+      "original": "1. Jobbe for at deling av elbil blir den enkleste og billigste måten å ha tilgang til bil for de aller fleste nordmenn innen 2035."
     },
     { "type": "empty", "original": "" },
     {
@@ -8382,7 +8343,7 @@
     {
       "type": "section",
       "sectionId": "6.6",
-      "title": "VEITRAFIKK** {#6.6-veitrafikk}",
+      "title": "VEITRAFIKK",
       "original": "## **6.6 VEITRAFIKK** {#6.6-veitrafikk}"
     },
     { "type": "empty", "original": "" },
@@ -8524,7 +8485,7 @@
     {
       "type": "section",
       "sectionId": "6.7",
-      "title": "SJØ- OG LUFTFART** {#6.7-sjø--og-luftfart}",
+      "title": "SJØ- OG LUFTFART",
       "original": "## **6.7 SJØ- OG LUFTFART** {#6.7-sjø--og-luftfart}"
     },
     { "type": "empty", "original": "" },
@@ -8645,7 +8606,7 @@
     {
       "type": "section",
       "sectionId": "6.8",
-      "title": "BÆREKRAFTIG REKREASJON OG REISELIV** {#6.8-bærekraftig-rekreasjon-og-reiseliv}",
+      "title": "BÆREKRAFTIG REKREASJON OG REISELIV",
       "original": "## **6.8 BÆREKRAFTIG REKREASJON OG REISELIV** {#6.8-bærekraftig-rekreasjon-og-reiseliv}"
     },
     { "type": "empty", "original": "" },
@@ -8753,7 +8714,7 @@
       "type": "chapter",
       "chapterId": "7",
       "title": "EN TRYGGERE VERDEN",
-      "original": "# **7\\. EN TRYGGERE VERDEN** {#7.-en-tryggere-verden}"
+      "original": "# **7. EN TRYGGERE VERDEN** {#7.-en-tryggere-verden}"
     },
     { "type": "empty", "original": "" },
     {
@@ -8762,29 +8723,25 @@
       "original": "### VISJON 2045"
     },
     { "type": "empty", "original": "" },
-    { "type": "paragraph", "text": "---" },
-    { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_I 2045 samarbeider ledere og folk godt på tvers av landegrenser og skillelinjer. Europa er preget av fred, at menneskerettighetene respekteres og at vi har en regelbasert verdensorden tuftet på demokrati og rettsstat._"
+      "text": "I 2045 samarbeider ledere og folk godt på tvers av landegrenser og skillelinjer. Europa er preget av fred, at menneskerettighetene respekteres og at vi har en regelbasert verdensorden tuftet på demokrati og rettsstat."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Kloke tanker og erfaringer deles internasjonalt slik at de beste løsningene vinner frem og settes i sving i land etter land. Verden samarbeider om internasjonal lov, slik at det er åpenbart for alle land at de taper på å bruke militær makt. Vi deler løsninger, sikrer globale fellesgoder og bidrar til grunnleggende menneskerettigheter overalt der folk lever._"
+      "text": "Kloke tanker og erfaringer deles internasjonalt slik at de beste løsningene vinner frem og settes i sving i land etter land. Verden samarbeider om internasjonal lov, slik at det er åpenbart for alle land at de taper på å bruke militær makt. Vi deler løsninger, sikrer globale fellesgoder og bidrar til grunnleggende menneskerettigheter overalt der folk lever."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_Vi har lagt bak oss kappløpet om å stenge grenser. Mennesker fra andre steder tas imot som ressurser og medborgere. Færre er på flukt, men de som må flykte finner trygghet og muligheter til å bidra. Siden folk tas på alvor og involveres bedre i demokratiet, klarer stadig flere land å overvinne polarisering og autoritære krefter. Spenninger mellom land og geopolitiske sfærer oppstår fortsatt, men dialog og innsats i et fornyet FN styrker muligheten til å håndtere spenninger._"
+      "text": "Vi har lagt bak oss kappløpet om å stenge grenser. Mennesker fra andre steder tas imot som ressurser og medborgere. Færre er på flukt, men de som må flykte finner trygghet og muligheter til å bidra. Siden folk tas på alvor og involveres bedre i demokratiet, klarer stadig flere land å overvinne polarisering og autoritære krefter. Spenninger mellom land og geopolitiske sfærer oppstår fortsatt, men dialog og innsats i et fornyet FN styrker muligheten til å håndtere spenninger."
     },
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "_I 2045 har vi erkjent hva det betyr at vi bare har én klode: At menneskeheten lever i et skjebnefellesskap hvor samarbeid gir trygghet._"
+      "text": "I 2045 har vi erkjent hva det betyr at vi bare har én klode: At menneskeheten lever i et skjebnefellesskap hvor samarbeid gir trygghet."
     },
-    { "type": "empty", "original": "" },
-    { "type": "paragraph", "text": "---" },
     { "type": "empty", "original": "" },
     {
       "type": "headline",
@@ -8805,7 +8762,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "Samfunnet er sårbart. De Grønne vil styrke totalberedskapen, så samfunnet rustes for å håndtere flere kriser samtidig \\- naturkriser, helsetrusler og angrep mot demokrati og samfunn. Norge skal være en pådriver for forskning, dialog og internasjonalt samarbeid for å redusere risikoen for nye kriser. Vi trenger å produsere mer mat selv, bygge opp beredskapslagre for mat, frø, såkorn og medisiner, og sikre kritisk infrastruktur og mer desentralisert energiproduksjon."
+      "text": "Samfunnet er sårbart. De Grønne vil styrke totalberedskapen, så samfunnet rustes for å håndtere flere kriser samtidig - naturkriser, helsetrusler og angrep mot demokrati og samfunn. Norge skal være en pådriver for forskning, dialog og internasjonalt samarbeid for å redusere risikoen for nye kriser. Vi trenger å produsere mer mat selv, bygge opp beredskapslagre for mat, frø, såkorn og medisiner, og sikre kritisk infrastruktur og mer desentralisert energiproduksjon."
     },
     { "type": "empty", "original": "" },
     {
@@ -8873,7 +8830,7 @@
     { "type": "empty", "original": "" },
     {
       "type": "paragraph",
-      "text": "Det mest ansvarlige vi kan gjøre med Statens pensjonsfond utland (SPU) er å investere det i en levelig framtid \\- det er også det økonomisk tryggeste på sikt. Fondet gir Norge et unikt økonomisk handlingsrom, også etter at oljeutvinningen avvikles. Det kan sikre framtidig velferd og være et verktøy for å løse klima- og naturkrisen. Framtidige generasjoner trenger først og fremst å ha livsgrunnlaget i behold, mer enn en sparebøsse. Fondets investeringer bør derfor bidra til å innfri FNs bærekraftsmål."
+      "text": "Det mest ansvarlige vi kan gjøre med Statens pensjonsfond utland (SPU) er å investere det i en levelig framtid - det er også det økonomisk tryggeste på sikt. Fondet gir Norge et unikt økonomisk handlingsrom, også etter at oljeutvinningen avvikles. Det kan sikre framtidig velferd og være et verktøy for å løse klima- og naturkrisen. Framtidige generasjoner trenger først og fremst å ha livsgrunnlaget i behold, mer enn en sparebøsse. Fondets investeringer bør derfor bidra til å innfri FNs bærekraftsmål."
     },
     { "type": "empty", "original": "" },
     {
@@ -8889,13 +8846,13 @@
     {
       "type": "proposalsStart",
       "sectionId": "7",
-      "original": "**7\\. VÅRE LØSNINGER**"
+      "original": "**7. VÅRE LØSNINGER**"
     },
     { "type": "empty", "original": "" },
     {
       "type": "section",
       "sectionId": "7.1",
-      "title": "BEREDSKAP** {#7.1-beredskap}",
+      "title": "BEREDSKAP",
       "original": "## **7.1 BEREDSKAP** {#7.1-beredskap}"
     },
     { "type": "empty", "original": "" },
@@ -9002,7 +8959,7 @@
     {
       "type": "section",
       "sectionId": "7.2",
-      "title": "INTERNASJONALT SAMARBEID FOR FRED** {#7.2-internasjonalt-samarbeid-for-fred}",
+      "title": "INTERNASJONALT SAMARBEID FOR FRED",
       "original": "## **7.2 INTERNASJONALT SAMARBEID FOR FRED** {#7.2-internasjonalt-samarbeid-for-fred}"
     },
     { "type": "empty", "original": "" },
@@ -9114,7 +9071,7 @@
     {
       "type": "section",
       "sectionId": "7.3",
-      "title": "ASYL- OG FLYKTNINGPOLITIKK** {#7.3-asyl--og-flyktningpolitikk}",
+      "title": "ASYL- OG FLYKTNINGPOLITIKK",
       "original": "## **7.3 ASYL- OG FLYKTNINGPOLITIKK** {#7.3-asyl--og-flyktningpolitikk}"
     },
     { "type": "empty", "original": "" },
@@ -9256,8 +9213,8 @@
     {
       "type": "numberedItem",
       "itemId": "20",
-      "text": "Ta initiativ til felleseuropeiske løsninger for tilstrekkelig søk- og redningskapasitet i Middelhavet, og hindre at norske bidrag til dette går til [pushbacks](https://tidsskriftet.no/2021/08/kronikk/norge-sjofartsnasjonen-som-lar-mennesker-drukne) eller militser.",
-      "original": "20. Ta initiativ til felleseuropeiske løsninger for tilstrekkelig søk- og redningskapasitet i Middelhavet, og hindre at norske bidrag til dette går til [pushbacks](https://tidsskriftet.no/2021/08/kronikk/norge-sjofartsnasjonen-som-lar-mennesker-drukne) eller militser."
+      "text": "Ta initiativ til felleseuropeiske løsninger for tilstrekkelig søk- og redningskapasitet i Middelhavet, og hindre at norske bidrag til dette går til pushbacks eller militser.",
+      "original": "20. Ta initiativ til felleseuropeiske løsninger for tilstrekkelig søk- og redningskapasitet i Middelhavet, og hindre at norske bidrag til dette går til pushbacks eller militser."
     },
     { "type": "empty", "original": "" },
     {
@@ -9284,7 +9241,7 @@
     {
       "type": "section",
       "sectionId": "7.4",
-      "title": "FORSVAR** {#7.4-forsvar}",
+      "title": "FORSVAR",
       "original": "## **7.4 FORSVAR** {#7.4-forsvar}"
     },
     { "type": "empty", "original": "" },
@@ -9405,7 +9362,7 @@
     {
       "type": "section",
       "sectionId": "7.5",
-      "title": "NORGE I NORD** {#7.5-norge-i-nord}",
+      "title": "NORGE I NORD",
       "original": "## **7.5 NORGE I NORD** {#7.5-norge-i-nord}"
     },
     { "type": "empty", "original": "" },
@@ -9504,7 +9461,7 @@
     {
       "type": "section",
       "sectionId": "7.6",
-      "title": "EUROPAPOLITIKK** {#7.6-europapolitikk}",
+      "title": "EUROPAPOLITIKK",
       "original": "## **7.6 EUROPAPOLITIKK** {#7.6-europapolitikk}"
     },
     { "type": "empty", "original": "" },
@@ -9576,7 +9533,7 @@
     {
       "type": "section",
       "sectionId": "7.7",
-      "title": "STATENS PENSJONSFOND UTLAND** {#7.7-statens-pensjonsfond-utland}",
+      "title": "STATENS PENSJONSFOND UTLAND",
       "original": "## **7.7 STATENS PENSJONSFOND UTLAND** {#7.7-statens-pensjonsfond-utland}"
     },
     { "type": "empty", "original": "" },
@@ -9613,7 +9570,7 @@
     {
       "type": "section",
       "sectionId": "7.8",
-      "title": "INTERNASJONAL HANDEL OG ØKONOMI** {#7.8-internasjonal-handel-og-økonomi}",
+      "title": "INTERNASJONAL HANDEL OG ØKONOMI",
       "original": "## **7.8 INTERNASJONAL HANDEL OG ØKONOMI** {#7.8-internasjonal-handel-og-økonomi}"
     },
     { "type": "empty", "original": "" },
@@ -9671,8 +9628,8 @@
     {
       "type": "numberedItem",
       "itemId": "8",
-      "text": "Arbeide for en internasjonal Robin Hood-skatt ([Tobinskatt](https://snl.no/James_Tobin)) på omsetning av valuta og verdipapirer, som skal øremerkes tiltak for bærekraftig utvikling.",
-      "original": "8. Arbeide for en internasjonal Robin Hood-skatt ([Tobinskatt](https://snl.no/James_Tobin)) på omsetning av valuta og verdipapirer, som skal øremerkes tiltak for bærekraftig utvikling."
+      "text": "Arbeide for en internasjonal Robin Hood-skatt (Tobinskatt) på omsetning av valuta og verdipapirer, som skal øremerkes tiltak for bærekraftig utvikling.",
+      "original": "8. Arbeide for en internasjonal Robin Hood-skatt (Tobinskatt) på omsetning av valuta og verdipapirer, som skal øremerkes tiltak for bærekraftig utvikling."
     },
     { "type": "empty", "original": "" },
     {
@@ -9692,7 +9649,7 @@
     {
       "type": "section",
       "sectionId": "7.9",
-      "title": "INTERNASJONALT UTVIKLINGSSAMARBEID OG HUMANITÆR BISTAND** {#7.9-internasjonalt-utviklingssamarbeid-og-humanitær-bistand}",
+      "title": "INTERNASJONALT UTVIKLINGSSAMARBEID OG HUMANITÆR BISTAND",
       "original": "## **7.9 INTERNASJONALT UTVIKLINGSSAMARBEID OG HUMANITÆR BISTAND** {#7.9-internasjonalt-utviklingssamarbeid-og-humanitær-bistand}"
     },
     { "type": "empty", "original": "" },
@@ -9764,7 +9721,7 @@
     {
       "type": "section",
       "sectionId": "7.10",
-      "title": "KLIMA- OG NATURBISTAND** {#7.10-klima--og-naturbistand}",
+      "title": "KLIMA- OG NATURBISTAND",
       "original": "## **7.10 KLIMA- OG NATURBISTAND** {#7.10-klima--og-naturbistand}"
     },
     { "type": "empty", "original": "" },
