@@ -1,39 +1,21 @@
 import { InputItem } from "./parse-markdown-line";
-
-type Document = { chapters: Chapter[] };
-type Chapter = {
-  chapterId: string;
-  title: string;
-  children: (Section | Paragraph | Headline)[];
-};
-type Section = {
-  type: "section";
-  chapterId: string;
-  sectionId: string;
-  title: string;
-  children: (NumberedItem | Headline | Paragraph | ListHeader)[];
-};
-type TextItem = { chapterId: string; sectionId?: string; text: string };
-type NumberedItem = TextItem & { type: "numberedItem"; itemId: string };
-type Headline = TextItem & { type: "headline" | "proposalsStart" };
-type Paragraph = TextItem & { type: "paragraph" };
-type ListHeader = TextItem & { type: "listHeader" };
+import { DocChapter, DocDocument, DocSection } from "../src/data/document";
 
 export function buildDocument(items: InputItem[]) {
-  const document: Document = { chapters: [] };
-  let currentChapter: Chapter;
-  let currentSection: Section | undefined;
+  const document: DocDocument = { chapters: [] };
+  let currentChapter: DocChapter;
+  let currentSection: DocSection | undefined;
   for (const item of items) {
     const { type } = item;
     if (type === "chapter") {
-      const { chapterId, title } = item;
-      currentChapter = { chapterId, title, children: [] };
+      const { chapterId, text } = item;
+      currentChapter = { type, chapterId, text, children: [] };
       document.chapters.push(currentChapter);
       currentSection = undefined;
     } else if (type === "section") {
-      const { sectionId, title } = item;
+      const { sectionId, text } = item;
       const { chapterId } = currentChapter!;
-      currentSection = { type, chapterId, sectionId, title, children: [] };
+      currentSection = { type, chapterId, sectionId, text, children: [] };
       currentChapter!.children.push(currentSection);
     } else if (type === "numberedItem") {
       const { chapterId, sectionId } = currentSection!;

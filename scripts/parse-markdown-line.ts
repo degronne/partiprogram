@@ -4,10 +4,10 @@ export type InputItem =
   | { type: "listHeader"; text: string }
   | { type: "numberedItem"; itemId: string; text: string; original: string }
   | { type: "paragraph"; text: string }
-  | { type: "chapter"; chapterId: string; title: string; original: string }
+  | { type: "chapter"; chapterId: string; text: string; original: string }
   | { type: "proposalsStart"; sectionId: string; original: string }
   | { type: "headline"; text: string; original: string }
-  | { type: "section"; sectionId: string; title: string; original: string }
+  | { type: "section"; sectionId: string; text: string; original: string }
   | { type: "tableOfContentsEntry"; original: string }
   | { type: "tableOfContentsHeader"; original: string };
 
@@ -59,24 +59,24 @@ function parseSectionHeader(original: string): InputItem | void {
     /^## \*\*(\d+(\.\d+)+) ([A-ZÆØÅÜ0-9, -]+)\*\* {#.+}$/,
   );
   if (matcher) {
-    const [, sectionId, , title] = matcher;
-    return { type: "section", sectionId, title, original };
+    const [, sectionId, , text] = matcher;
+    return { type: "section", sectionId, text, original };
   }
 }
 
 function parseChapter(original: string): InputItem | void {
   const matcher = original.match(/^# \*\*(\d+)\. (.*)\*\* {#.+}$/);
   if (matcher) {
-    const [, chapterId, title] = matcher;
-    return { type: "chapter", chapterId, title, original };
+    const [, chapterId, text] = matcher;
+    return { type: "chapter", chapterId, text, original };
   }
 }
 
 function parseSubChapter(original: string): InputItem | void {
   const matcher = original.match(/^# \*\*(\d+(\.\d+)+) (.*)\*\* {#.+}$/);
   if (matcher) {
-    const [, chapterId, , title] = matcher;
-    return { type: "chapter", chapterId, title, original };
+    const [, chapterId, , text] = matcher;
+    return { type: "chapter", chapterId, text, original };
   }
 }
 

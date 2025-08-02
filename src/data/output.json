@@ -1,8 +1,9 @@
 {
   "chapters": [
     {
+      "type": "chapter",
       "chapterId": "1",
-      "title": "VÅR LEVENDE JORD",
+      "text": "VÅR LEVENDE JORD",
       "children": [
         { "type": "headline", "chapterId": "1", "text": "VISJON 2045" },
         {
@@ -129,7 +130,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.1",
-          "title": "KLIMA",
+          "text": "KLIMA",
           "children": [
             {
               "type": "listHeader",
@@ -307,7 +308,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.2",
-          "title": "NATUREN PÅ LAND",
+          "text": "NATUREN PÅ LAND",
           "children": [
             {
               "type": "listHeader",
@@ -453,7 +454,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.3",
-          "title": "HAV, FJORDER OG VASSDRAG",
+          "text": "HAV, FJORDER OG VASSDRAG",
           "children": [
             {
               "type": "listHeader",
@@ -564,7 +565,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.4",
-          "title": "MILJØGIFTER OG FORURENSING",
+          "text": "MILJØGIFTER OG FORURENSING",
           "children": [
             {
               "type": "listHeader",
@@ -647,7 +648,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.5",
-          "title": "PLAST",
+          "text": "PLAST",
           "children": [
             {
               "type": "listHeader",
@@ -744,7 +745,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.6",
-          "title": "ANNET AVFALL",
+          "text": "ANNET AVFALL",
           "children": [
             {
               "type": "listHeader",
@@ -813,7 +814,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.7",
-          "title": "DYREVERN OG DYREVELFERD",
+          "text": "DYREVERN OG DYREVELFERD",
           "children": [
             {
               "type": "listHeader",
@@ -1008,7 +1009,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.8",
-          "title": "ENERGI",
+          "text": "ENERGI",
           "children": [
             {
               "type": "listHeader",
@@ -1195,8 +1196,9 @@
       ]
     },
     {
+      "type": "chapter",
       "chapterId": "2",
-      "title": "VELFERD HELE LIVET",
+      "text": "VELFERD HELE LIVET",
       "children": [
         { "type": "headline", "chapterId": "2", "text": "VISJON 2045" },
         {
@@ -1233,8 +1235,9 @@
       ]
     },
     {
+      "type": "chapter",
       "chapterId": "2.1",
-      "title": "INKLUDERING OG KAMP MOT FATTIGDOM",
+      "text": "INKLUDERING OG KAMP MOT FATTIGDOM",
       "children": [
         { "type": "headline", "chapterId": "2.1", "text": "GODE LIV FOR ALLE" },
         {
@@ -1282,7 +1285,7 @@
           "type": "section",
           "chapterId": "2.1",
           "sectionId": "2.1.1",
-          "title": "FORDELING OG FATTIGDOMSBEKJEMPELSE",
+          "text": "FORDELING OG FATTIGDOMSBEKJEMPELSE",
           "children": [
             {
               "type": "listHeader",
@@ -1407,7 +1410,7 @@
           "type": "section",
           "chapterId": "2.1",
           "sectionId": "2.1.2",
-          "title": "FOREBYGGE UNGT UTENFORSKAP",
+          "text": "FOREBYGGE UNGT UTENFORSKAP",
           "children": [
             {
               "type": "listHeader",
@@ -1483,7 +1486,7 @@
           "type": "section",
           "chapterId": "2.1",
           "sectionId": "2.1.3",
-          "title": "ARBEIDSLIV OG ARBEIDSINKLUDERING",
+          "text": "ARBEIDSLIV OG ARBEIDSINKLUDERING",
           "children": [
             {
               "type": "listHeader",
@@ -1650,7 +1653,7 @@
           "type": "section",
           "chapterId": "2.1",
           "sectionId": "2.1.4",
-          "title": "BOLIGPOLITIKK",
+          "text": "BOLIGPOLITIKK",
           "children": [
             {
               "type": "listHeader",
@@ -1740,7 +1743,7 @@
           "type": "section",
           "chapterId": "2.1",
           "sectionId": "2.1.5",
-          "title": "SENIORPOLITIKK",
+          "text": "SENIORPOLITIKK",
           "children": [
             {
               "type": "listHeader",
@@ -1829,8 +1832,9 @@
       ]
     },
     {
+      "type": "chapter",
       "chapterId": "2.2",
-      "title": "OPPVEKST OG KUNNSKAP",
+      "text": "OPPVEKST OG KUNNSKAP",
       "children": [
         { "type": "headline", "chapterId": "2.2", "text": "LA BARNA LEKE\\!" },
         {
@@ -1872,7 +1876,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.1",
-          "title": "GOD BARNDOM OG FAMILIELIV",
+          "text": "GOD BARNDOM OG FAMILIELIV",
           "children": [
             {
               "type": "listHeader",
@@ -1987,7 +1991,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.2",
-          "title": "BARNEVERN OG FAMILIEVERN",
+          "text": "BARNEVERN OG FAMILIEVERN",
           "children": [
             {
               "type": "listHeader",
@@ -2098,7 +2102,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.3",
-          "title": "BARNEHAGE",
+          "text": "BARNEHAGE",
           "children": [
             {
               "type": "listHeader",
@@ -2186,7 +2190,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.4",
-          "title": "SKOLE OG OPPLÆRING",
+          "text": "SKOLE OG OPPLÆRING",
           "children": [
             {
               "type": "listHeader",
@@ -2531,7 +2535,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.5",
-          "title": "HØYERE UTDANNING OG STUDENTER",
+          "text": "HØYERE UTDANNING OG STUDENTER",
           "children": [
             {
               "type": "listHeader",
@@ -2642,7 +2646,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.6",
-          "title": "FORSKNING",
+          "text": "FORSKNING",
           "children": [
             {
               "type": "listHeader",
@@ -2770,8 +2774,9 @@
       ]
     },
     {
+      "type": "chapter",
       "chapterId": "2.3",
-      "title": "HELSE OG OMSORG",
+      "text": "HELSE OG OMSORG",
       "children": [
         {
           "type": "headline",
@@ -2843,7 +2848,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.1",
-          "title": "FOLKEHELSE",
+          "text": "FOLKEHELSE",
           "children": [
             {
               "type": "listHeader",
@@ -2975,7 +2980,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.2",
-          "title": "FØDSEL OG BARSELOMSORG",
+          "text": "FØDSEL OG BARSELOMSORG",
           "children": [
             {
               "type": "numberedItem",
@@ -3032,7 +3037,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.3",
-          "title": "NÆRE HELSETJENESTER",
+          "text": "NÆRE HELSETJENESTER",
           "children": [
             {
               "type": "listHeader",
@@ -3164,7 +3169,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.4",
-          "title": "SPESIALISTHELSETJENESTEN",
+          "text": "SPESIALISTHELSETJENESTEN",
           "children": [
             {
               "type": "listHeader",
@@ -3268,7 +3273,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.5",
-          "title": "PSYKISK HELSE",
+          "text": "PSYKISK HELSE",
           "children": [
             {
               "type": "listHeader",
@@ -3358,7 +3363,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.6",
-          "title": "RUSPOLITIKK",
+          "text": "RUSPOLITIKK",
           "children": [
             {
               "type": "listHeader",
@@ -3510,8 +3515,9 @@
       ]
     },
     {
+      "type": "chapter",
       "chapterId": "3",
-      "title": "VERDISKAPING SOM VARER",
+      "text": "VERDISKAPING SOM VARER",
       "children": [
         { "type": "headline", "chapterId": "3", "text": "VISJON 2045" },
         {
@@ -3643,7 +3649,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.1",
-          "title": "TRYGT UT AV OLJEALDEREN",
+          "text": "TRYGT UT AV OLJEALDEREN",
           "children": [
             {
               "type": "listHeader",
@@ -3761,7 +3767,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.2",
-          "title": "NÆRINGSPOLITIKK FOR SIRKULÆRØKONOMI",
+          "text": "NÆRINGSPOLITIKK FOR SIRKULÆRØKONOMI",
           "children": [
             {
               "type": "listHeader",
@@ -3921,7 +3927,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.3",
-          "title": "GRÜNDERE OG SMÅBEDRIFTER",
+          "text": "GRÜNDERE OG SMÅBEDRIFTER",
           "children": [
             {
               "type": "listHeader",
@@ -4053,7 +4059,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.4",
-          "title": "EN GRØNN ØKONOMISK KURS",
+          "text": "EN GRØNN ØKONOMISK KURS",
           "children": [
             {
               "type": "listHeader",
@@ -4122,7 +4128,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.5",
-          "title": "SKATT OG AVGIFTER",
+          "text": "SKATT OG AVGIFTER",
           "children": [
             {
               "type": "listHeader",
@@ -4240,7 +4246,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.6",
-          "title": "OFFENTLIGE INNKJØP",
+          "text": "OFFENTLIGE INNKJØP",
           "children": [
             {
               "type": "listHeader",
@@ -4302,7 +4308,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.7",
-          "title": "MATSYSTEMET",
+          "text": "MATSYSTEMET",
           "children": [
             {
               "type": "listHeader",
@@ -4385,7 +4391,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.8",
-          "title": "JORDBRUK",
+          "text": "JORDBRUK",
           "children": [
             {
               "type": "listHeader",
@@ -4531,7 +4537,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.9",
-          "title": "FISKERI",
+          "text": "FISKERI",
           "children": [
             {
               "type": "listHeader",
@@ -4621,7 +4627,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.10",
-          "title": "OPPDRETT OG HAVBRUK",
+          "text": "OPPDRETT OG HAVBRUK",
           "children": [
             {
               "type": "listHeader",
@@ -4704,7 +4710,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.11",
-          "title": "SKOGBRUK",
+          "text": "SKOGBRUK",
           "children": [
             {
               "type": "listHeader",
@@ -4793,8 +4799,9 @@
       ]
     },
     {
+      "type": "chapter",
       "chapterId": "4",
-      "title": "DEMOKRATI FOR ALLE",
+      "text": "DEMOKRATI FOR ALLE",
       "children": [
         { "type": "headline", "chapterId": "4", "text": "VISJON 2045" },
         {
@@ -4916,7 +4923,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.1",
-          "title": "ANTIRASISME OG TRYGGHET FRA DISKRIMINERING",
+          "text": "ANTIRASISME OG TRYGGHET FRA DISKRIMINERING",
           "children": [
             {
               "type": "listHeader",
@@ -4999,7 +5006,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.2",
-          "title": "TA BORT FUNKSJONSHINDRE",
+          "text": "TA BORT FUNKSJONSHINDRE",
           "children": [
             {
               "type": "listHeader",
@@ -5138,7 +5145,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.3",
-          "title": "LIKESTILLING OG SELVBESTEMMELSE",
+          "text": "LIKESTILLING OG SELVBESTEMMELSE",
           "children": [
             {
               "type": "listHeader",
@@ -5242,7 +5249,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.4",
-          "title": "SKEIVES RETTIGHETER OG KJØNNSMANGFOLD",
+          "text": "SKEIVES RETTIGHETER OG KJØNNSMANGFOLD",
           "children": [
             {
               "type": "listHeader",
@@ -5360,7 +5367,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.5",
-          "title": "VERN MOT VOLD OG OVERGREP",
+          "text": "VERN MOT VOLD OG OVERGREP",
           "children": [
             {
               "type": "listHeader",
@@ -5492,7 +5499,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.6",
-          "title": "DEMOKRATI",
+          "text": "DEMOKRATI",
           "children": [
             {
               "type": "listHeader",
@@ -5617,7 +5624,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.7",
-          "title": "DIGITALISERING OG KUNSTIG INTELLIGENS",
+          "text": "DIGITALISERING OG KUNSTIG INTELLIGENS",
           "children": [
             {
               "type": "listHeader",
@@ -5816,7 +5823,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.8",
-          "title": "MEDIER OG OFFENTLIGHET",
+          "text": "MEDIER OG OFFENTLIGHET",
           "children": [
             {
               "type": "listHeader",
@@ -5920,7 +5927,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.9",
-          "title": "RETTSSTAT, MENNESKERETTIGHETER OG POLITI",
+          "text": "RETTSSTAT, MENNESKERETTIGHETER OG POLITI",
           "children": [
             {
               "type": "listHeader",
@@ -6066,7 +6073,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.10",
-          "title": "KRIMINALOMSORG",
+          "text": "KRIMINALOMSORG",
           "children": [
             {
               "type": "listHeader",
@@ -6156,7 +6163,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.11",
-          "title": "URFOLK OG NASJONALE MINORITETER",
+          "text": "URFOLK OG NASJONALE MINORITETER",
           "children": [
             {
               "type": "listHeader",
@@ -6288,7 +6295,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.12",
-          "title": "SPRÅK",
+          "text": "SPRÅK",
           "children": [
             {
               "type": "listHeader",
@@ -6412,8 +6419,9 @@
       ]
     },
     {
+      "type": "chapter",
       "chapterId": "5",
-      "title": "LIVSKRAFTIGE LOKALSAMFUNN",
+      "text": "LIVSKRAFTIGE LOKALSAMFUNN",
       "children": [
         { "type": "headline", "chapterId": "5", "text": "VISJON 2045" },
         {
@@ -6565,7 +6573,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.1",
-          "title": "LOKALT SELVSTYRE",
+          "text": "LOKALT SELVSTYRE",
           "children": [
             {
               "type": "listHeader",
@@ -6655,7 +6663,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.2",
-          "title": "VENNLIGE, FRODIGE OG OPPFINNSOMME BYER",
+          "text": "VENNLIGE, FRODIGE OG OPPFINNSOMME BYER",
           "children": [
             {
               "type": "listHeader",
@@ -6759,7 +6767,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.3",
-          "title": "LEVENDE, GRØNNE DISTRIKTER",
+          "text": "LEVENDE, GRØNNE DISTRIKTER",
           "children": [
             {
               "type": "listHeader",
@@ -6849,7 +6857,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.4",
-          "title": "FRIHET FRA OVERFORBRUKET",
+          "text": "FRIHET FRA OVERFORBRUKET",
           "children": [
             {
               "type": "listHeader",
@@ -6932,7 +6940,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.5",
-          "title": "INTEGRERING OG INKLUDERING",
+          "text": "INTEGRERING OG INKLUDERING",
           "children": [
             {
               "type": "listHeader",
@@ -7022,7 +7030,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.6",
-          "title": "SIVILSAMFUNN OG FRIVILLIGHET",
+          "text": "SIVILSAMFUNN OG FRIVILLIGHET",
           "children": [
             {
               "type": "listHeader",
@@ -7098,7 +7106,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.7",
-          "title": "KUNST OG KULTUR",
+          "text": "KUNST OG KULTUR",
           "children": [
             {
               "type": "listHeader",
@@ -7216,7 +7224,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.8",
-          "title": "KULTURARV",
+          "text": "KULTURARV",
           "children": [
             {
               "type": "listHeader",
@@ -7348,7 +7356,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.9",
-          "title": "RELIGION OG LIVSSYN",
+          "text": "RELIGION OG LIVSSYN",
           "children": [
             {
               "type": "listHeader",
@@ -7424,7 +7432,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.10",
-          "title": "FRILUFTSLIV, IDRETT OG FYSISK AKTIVITET",
+          "text": "FRILUFTSLIV, IDRETT OG FYSISK AKTIVITET",
           "children": [
             {
               "type": "listHeader",
@@ -7541,8 +7549,9 @@
       ]
     },
     {
+      "type": "chapter",
       "chapterId": "6",
-      "title": "MOBILITET I HELE LANDET",
+      "text": "MOBILITET I HELE LANDET",
       "children": [
         { "type": "headline", "chapterId": "6", "text": "VISJON 2045" },
         {
@@ -7649,7 +7658,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.1",
-          "title": "GRØNNE VERKTØY I SAMFERDSEL",
+          "text": "GRØNNE VERKTØY I SAMFERDSEL",
           "children": [
             {
               "type": "listHeader",
@@ -7760,7 +7769,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.2",
-          "title": "SYKKEL OG GANGE",
+          "text": "SYKKEL OG GANGE",
           "children": [
             {
               "type": "listHeader",
@@ -7822,7 +7831,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.3",
-          "title": "KOLLEKTIVTILBUD SOM RYGGRAD I PERSONTRANSPORT I HELE LANDET",
+          "text": "KOLLEKTIVTILBUD SOM RYGGRAD I PERSONTRANSPORT I HELE LANDET",
           "children": [
             {
               "type": "listHeader",
@@ -7898,7 +7907,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.4",
-          "title": "TOG",
+          "text": "TOG",
           "children": [
             {
               "type": "listHeader",
@@ -8023,7 +8032,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.5",
-          "title": "DELEMOBILITET",
+          "text": "DELEMOBILITET",
           "children": [
             {
               "type": "listHeader",
@@ -8092,7 +8101,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.6",
-          "title": "VEITRAFIKK",
+          "text": "VEITRAFIKK",
           "children": [
             {
               "type": "listHeader",
@@ -8238,7 +8247,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.7",
-          "title": "SJØ- OG LUFTFART",
+          "text": "SJØ- OG LUFTFART",
           "children": [
             {
               "type": "listHeader",
@@ -8363,7 +8372,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.8",
-          "title": "BÆREKRAFTIG REKREASJON OG REISELIV",
+          "text": "BÆREKRAFTIG REKREASJON OG REISELIV",
           "children": [
             {
               "type": "listHeader",
@@ -8473,8 +8482,9 @@
       ]
     },
     {
+      "type": "chapter",
       "chapterId": "7",
-      "title": "EN TRYGGERE VERDEN",
+      "text": "EN TRYGGERE VERDEN",
       "children": [
         { "type": "headline", "chapterId": "7", "text": "VISJON 2045" },
         {
@@ -8597,7 +8607,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.1",
-          "title": "BEREDSKAP",
+          "text": "BEREDSKAP",
           "children": [
             {
               "type": "listHeader",
@@ -8708,7 +8718,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.2",
-          "title": "INTERNASJONALT SAMARBEID FOR FRED",
+          "text": "INTERNASJONALT SAMARBEID FOR FRED",
           "children": [
             {
               "type": "listHeader",
@@ -8826,7 +8836,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.3",
-          "title": "ASYL- OG FLYKTNINGPOLITIKK",
+          "text": "ASYL- OG FLYKTNINGPOLITIKK",
           "children": [
             {
               "type": "listHeader",
@@ -9000,7 +9010,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.4",
-          "title": "FORSVAR",
+          "text": "FORSVAR",
           "children": [
             {
               "type": "listHeader",
@@ -9125,7 +9135,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.5",
-          "title": "NORGE I NORD",
+          "text": "NORGE I NORD",
           "children": [
             {
               "type": "listHeader",
@@ -9229,7 +9239,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.6",
-          "title": "EUROPAPOLITIKK",
+          "text": "EUROPAPOLITIKK",
           "children": [
             {
               "type": "listHeader",
@@ -9305,7 +9315,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.7",
-          "title": "STATENS PENSJONSFOND UTLAND",
+          "text": "STATENS PENSJONSFOND UTLAND",
           "children": [
             {
               "type": "listHeader",
@@ -9346,7 +9356,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.8",
-          "title": "INTERNASJONAL HANDEL OG ØKONOMI",
+          "text": "INTERNASJONAL HANDEL OG ØKONOMI",
           "children": [
             {
               "type": "listHeader",
@@ -9429,7 +9439,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.9",
-          "title": "INTERNASJONALT UTVIKLINGSSAMARBEID OG HUMANITÆR BISTAND",
+          "text": "INTERNASJONALT UTVIKLINGSSAMARBEID OG HUMANITÆR BISTAND",
           "children": [
             {
               "type": "listHeader",
@@ -9505,7 +9515,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.10",
-          "title": "KLIMA- OG NATURBISTAND",
+          "text": "KLIMA- OG NATURBISTAND",
           "children": [
             {
               "type": "listHeader",
