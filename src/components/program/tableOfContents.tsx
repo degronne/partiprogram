@@ -39,16 +39,18 @@ export function TableOfContents({ sections }: { sections: SectionNode[] }) {
   return (
     <>
       <ProgramSearch setMatches={setMatches} matches={matches} />
-      <ul>
-        {sections
-          .filter((s) => itemMatchesSearch(s))
-          .map((s) => (
-            <li key={s.number}>
-              {s.number} {s.title || "mangler tittel"}
-              <TableOfContentSubsections chapter={s.number} section={s} />
-            </li>
-          ))}
-      </ul>
+      <div className={"items"}>
+        <ul>
+          {sections
+            .filter((s) => itemMatchesSearch(s))
+            .map((s) => (
+              <li key={s.number}>
+                {s.number} {s.title || "mangler tittel"}
+                <TableOfContentSubsections chapter={s.number} section={s} />
+              </li>
+            ))}
+        </ul>
+      </div>
     </>
   );
 }

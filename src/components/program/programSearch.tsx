@@ -12,7 +12,7 @@ export function ProgramSearch({
   const [query, setQuery] = useState("");
   function executeQuery() {
     console.log({ query });
-    const result = fuse.search(query);
+    const result = query.split(" ").flatMap((w) => fuse.search(w));
     setMatches(result);
     console.log({ result });
   }
