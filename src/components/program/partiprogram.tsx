@@ -1,19 +1,19 @@
 import React from "react";
-import { partiprogram } from "../../data/program";
 import { TableOfContents } from "./tableOfContents";
 import { ProgramText } from "./programText";
 import { Header } from "./programHeader";
+import { appDocument } from "../../data/document";
 
 export function Partiprogram() {
   return (
     <>
-      <Header sections={partiprogram} />
+      <Header doc={appDocument} />
       <main>
         <section className={"contents"}>
-          <TableOfContents sections={partiprogram} />
+          <TableOfContents doc={appDocument} />
         </section>
         <section className={"text"}>
-          <ProgramText sections={partiprogram} />
+          <ProgramText doc={appDocument} />
         </section>
       </main>
     </>

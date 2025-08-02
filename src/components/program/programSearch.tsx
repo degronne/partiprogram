@@ -1,20 +1,17 @@
-import { fuse, SectionNode, Words } from "../../data/program";
 import React, { useEffect, useState } from "react";
-import { FuseResult } from "fuse.js";
+import { search, SearchMatch } from "../../data/search";
+import { DocDocumentFragment } from "../../data/document";
 
 export function ProgramSearch({
   matches,
   setMatches,
 }: {
-  matches: FuseResult<Words>[];
-  setMatches: (wordMatch: FuseResult<Words>[]) => void;
+  matches: Map<DocDocumentFragment, SearchMatch[]>;
+  setMatches: (wordMatch: Map<DocDocumentFragment, SearchMatch[]>) => void;
 }) {
   const [query, setQuery] = useState("");
   function executeQuery() {
-    console.log({ query });
-    const result = query.split(" ").flatMap((w) => fuse.search(w));
-    setMatches(result);
-    console.log({ result });
+    setMatches(search(query));
   }
 
   useEffect(() => executeQuery(), [query]);
@@ -33,7 +30,7 @@ export function ProgramSearch({
           onChange={(e) => setQuery(e.target.value)}
         />
         <button>Søk</button>
-        <p>{matches.length > 0 && `${matches.length} treff`}</p>
+        <p>{matches.size > 0 && `${matches.size} treff`}</p>
       </form>
     </div>
   );

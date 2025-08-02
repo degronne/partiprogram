@@ -1,39 +1,48 @@
-import { ContentItem, SectionNode, Words } from "../../data/program";
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { ProgramSearch } from "./programSearch";
-import { FuseResult } from "fuse.js";
+import {
+  DocDocument,
+  DocDocumentFragment,
+  DocHeadline,
+  DocParagraph,
+  DocSection,
+} from "../../data/document";
+import { SearchMatch } from "../../data/search";
 
-function TableOfContentSubsections({
-  section,
-  chapter,
+function ChapterChild({
+  fragment,
 }: {
-  section: SectionNode;
-  chapter?: string;
+  fragment: DocSection | DocParagraph | DocHeadline;
 }) {
-  return (
-    <ul>
-      {section.children.map((s) =>
-        "children" in s ? (
-          <li key={s.number}>
-            <Link to={`/seksjon/${chapter}/${s.number}`}>
-              {s.number} {s.title}
-            </Link>
-          </li>
-        ) : null,
-      )}
-    </ul>
-  );
+  if (fragment.type === "section") {
+    const { chapterId, sectionId, text } = fragment;
+    return (
+      <li key={sectionId}>
+        <Link to={`/seksjon/${chapterId}/${sectionId}`}>
+          {sectionId} {text}
+        </Link>
+      </li>
+    );
+  }
+  return null;
 }
 
-export function TableOfContents({ sections }: { sections: SectionNode[] }) {
-  const [matches, setMatches] = useState<FuseResult<Words>[]>([]);
+export function TableOfContents({ doc }: { doc: DocDocument }) {
+  const [matches, setMatches] = useState<
+    Map<DocDocumentFragment, SearchMatch[]>
+  >(new Map());
 
-  function itemMatchesSearch(section: SectionNode | ContentItem) {
-    if (!matches.length) return true;
-    if ("children" in section)
-      return matches.some((m) => m.item.doc.chapterNumber === section.number);
-    return false;
+  function itemMatchesSearch(fragment: DocDocumentFragment) {
+    if (!matches.size) return true;
+
+    if ("sectionId" in fragment) {
+      return [...matches.keys()].some(
+        (m) => "sectionId" in m && m.sectionId === fragment.sectionId,
+      );
+    }
+
+    return [...matches.keys()].some((m) => m.chapterId === fragment.chapterId);
   }
 
   return (
@@ -41,12 +50,20 @@ export function TableOfContents({ sections }: { sections: SectionNode[] }) {
       <ProgramSearch setMatches={setMatches} matches={matches} />
       <div className={"items"}>
         <ul>
-          {sections
+          {doc.chapters
             .filter((s) => itemMatchesSearch(s))
-            .map((s) => (
-              <li key={s.number}>
-                {s.number} {s.title || "mangler tittel"}
-                <TableOfContentSubsections chapter={s.number} section={s} />
+            .map(({ chapterId, text, children }) => (
+              <li key={chapterId}>
+                <Link to={`/section/${chapterId}`}>
+                  {chapterId} {text}
+                </Link>
+                <ul>
+                  {children
+                    .filter((c) => itemMatchesSearch(c))
+                    .map((child) => (
+                      <ChapterChild key={child.sectionId} fragment={child} />
+                    ))}
+                </ul>
               </li>
             ))}
         </ul>

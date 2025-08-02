@@ -1,28 +1,26 @@
 import { Route, Routes, useParams } from "react-router-dom";
 import React from "react";
-import { SectionNode } from "../../data/program";
+import { DocDocument } from "../../data/document";
 
-function SectionHeader({ sections }: { sections: SectionNode[] }) {
+function SectionHeader({ doc }: { doc: DocDocument }) {
   const { chapterId, sectionId } = useParams();
-  const chapter = sections.find((s) => s.number == chapterId);
-  const section = chapter?.children.find(
-    (s) => "number" in s && s.number == sectionId,
-  );
+  const chapter = doc.chapters.find((s) => s.chapterId == chapterId);
+  const section = chapter?.children.find((s) => s.sectionId == sectionId);
   return (
     <h1>
-      Program &gt; {chapter?.title || chapter?.number} &gt; {sectionId}{" "}
-      {section && "title" in section && section?.title}
+      Program &gt; {chapter?.chapterId} {chapter?.text} &gt; {sectionId}{" "}
+      {section?.text}
     </h1>
   );
 }
 
-export function Header({ sections }: { sections: SectionNode[] }) {
+export function Header({ doc }: { doc: DocDocument }) {
   return (
     <header>
       <Routes>
         <Route
           path={"/seksjon/:chapterId/:sectionId"}
-          element={<SectionHeader sections={sections} />}
+          element={<SectionHeader doc={doc} />}
         />
         <Route path={"*"} element={<h1>MDG partiprogram</h1>} />
       </Routes>
