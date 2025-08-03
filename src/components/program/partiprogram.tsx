@@ -3,10 +3,11 @@ import { TableOfContents } from "./tableOfContents";
 import { ProgramText } from "./programText";
 import { Header } from "./programHeader";
 import { appDocument } from "../../data/document";
+import { SearchContextProvider } from "../search/searchContext";
 
 export function Partiprogram() {
   return (
-    <>
+    <SearchContextProvider>
       <Header doc={appDocument} />
       <main>
         <section className={"contents"}>
@@ -16,6 +17,6 @@ export function Partiprogram() {
           <ProgramText doc={appDocument} />
         </section>
       </main>
-    </>
+    </SearchContextProvider>
   );
 }

@@ -1,29 +1,12 @@
-import React, { useEffect, useState } from "react";
-import { search, SearchMatch } from "../../data/search";
-import { DocDocumentFragment } from "../../data/document";
+import React from "react";
+import { useSearchContext } from "../search/searchContext";
 
-export function ProgramSearch({
-  matches,
-  setMatches,
-}: {
-  matches: Map<DocDocumentFragment, SearchMatch[]>;
-  setMatches: (wordMatch: Map<DocDocumentFragment, SearchMatch[]>) => void;
-}) {
-  const [query, setQuery] = useState("");
-  function executeQuery() {
-    setMatches(search(query));
-  }
-
-  useEffect(() => executeQuery(), [query]);
+export function ProgramSearch() {
+  const { query, setQuery, matches } = useSearchContext();
 
   return (
     <div>
-      <form
-        onSubmit={(e) => {
-          e.preventDefault();
-          executeQuery();
-        }}
-      >
+      <form>
         <input
           type={"search"}
           value={query}
