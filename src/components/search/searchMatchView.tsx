@@ -9,20 +9,20 @@ export function SearchMatchView({
 }) {
   const { matches } = useSearchContext();
   const match = matches.get(fragment);
-
-  if (!match) return null;
-
   const { text } = fragment;
+
+  if (!match) return text;
 
   const boundaries = match.toSorted((a, b) => a.start - b.start);
   const fragments: ReactNode[] = [];
   let curr = 0;
   for (const { start, end } of boundaries) {
     fragments.push(<span>{text.substring(curr, start)}</span>);
-    fragments.push(<u>{text.substring(start, end)}</u>);
+    fragments.push(
+      <span className={"searchMatch"}>{text.substring(start, end)}</span>,
+    );
     curr = end;
   }
   fragments.push(<span>{text.substring(curr)}</span>);
-
   return <>{fragments}</>;
 }

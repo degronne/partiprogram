@@ -38,3 +38,10 @@ main {
     overflow-y: auto;
   }
 }
+
+.searchMatch {
+  background-color: lightyellow;
+  @media (prefers-color-scheme: dark) {
+    color: black;
+  }
+}

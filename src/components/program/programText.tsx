@@ -9,6 +9,7 @@ import {
   DocParagraph,
   DocSection,
 } from "../../data/document";
+import { SearchMatchView } from "../search/searchMatchView";
 
 export function ProgramText({ doc }: { doc: DocDocument }) {
   return (
@@ -84,7 +85,7 @@ function ProgramSectionChild({
   if (type === "numberedItem")
     return (
       <li>
-        {fragment.itemId}. {text}
+        {fragment.itemId}. <SearchMatchView fragment={fragment} />
       </li>
     );
   if (type === "headline" || type == "proposalsStart") return <h3>{text}</h3>;
