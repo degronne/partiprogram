@@ -15,11 +15,7 @@ export function ProgramText({ doc }: { doc: DocDocument }) {
   return (
     <Routes>
       <Route
-        path={"/seksjon/:chapterId"}
-        element={<SingleChapter doc={doc} />}
-      />
-      <Route
-        path={"/seksjon/:chapterId/:sectionId"}
+        path={"/seksjon/:chapterId/:sectionId?"}
         element={<SingleChapter doc={doc} />}
       />
       <Route path={"*"} element={<AllChapters doc={doc} />} />
@@ -61,11 +57,10 @@ export function ProgramChapter({
 }) {
   const ref = useRef<HTMLLIElement | null>(null);
   useEffect(() => {
-    if (sectionId === sectionId)
-      ref.current?.scrollIntoView({ behavior: "smooth" });
+    if (!sectionId) ref.current?.scrollIntoView({ behavior: "smooth" });
   }, [sectionId]);
   return (
-    <section className={"chapter"}>
+    <section className={"chapter"} ref={ref}>
       <h2>
         {chapterId} {text}
       </h2>
@@ -130,5 +125,9 @@ function ProgramChapterChild({
   if (type === "section")
     return <ProgramSection sectionId={sectionId} section={fragment} />;
   if (type === "headline" || type == "proposalsStart") return <h3>{text}</h3>;
-  return <p>{text}</p>;
+  return (
+    <p>
+      <SearchMatchView fragment={fragment} />
+    </p>
+  );
 }

@@ -5,11 +5,17 @@ import { DocDocument } from "../../data/document";
 function SectionHeader({ doc }: { doc: DocDocument }) {
   const { chapterId, sectionId } = useParams();
   const chapter = doc.chapters.find((s) => s.chapterId == chapterId);
-  const section = chapter?.children.find((s) => s.sectionId == sectionId);
+  const section = sectionId
+    ? chapter?.children.find((s) => s.sectionId == sectionId)
+    : undefined;
   return (
     <h1>
-      Program &gt; {chapter?.chapterId} {chapter?.text} &gt; {sectionId}{" "}
-      {section?.text}
+      Program &gt; {chapter?.chapterId} {chapter?.text}
+      {sectionId && (
+        <span>
+          &gt; {sectionId} {section?.text}
+        </span>
+      )}
     </h1>
   );
 }
@@ -19,7 +25,7 @@ export function Header({ doc }: { doc: DocDocument }) {
     <header>
       <Routes>
         <Route
-          path={"/seksjon/:chapterId/:sectionId"}
+          path={"/seksjon/:chapterId/:sectionId?"}
           element={<SectionHeader doc={doc} />}
         />
         <Route path={"*"} element={<h1>MDG partiprogram</h1>} />

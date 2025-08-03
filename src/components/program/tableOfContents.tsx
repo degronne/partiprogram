@@ -26,7 +26,7 @@ function TableOfContentChapter({ chapter }: { chapter: DocChapter }) {
   const { chapterId, text, children } = chapter;
   return (
     <li key={chapterId}>
-      <Link to={`/section/${chapterId}`}>
+      <Link to={`/seksjon/${chapterId}`}>
         {chapterId} {text}
       </Link>
       <SearchMatches fragment={chapter} />
