@@ -28,7 +28,13 @@ function SingleChapter({ doc }: { doc: DocDocument }) {
 
   const chapter = doc.chapters.find((s) => s.chapterId == chapterId);
   if (chapter) {
-    return <ProgramChapter chapter={chapter} sectionId={sectionId} />;
+    return (
+      <ProgramChapter
+        chapter={chapter}
+        chapterId={chapterId}
+        sectionId={sectionId}
+      />
+    );
   }
 
   return (
@@ -49,20 +55,24 @@ export function AllChapters({ doc }: { doc: DocDocument }) {
 }
 
 export function ProgramChapter({
-  chapter: { chapterId, text, children },
+  chapter,
+  chapterId,
   sectionId,
 }: {
   chapter: DocChapter;
+  chapterId?: string;
   sectionId?: string;
 }) {
   const ref = useRef<HTMLLIElement | null>(null);
   useEffect(() => {
-    if (!sectionId) ref.current?.scrollIntoView({ behavior: "smooth" });
+    if (chapter.chapterId === chapterId && !sectionId)
+      ref.current?.scrollIntoView({ behavior: "smooth" });
   }, [sectionId]);
+  const { text, children } = chapter;
   return (
     <section className={"chapter"} ref={ref}>
       <h2>
-        {chapterId} {text}
+        {chapter.chapterId} {text}
       </h2>
       {children.map((c, index) => (
         <ProgramChapterChild key={index} fragment={c} sectionId={sectionId} />
