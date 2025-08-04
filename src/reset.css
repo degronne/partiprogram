@@ -1,0 +1,16 @@
+* {
+  margin: unset;
+  interpolate-size: allow-keywords;
+}
+
+h1,
+h2,
+h3,
+h3,
+p {
+  margin: revert;
+}
+
+a {
+  color: unset;
+}

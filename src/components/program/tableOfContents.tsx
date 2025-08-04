@@ -8,7 +8,6 @@ import { SearchMatches } from "../search/searchMatches";
 export function TableOfContents({ doc }: { doc: DocDocument }) {
   return (
     <>
-      <ProgramSearch />
       <div className={"items"}>
         <ul>
           {doc.chapters.map((chapter) => (
@@ -26,7 +25,7 @@ function TableOfContentChapter({ chapter }: { chapter: DocChapter }) {
   const { chapterId, text, children } = chapter;
   return (
     <li key={chapterId}>
-      <Link to={`/seksjon/${chapterId}`}>
+      <Link to={`/seksjon/${chapterId}`} onClick={() => console.log("test")}>
         {chapterId} {text}
       </Link>
       <SearchMatches fragment={chapter} />

@@ -1,6 +1,7 @@
-import { Route, Routes, useParams } from "react-router-dom";
+import { Link, Route, Routes, useParams } from "react-router-dom";
 import React from "react";
 import { DocDocument } from "../../data/document";
+import { ProgramSearch } from "./programSearch";
 
 function SectionHeader({ doc }: { doc: DocDocument }) {
   const { chapterId, sectionId } = useParams();
@@ -9,27 +10,34 @@ function SectionHeader({ doc }: { doc: DocDocument }) {
     ? chapter?.children.find((s) => s.sectionId == sectionId)
     : undefined;
   return (
-    <h1>
-      Program &gt; {chapter?.chapterId} {chapter?.text}
+    <>
+      <Link to={`/seksjon/${chapter?.chapterId}`}>
+        {chapter?.chapterId} {chapter?.text}
+      </Link>{" "}
       {sectionId && (
-        <span>
+        <span className={"sectionHeader"}>
           &gt; {sectionId} {section?.text}
         </span>
       )}
-    </h1>
+    </>
   );
 }
 
 export function Header({ doc }: { doc: DocDocument }) {
   return (
     <header>
+      <a className={"icon"} href={"https://mdg.no"}>
+        <img src={"/site-icon.png"} alt={"MDG"} />
+      </a>
       <Routes>
         <Route
           path={"/seksjon/:chapterId/:sectionId?"}
           element={<SectionHeader doc={doc} />}
         />
-        <Route path={"*"} element={<h1>MDG partiprogram</h1>} />
+        <Route path={"*"} element={<h1>Partiprogram</h1>} />
       </Routes>
+      <span style={{ flex: 1 }} />
+      <ProgramSearch />
     </header>
   );
 }

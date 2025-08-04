@@ -14,7 +14,9 @@ export function Partiprogram() {
           <TableOfContents doc={appDocument} />
         </section>
         <section className={"text"}>
-          <ProgramText doc={appDocument} />
+          <div className={"text-area"}>
+            <ProgramText doc={appDocument} />
+          </div>
         </section>
       </main>
     </SearchContextProvider>
