@@ -60,7 +60,7 @@ function parseSectionHeader(original: string): InputItem | void {
   );
   if (matcher) {
     const [, sectionId, , text] = matcher;
-    return { type: "section", sectionId, text, original };
+    return { type: "section", sectionId, text: toCapitalized(text), original };
   }
 }
 
@@ -68,7 +68,7 @@ function parseChapter(original: string): InputItem | void {
   const matcher = original.match(/^# \*\*(\d+)\. (.*)\*\* {#.+}$/);
   if (matcher) {
     const [, chapterId, text] = matcher;
-    return { type: "chapter", chapterId, text, original };
+    return { type: "chapter", chapterId, text: toCapitalized(text), original };
   }
 }
 
@@ -76,7 +76,7 @@ function parseSubChapter(original: string): InputItem | void {
   const matcher = original.match(/^# \*\*(\d+(\.\d+)+) (.*)\*\* {#.+}$/);
   if (matcher) {
     const [, chapterId, , text] = matcher;
-    return { type: "chapter", chapterId, text, original };
+    return { type: "chapter", chapterId, text: toCapitalized(text), original };
   }
 }
 
@@ -84,7 +84,7 @@ function parseHeadline(original: string): InputItem | void {
   const matcher = original.match(/^### ([A-ZÆØÅ0-9 ,\\!-]+)$/);
   if (matcher) {
     const [, text] = matcher;
-    return { type: "headline", text, original };
+    return { type: "headline", text: toCapitalized(text), original };
   }
 }
 
@@ -103,4 +103,8 @@ function parseProposalStart(original: string): InputItem | void {
 function unmatched(original: string): InputItem {
   console.warn("unmatched", original);
   return { type: "unknown", original };
+}
+
+function toCapitalized(text: string) {
+  return text[0].toUpperCase() + text.substring(1).toLowerCase();
 }

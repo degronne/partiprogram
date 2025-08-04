@@ -728,7 +728,7 @@ De Grønne vil:
 
 # **2.2 OPPVEKST OG KUNNSKAP** {#2.2-oppvekst-og-kunnskap}
 
-### LA BARNA LEKE\!
+### LA BARNA LEKE!
 
 Å være barn har en unik egenverdi. Det er ikke et mål at barna våre så raskt som mulig skal bli effektive, flinke unge voksne. Som motkraft til en stadig mer gjennomorganisert barndom er det viktig for De Grønne å la barna leke og utvikle seg på egne premisser. En god barnehage og skole har omsorg for barna og tar vare på barns nysgjerrighet og læringslyst. Her får barna leke trygt, bevege seg og utforske nærmiljøet. Kompetente voksne med tid til å ivareta hvert enkelt barns grunnleggende behov og rom for et stort og mangfoldig spekter av barn. Barnets utvikling skal ivaretas i hele utdanningsløpet, både følelsesmessig, motorisk, intellektuelt, sosialt og som skapende mennesker. De Grønne vil redusere omfanget av testing og målstyring og gi lærerne større faglig handlingsrom.
 

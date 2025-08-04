@@ -3,9 +3,9 @@
     {
       "type": "chapter",
       "chapterId": "1",
-      "text": "VÅR LEVENDE JORD",
+      "text": "Vår levende jord",
       "children": [
-        { "type": "headline", "chapterId": "1", "text": "VISJON 2045" },
+        { "type": "headline", "chapterId": "1", "text": "Visjon 2045" },
         {
           "type": "paragraph",
           "chapterId": "1",
@@ -34,7 +34,7 @@
         {
           "type": "headline",
           "chapterId": "1",
-          "text": "VINNERLØSNINGER PÅ NATUR- OG KLIMAKRISEN"
+          "text": "Vinnerløsninger på natur- og klimakrisen"
         },
         {
           "type": "paragraph",
@@ -59,7 +59,7 @@
         {
           "type": "headline",
           "chapterId": "1",
-          "text": "MATEN, LUFTA OG VANNET SKAL VÆRE RENT"
+          "text": "Maten, lufta og vannet skal være rent"
         },
         {
           "type": "paragraph",
@@ -69,7 +69,7 @@
         {
           "type": "headline",
           "chapterId": "1",
-          "text": "ENERGI SKAL PRODUSERES UTEN UTSLIPP OG FORDELES RETTFERDIG"
+          "text": "Energi skal produseres uten utslipp og fordeles rettferdig"
         },
         {
           "type": "paragraph",
@@ -89,7 +89,7 @@
         {
           "type": "headline",
           "chapterId": "1",
-          "text": "DYRA SKAL FÅ LEVE NATURLIGE LIV"
+          "text": "Dyra skal få leve naturlige liv"
         },
         {
           "type": "paragraph",
@@ -99,7 +99,7 @@
         {
           "type": "headline",
           "chapterId": "1",
-          "text": "RESSURSER SOM GÅR I KRETSLØP"
+          "text": "Ressurser som går i kretsløp"
         },
         {
           "type": "paragraph",
@@ -130,7 +130,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.1",
-          "text": "KLIMA",
+          "text": "Klima",
           "children": [
             {
               "type": "listHeader",
@@ -140,7 +140,7 @@
             {
               "type": "headline",
               "chapterId": "1",
-              "text": "NORGES MÅL OG TILTAK",
+              "text": "Norges mål og tiltak",
               "sectionId": "1.1"
             },
             {
@@ -209,7 +209,7 @@
             {
               "type": "headline",
               "chapterId": "1",
-              "text": "GLOBALE KLIMAKUTT",
+              "text": "Globale klimakutt",
               "sectionId": "1.1"
             },
             {
@@ -250,7 +250,7 @@
             {
               "type": "headline",
               "chapterId": "1",
-              "text": "SEKTORVISE TILTAK",
+              "text": "Sektorvise tiltak",
               "sectionId": "1.1"
             },
             {
@@ -308,7 +308,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.2",
-          "text": "NATUREN PÅ LAND",
+          "text": "Naturen på land",
           "children": [
             {
               "type": "listHeader",
@@ -454,7 +454,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.3",
-          "text": "HAV, FJORDER OG VASSDRAG",
+          "text": "Hav, fjorder og vassdrag",
           "children": [
             {
               "type": "listHeader",
@@ -565,7 +565,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.4",
-          "text": "MILJØGIFTER OG FORURENSING",
+          "text": "Miljøgifter og forurensing",
           "children": [
             {
               "type": "listHeader",
@@ -648,7 +648,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.5",
-          "text": "PLAST",
+          "text": "Plast",
           "children": [
             {
               "type": "listHeader",
@@ -745,7 +745,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.6",
-          "text": "ANNET AVFALL",
+          "text": "Annet avfall",
           "children": [
             {
               "type": "listHeader",
@@ -814,7 +814,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.7",
-          "text": "DYREVERN OG DYREVELFERD",
+          "text": "Dyrevern og dyrevelferd",
           "children": [
             {
               "type": "listHeader",
@@ -1009,7 +1009,7 @@
           "type": "section",
           "chapterId": "1",
           "sectionId": "1.8",
-          "text": "ENERGI",
+          "text": "Energi",
           "children": [
             {
               "type": "listHeader",
@@ -1198,9 +1198,9 @@
     {
       "type": "chapter",
       "chapterId": "2",
-      "text": "VELFERD HELE LIVET",
+      "text": "Velferd hele livet",
       "children": [
-        { "type": "headline", "chapterId": "2", "text": "VISJON 2045" },
+        { "type": "headline", "chapterId": "2", "text": "Visjon 2045" },
         {
           "type": "paragraph",
           "chapterId": "2",
@@ -1221,7 +1221,7 @@
           "chapterId": "2",
           "text": "I den framtida vi ser for oss blir ungdommen hørt og tatt på alvor, og opplever at samfunnet trenger dem. Eldre opplever at deres kompetanse kommer samfunnet til gode. Grunnleggende økonomisk trygghet gjør at vi kan senke skuldrene, være kreative og tenke langsiktig. Samfunnet mobiliserer rundt deg den dagen en livskrise rammer. Kortere arbeidsdager gir tid til omsorg og lek for alle aldre. I en grønnere framtid har vi muligheten til å bo mer sosialt, livet ut, og kan sammen dyrke hager, meningsfulle hverdager, fellesskap og gode nærmiljøer."
         },
-        { "type": "headline", "chapterId": "2", "text": "SAMMEN OM VELFERDEN" },
+        { "type": "headline", "chapterId": "2", "text": "Sammen om velferden" },
         {
           "type": "paragraph",
           "chapterId": "2",
@@ -1237,9 +1237,9 @@
     {
       "type": "chapter",
       "chapterId": "2.1",
-      "text": "INKLUDERING OG KAMP MOT FATTIGDOM",
+      "text": "Inkludering og kamp mot fattigdom",
       "children": [
-        { "type": "headline", "chapterId": "2.1", "text": "GODE LIV FOR ALLE" },
+        { "type": "headline", "chapterId": "2.1", "text": "Gode liv for alle" },
         {
           "type": "paragraph",
           "chapterId": "2.1",
@@ -1253,7 +1253,7 @@
         {
           "type": "headline",
           "chapterId": "2.1",
-          "text": "BO SOSIALT OG JOBBE MED MENING"
+          "text": "Bo sosialt og jobbe med mening"
         },
         {
           "type": "paragraph",
@@ -1265,7 +1265,7 @@
           "chapterId": "2.1",
           "text": "Arbeid er en av de viktigste nøklene til verdiskapning og inntekt, inkludering, helse og mening i vårt samfunn, så det er et mål at flest mulig skal ha lønnet arbeid og trives i jobben sin. De Grønne vil verne om grunnleggende rettigheter i arbeidslivet, som fast ansettelse og innflytelse over egne arbeidsvilkår. Vi vil legge til rette for høy organisasjonsgrad, en sterk arbeidsmiljølov og godt samarbeid mellom partene i arbeidslivet og staten. Arbeidslivssamarbeidet bygger på og skaper gjensidig tillit, og bidrar til at vi har produktive og innovative bedrifter som ivaretar sitt samfunnsansvar. Det er særlig viktig når norsk arbeidsliv skal omstille seg ut av oljealderen og ny teknologi gjør at mange arbeidsoppgaver blir utført på nye måter. I et arbeidsliv som endres stadig raskere og skal gjennom en stor omstilling, blir det viktig å gjøre det lettere å kombinere arbeid og andre aktiviteter, som utdannelse, i alle faser av livet. Arbeidslivet skal være raust ved å ha plass til kronisk syke, uføre og funksjonshemmede, det forutsetter et trygt sikkerhetsnett, tilrettelegging, vern mot diskriminering, at man ser folk for hva de kan og bekjemper fordommer."
         },
-        { "type": "headline", "chapterId": "2.1", "text": "BEDRE TID" },
+        { "type": "headline", "chapterId": "2.1", "text": "Bedre tid" },
         {
           "type": "paragraph",
           "chapterId": "2.1",
@@ -1285,7 +1285,7 @@
           "type": "section",
           "chapterId": "2.1",
           "sectionId": "2.1.1",
-          "text": "FORDELING OG FATTIGDOMSBEKJEMPELSE",
+          "text": "Fordeling og fattigdomsbekjempelse",
           "children": [
             {
               "type": "listHeader",
@@ -1410,7 +1410,7 @@
           "type": "section",
           "chapterId": "2.1",
           "sectionId": "2.1.2",
-          "text": "FOREBYGGE UNGT UTENFORSKAP",
+          "text": "Forebygge ungt utenforskap",
           "children": [
             {
               "type": "listHeader",
@@ -1486,7 +1486,7 @@
           "type": "section",
           "chapterId": "2.1",
           "sectionId": "2.1.3",
-          "text": "ARBEIDSLIV OG ARBEIDSINKLUDERING",
+          "text": "Arbeidsliv og arbeidsinkludering",
           "children": [
             {
               "type": "listHeader",
@@ -1653,7 +1653,7 @@
           "type": "section",
           "chapterId": "2.1",
           "sectionId": "2.1.4",
-          "text": "BOLIGPOLITIKK",
+          "text": "Boligpolitikk",
           "children": [
             {
               "type": "listHeader",
@@ -1743,7 +1743,7 @@
           "type": "section",
           "chapterId": "2.1",
           "sectionId": "2.1.5",
-          "text": "SENIORPOLITIKK",
+          "text": "Seniorpolitikk",
           "children": [
             {
               "type": "listHeader",
@@ -1834,9 +1834,9 @@
     {
       "type": "chapter",
       "chapterId": "2.2",
-      "text": "OPPVEKST OG KUNNSKAP",
+      "text": "Oppvekst og kunnskap",
       "children": [
-        { "type": "headline", "chapterId": "2.2", "text": "LA BARNA LEKE\\!" },
+        { "type": "headline", "chapterId": "2.2", "text": "La barna leke\\!" },
         {
           "type": "paragraph",
           "chapterId": "2.2",
@@ -1850,7 +1850,7 @@
         {
           "type": "headline",
           "chapterId": "2.2",
-          "text": "VARIERT KOMPETANSE FOR FRAMTIDA"
+          "text": "Variert kompetanse for framtida"
         },
         {
           "type": "paragraph",
@@ -1876,7 +1876,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.1",
-          "text": "GOD BARNDOM OG FAMILIELIV",
+          "text": "God barndom og familieliv",
           "children": [
             {
               "type": "listHeader",
@@ -1886,7 +1886,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "FATTIGDOMSBEKJEMPELSE OG SAMHANDLING FOR BARNA",
+              "text": "Fattigdomsbekjempelse og samhandling for barna",
               "sectionId": "2.2.1"
             },
             {
@@ -1913,7 +1913,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "EN GOD START FOR FAMILIEN",
+              "text": "En god start for familien",
               "sectionId": "2.2.1"
             },
             {
@@ -1961,7 +1961,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "STØTTE TIL BARN OG FORELDRE MED FUNKSJONSHINDRINGER",
+              "text": "Støtte til barn og foreldre med funksjonshindringer",
               "sectionId": "2.2.1"
             },
             {
@@ -1991,7 +1991,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.2",
-          "text": "BARNEVERN OG FAMILIEVERN",
+          "text": "Barnevern og familievern",
           "children": [
             {
               "type": "listHeader",
@@ -2102,7 +2102,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.3",
-          "text": "BARNEHAGE",
+          "text": "Barnehage",
           "children": [
             {
               "type": "listHeader",
@@ -2112,7 +2112,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "TILLIT TIL DE VOKSNE, TID TIL BARNA",
+              "text": "Tillit til de voksne, tid til barna",
               "sectionId": "2.2.3"
             },
             {
@@ -2146,7 +2146,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "LEK, TRYGGHET OG STØTTE FOR ALLE SLAGS BARN",
+              "text": "Lek, trygghet og støtte for alle slags barn",
               "sectionId": "2.2.3"
             },
             {
@@ -2190,7 +2190,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.4",
-          "text": "SKOLE OG OPPLÆRING",
+          "text": "Skole og opplæring",
           "children": [
             {
               "type": "listHeader",
@@ -2200,7 +2200,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "ET STERKT LAG RUNDT ELEVEN",
+              "text": "Et sterkt lag rundt eleven",
               "sectionId": "2.2.4"
             },
             {
@@ -2262,7 +2262,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "EN SKOLE SOM ROMMER ALLE ELEVER",
+              "text": "En skole som rommer alle elever",
               "sectionId": "2.2.4"
             },
             {
@@ -2380,7 +2380,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "BARNE- OG UNGDOMSSKOLE",
+              "text": "Barne- og ungdomsskole",
               "sectionId": "2.2.4"
             },
             {
@@ -2449,7 +2449,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "VIDEREGÅENDE OPPLÆRING OG FOLKEHØYSKOLE",
+              "text": "Videregående opplæring og folkehøyskole",
               "sectionId": "2.2.4"
             },
             {
@@ -2535,7 +2535,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.5",
-          "text": "HØYERE UTDANNING OG STUDENTER",
+          "text": "Høyere utdanning og studenter",
           "children": [
             {
               "type": "listHeader",
@@ -2646,7 +2646,7 @@
           "type": "section",
           "chapterId": "2.2",
           "sectionId": "2.2.6",
-          "text": "FORSKNING",
+          "text": "Forskning",
           "children": [
             {
               "type": "listHeader",
@@ -2656,7 +2656,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "FINANSIERING",
+              "text": "Finansiering",
               "sectionId": "2.2.6"
             },
             {
@@ -2711,7 +2711,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "REKRUTTERING",
+              "text": "Rekruttering",
               "sectionId": "2.2.6"
             },
             {
@@ -2745,7 +2745,7 @@
             {
               "type": "headline",
               "chapterId": "2.2",
-              "text": "INTERNASJONALISERING",
+              "text": "Internasjonalisering",
               "sectionId": "2.2.6"
             },
             {
@@ -2776,12 +2776,12 @@
     {
       "type": "chapter",
       "chapterId": "2.3",
-      "text": "HELSE OG OMSORG",
+      "text": "Helse og omsorg",
       "children": [
         {
           "type": "headline",
           "chapterId": "2.3",
-          "text": "FOLKEHELSE ER VINN-VINN"
+          "text": "Folkehelse er vinn-vinn"
         },
         {
           "type": "paragraph",
@@ -2796,7 +2796,7 @@
         {
           "type": "headline",
           "chapterId": "2.3",
-          "text": "TID FOR OMSORGSMOBILISERING"
+          "text": "Tid for omsorgsmobilisering"
         },
         {
           "type": "paragraph",
@@ -2823,7 +2823,7 @@
           "chapterId": "2.3",
           "text": "Fødsels- og barselsomsorgen er avgjørende for å gi barn en best mulig start på livet. God fødsels- og barselsomsorg virker forebyggende for seinere utfordringer for den fødende, barnet og hele familien. Derfor vil vi stoppe nedskjæringene og sette i gang en styrking av omsorgen de viktige første dagene av livet. Vi vil sikre at det er nok penger, nok folk og nok plass til at det oppleves trygt å føde."
         },
-        { "type": "headline", "chapterId": "2.3", "text": "RUSREFORM NÅ" },
+        { "type": "headline", "chapterId": "2.3", "text": "Rusreform nå" },
         {
           "type": "paragraph",
           "chapterId": "2.3",
@@ -2848,7 +2848,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.1",
-          "text": "FOLKEHELSE",
+          "text": "Folkehelse",
           "children": [
             {
               "type": "listHeader",
@@ -2980,7 +2980,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.2",
-          "text": "FØDSEL OG BARSELOMSORG",
+          "text": "Fødsel og barselomsorg",
           "children": [
             {
               "type": "numberedItem",
@@ -3037,7 +3037,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.3",
-          "text": "NÆRE HELSETJENESTER",
+          "text": "Nære helsetjenester",
           "children": [
             {
               "type": "listHeader",
@@ -3169,7 +3169,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.4",
-          "text": "SPESIALISTHELSETJENESTEN",
+          "text": "Spesialisthelsetjenesten",
           "children": [
             {
               "type": "listHeader",
@@ -3273,7 +3273,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.5",
-          "text": "PSYKISK HELSE",
+          "text": "Psykisk helse",
           "children": [
             {
               "type": "listHeader",
@@ -3363,7 +3363,7 @@
           "type": "section",
           "chapterId": "2.3",
           "sectionId": "2.3.6",
-          "text": "RUSPOLITIKK",
+          "text": "Ruspolitikk",
           "children": [
             {
               "type": "listHeader",
@@ -3517,9 +3517,9 @@
     {
       "type": "chapter",
       "chapterId": "3",
-      "text": "VERDISKAPING SOM VARER",
+      "text": "Verdiskaping som varer",
       "children": [
-        { "type": "headline", "chapterId": "3", "text": "VISJON 2045" },
+        { "type": "headline", "chapterId": "3", "text": "Visjon 2045" },
         {
           "type": "paragraph",
           "chapterId": "3",
@@ -3548,7 +3548,7 @@
         {
           "type": "headline",
           "chapterId": "3",
-          "text": "EN MODERNE OG INKLUDERENDE SIRKULÆRØKONOMI"
+          "text": "En moderne og inkluderende sirkulærøkonomi"
         },
         {
           "type": "paragraph",
@@ -3568,7 +3568,7 @@
         {
           "type": "headline",
           "chapterId": "3",
-          "text": "GRØNN ØKONOMISK STYRING"
+          "text": "Grønn økonomisk styring"
         },
         {
           "type": "paragraph",
@@ -3588,7 +3588,7 @@
         {
           "type": "headline",
           "chapterId": "3",
-          "text": "ET ROBUST OG MANGFOLDIG NÆRINGSLIV ETTER OLJEALDEREN"
+          "text": "Et robust og mangfoldig næringsliv etter oljealderen"
         },
         {
           "type": "paragraph",
@@ -3608,7 +3608,7 @@
         {
           "type": "headline",
           "chapterId": "3",
-          "text": "NYTENKING OG UTVIKLING I ALLE SEKTORER"
+          "text": "Nytenking og utvikling i alle sektorer"
         },
         {
           "type": "paragraph",
@@ -3623,7 +3623,7 @@
         {
           "type": "headline",
           "chapterId": "3",
-          "text": "ET BÆREKRAFTIG MATSYSTEM OG BIOØKONOMI"
+          "text": "Et bærekraftig matsystem og bioøkonomi"
         },
         {
           "type": "paragraph",
@@ -3649,7 +3649,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.1",
-          "text": "TRYGT UT AV OLJEALDEREN",
+          "text": "Trygt ut av oljealderen",
           "children": [
             {
               "type": "listHeader",
@@ -3767,7 +3767,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.2",
-          "text": "NÆRINGSPOLITIKK FOR SIRKULÆRØKONOMI",
+          "text": "Næringspolitikk for sirkulærøkonomi",
           "children": [
             {
               "type": "listHeader",
@@ -3927,7 +3927,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.3",
-          "text": "GRÜNDERE OG SMÅBEDRIFTER",
+          "text": "Gründere og småbedrifter",
           "children": [
             {
               "type": "listHeader",
@@ -4059,7 +4059,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.4",
-          "text": "EN GRØNN ØKONOMISK KURS",
+          "text": "En grønn økonomisk kurs",
           "children": [
             {
               "type": "listHeader",
@@ -4128,7 +4128,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.5",
-          "text": "SKATT OG AVGIFTER",
+          "text": "Skatt og avgifter",
           "children": [
             {
               "type": "listHeader",
@@ -4246,7 +4246,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.6",
-          "text": "OFFENTLIGE INNKJØP",
+          "text": "Offentlige innkjøp",
           "children": [
             {
               "type": "listHeader",
@@ -4308,7 +4308,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.7",
-          "text": "MATSYSTEMET",
+          "text": "Matsystemet",
           "children": [
             {
               "type": "listHeader",
@@ -4391,7 +4391,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.8",
-          "text": "JORDBRUK",
+          "text": "Jordbruk",
           "children": [
             {
               "type": "listHeader",
@@ -4537,7 +4537,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.9",
-          "text": "FISKERI",
+          "text": "Fiskeri",
           "children": [
             {
               "type": "listHeader",
@@ -4627,7 +4627,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.10",
-          "text": "OPPDRETT OG HAVBRUK",
+          "text": "Oppdrett og havbruk",
           "children": [
             {
               "type": "listHeader",
@@ -4710,7 +4710,7 @@
           "type": "section",
           "chapterId": "3",
           "sectionId": "3.11",
-          "text": "SKOGBRUK",
+          "text": "Skogbruk",
           "children": [
             {
               "type": "listHeader",
@@ -4801,9 +4801,9 @@
     {
       "type": "chapter",
       "chapterId": "4",
-      "text": "DEMOKRATI FOR ALLE",
+      "text": "Demokrati for alle",
       "children": [
-        { "type": "headline", "chapterId": "4", "text": "VISJON 2045" },
+        { "type": "headline", "chapterId": "4", "text": "Visjon 2045" },
         {
           "type": "paragraph",
           "chapterId": "4",
@@ -4827,7 +4827,7 @@
         {
           "type": "headline",
           "chapterId": "4",
-          "text": "TRYGGHET FRA DISKRIMINERING"
+          "text": "Trygghet fra diskriminering"
         },
         {
           "type": "paragraph",
@@ -4837,7 +4837,7 @@
         {
           "type": "headline",
           "chapterId": "4",
-          "text": "LIK RETT TIL Å DELTA"
+          "text": "Lik rett til å delta"
         },
         {
           "type": "paragraph",
@@ -4847,7 +4847,7 @@
         {
           "type": "headline",
           "chapterId": "4",
-          "text": "EN NY VÅR FOR DEMOKRATIET"
+          "text": "En ny vår for demokratiet"
         },
         {
           "type": "paragraph",
@@ -4877,7 +4877,7 @@
         {
           "type": "headline",
           "chapterId": "4",
-          "text": "LIKEVERDIGE SAMFUNN ER TRYGGERE"
+          "text": "Likeverdige samfunn er tryggere"
         },
         {
           "type": "paragraph",
@@ -4902,7 +4902,7 @@
         {
           "type": "headline",
           "chapterId": "4",
-          "text": "ROM FOR Å PRAKTISERE TRADISJON OG SPRÅK"
+          "text": "Rom for å praktisere tradisjon og språk"
         },
         {
           "type": "paragraph",
@@ -4923,7 +4923,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.1",
-          "text": "ANTIRASISME OG TRYGGHET FRA DISKRIMINERING",
+          "text": "Antirasisme og trygghet fra diskriminering",
           "children": [
             {
               "type": "listHeader",
@@ -5006,7 +5006,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.2",
-          "text": "TA BORT FUNKSJONSHINDRE",
+          "text": "Ta bort funksjonshindre",
           "children": [
             {
               "type": "listHeader",
@@ -5145,7 +5145,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.3",
-          "text": "LIKESTILLING OG SELVBESTEMMELSE",
+          "text": "Likestilling og selvbestemmelse",
           "children": [
             {
               "type": "listHeader",
@@ -5249,7 +5249,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.4",
-          "text": "SKEIVES RETTIGHETER OG KJØNNSMANGFOLD",
+          "text": "Skeives rettigheter og kjønnsmangfold",
           "children": [
             {
               "type": "listHeader",
@@ -5367,7 +5367,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.5",
-          "text": "VERN MOT VOLD OG OVERGREP",
+          "text": "Vern mot vold og overgrep",
           "children": [
             {
               "type": "listHeader",
@@ -5499,7 +5499,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.6",
-          "text": "DEMOKRATI",
+          "text": "Demokrati",
           "children": [
             {
               "type": "listHeader",
@@ -5624,7 +5624,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.7",
-          "text": "DIGITALISERING OG KUNSTIG INTELLIGENS",
+          "text": "Digitalisering og kunstig intelligens",
           "children": [
             {
               "type": "listHeader",
@@ -5634,7 +5634,7 @@
             {
               "type": "headline",
               "chapterId": "4",
-              "text": "DIGITALE RETTIGHETER",
+              "text": "Digitale rettigheter",
               "sectionId": "4.7"
             },
             {
@@ -5724,7 +5724,7 @@
             {
               "type": "headline",
               "chapterId": "4",
-              "text": "SOSIALE MEDIER OG AVHENGIGHETSSKAPENDE TEKNOLOGI",
+              "text": "Sosiale medier og avhengighetsskapende teknologi",
               "sectionId": "4.7"
             },
             {
@@ -5779,7 +5779,7 @@
             {
               "type": "headline",
               "chapterId": "4",
-              "text": "KUNSTIG INTELLIGENS",
+              "text": "Kunstig intelligens",
               "sectionId": "4.7"
             },
             {
@@ -5823,7 +5823,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.8",
-          "text": "MEDIER OG OFFENTLIGHET",
+          "text": "Medier og offentlighet",
           "children": [
             {
               "type": "listHeader",
@@ -5927,7 +5927,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.9",
-          "text": "RETTSSTAT, MENNESKERETTIGHETER OG POLITI",
+          "text": "Rettsstat, menneskerettigheter og politi",
           "children": [
             {
               "type": "listHeader",
@@ -6073,7 +6073,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.10",
-          "text": "KRIMINALOMSORG",
+          "text": "Kriminalomsorg",
           "children": [
             {
               "type": "listHeader",
@@ -6163,7 +6163,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.11",
-          "text": "URFOLK OG NASJONALE MINORITETER",
+          "text": "Urfolk og nasjonale minoriteter",
           "children": [
             {
               "type": "listHeader",
@@ -6295,7 +6295,7 @@
           "type": "section",
           "chapterId": "4",
           "sectionId": "4.12",
-          "text": "SPRÅK",
+          "text": "Språk",
           "children": [
             {
               "type": "listHeader",
@@ -6421,9 +6421,9 @@
     {
       "type": "chapter",
       "chapterId": "5",
-      "text": "LIVSKRAFTIGE LOKALSAMFUNN",
+      "text": "Livskraftige lokalsamfunn",
       "children": [
-        { "type": "headline", "chapterId": "5", "text": "VISJON 2045" },
+        { "type": "headline", "chapterId": "5", "text": "Visjon 2045" },
         {
           "type": "paragraph",
           "chapterId": "5",
@@ -6447,7 +6447,7 @@
         {
           "type": "headline",
           "chapterId": "5",
-          "text": "GODE NABOLAG I BYER OG BYGDER"
+          "text": "Gode nabolag i byer og bygder"
         },
         {
           "type": "paragraph",
@@ -6467,7 +6467,7 @@
         {
           "type": "headline",
           "chapterId": "5",
-          "text": "STERKERE LOKALT SELVSTYRE"
+          "text": "Sterkere lokalt selvstyre"
         },
         {
           "type": "paragraph",
@@ -6487,7 +6487,7 @@
         {
           "type": "headline",
           "chapterId": "5",
-          "text": "EN BEDRE KOMMUNEØKONOMI"
+          "text": "En bedre kommuneøkonomi"
         },
         {
           "type": "paragraph",
@@ -6497,7 +6497,7 @@
         {
           "type": "headline",
           "chapterId": "5",
-          "text": "ET SIVILSAMFUNN SOM KNYTTER FOLK SAMMEN"
+          "text": "Et sivilsamfunn som knytter folk sammen"
         },
         {
           "type": "paragraph",
@@ -6517,7 +6517,7 @@
         {
           "type": "headline",
           "chapterId": "5",
-          "text": "NÆRNATUR OG BEVEGELSE GJØR LIVET RIKERE"
+          "text": "Nærnatur og bevegelse gjør livet rikere"
         },
         {
           "type": "paragraph",
@@ -6532,7 +6532,7 @@
         {
           "type": "headline",
           "chapterId": "5",
-          "text": "KULTURLIV SOM ENGASJERER OG BERIKER"
+          "text": "Kulturliv som engasjerer og beriker"
         },
         {
           "type": "paragraph",
@@ -6573,7 +6573,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.1",
-          "text": "LOKALT SELVSTYRE",
+          "text": "Lokalt selvstyre",
           "children": [
             {
               "type": "listHeader",
@@ -6663,7 +6663,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.2",
-          "text": "VENNLIGE, FRODIGE OG OPPFINNSOMME BYER",
+          "text": "Vennlige, frodige og oppfinnsomme byer",
           "children": [
             {
               "type": "listHeader",
@@ -6767,7 +6767,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.3",
-          "text": "LEVENDE, GRØNNE DISTRIKTER",
+          "text": "Levende, grønne distrikter",
           "children": [
             {
               "type": "listHeader",
@@ -6857,7 +6857,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.4",
-          "text": "FRIHET FRA OVERFORBRUKET",
+          "text": "Frihet fra overforbruket",
           "children": [
             {
               "type": "listHeader",
@@ -6940,7 +6940,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.5",
-          "text": "INTEGRERING OG INKLUDERING",
+          "text": "Integrering og inkludering",
           "children": [
             {
               "type": "listHeader",
@@ -7030,7 +7030,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.6",
-          "text": "SIVILSAMFUNN OG FRIVILLIGHET",
+          "text": "Sivilsamfunn og frivillighet",
           "children": [
             {
               "type": "listHeader",
@@ -7106,7 +7106,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.7",
-          "text": "KUNST OG KULTUR",
+          "text": "Kunst og kultur",
           "children": [
             {
               "type": "listHeader",
@@ -7224,7 +7224,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.8",
-          "text": "KULTURARV",
+          "text": "Kulturarv",
           "children": [
             {
               "type": "listHeader",
@@ -7356,7 +7356,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.9",
-          "text": "RELIGION OG LIVSSYN",
+          "text": "Religion og livssyn",
           "children": [
             {
               "type": "listHeader",
@@ -7432,7 +7432,7 @@
           "type": "section",
           "chapterId": "5",
           "sectionId": "5.10",
-          "text": "FRILUFTSLIV, IDRETT OG FYSISK AKTIVITET",
+          "text": "Friluftsliv, idrett og fysisk aktivitet",
           "children": [
             {
               "type": "listHeader",
@@ -7551,9 +7551,9 @@
     {
       "type": "chapter",
       "chapterId": "6",
-      "text": "MOBILITET I HELE LANDET",
+      "text": "Mobilitet i hele landet",
       "children": [
-        { "type": "headline", "chapterId": "6", "text": "VISJON 2045" },
+        { "type": "headline", "chapterId": "6", "text": "Visjon 2045" },
         {
           "type": "paragraph",
           "chapterId": "6",
@@ -7577,7 +7577,7 @@
         {
           "type": "headline",
           "chapterId": "6",
-          "text": "VI ER ALLE MYKE TRAFIKANTER"
+          "text": "Vi er alle myke trafikanter"
         },
         {
           "type": "paragraph",
@@ -7587,7 +7587,7 @@
         {
           "type": "headline",
           "chapterId": "6",
-          "text": "Å REISE SAMMEN SKAL FUNGERE BEST"
+          "text": "Å reise sammen skal fungere best"
         },
         {
           "type": "paragraph",
@@ -7602,7 +7602,7 @@
         {
           "type": "headline",
           "chapterId": "6",
-          "text": "TILGANG TIL BIL NÅR DET TRENGS"
+          "text": "Tilgang til bil når det trengs"
         },
         {
           "type": "paragraph",
@@ -7617,7 +7617,7 @@
         {
           "type": "headline",
           "chapterId": "6",
-          "text": "TIL VANNS OG I LUFTA MED MINDRE UTSLIPP"
+          "text": "Til vanns og i lufta med mindre utslipp"
         },
         {
           "type": "paragraph",
@@ -7632,7 +7632,7 @@
         {
           "type": "headline",
           "chapterId": "6",
-          "text": "GODSET SKAL TRYGT HELT FREM"
+          "text": "Godset skal trygt helt frem"
         },
         {
           "type": "paragraph",
@@ -7642,7 +7642,7 @@
         {
           "type": "headline",
           "chapterId": "6",
-          "text": "BÆREKRAFTIG REISELIV"
+          "text": "Bærekraftig reiseliv"
         },
         {
           "type": "paragraph",
@@ -7658,7 +7658,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.1",
-          "text": "GRØNNE VERKTØY I SAMFERDSEL",
+          "text": "Grønne verktøy i samferdsel",
           "children": [
             {
               "type": "listHeader",
@@ -7769,7 +7769,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.2",
-          "text": "SYKKEL OG GANGE",
+          "text": "Sykkel og gange",
           "children": [
             {
               "type": "listHeader",
@@ -7831,7 +7831,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.3",
-          "text": "KOLLEKTIVTILBUD SOM RYGGRAD I PERSONTRANSPORT I HELE LANDET",
+          "text": "Kollektivtilbud som ryggrad i persontransport i hele landet",
           "children": [
             {
               "type": "listHeader",
@@ -7907,7 +7907,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.4",
-          "text": "TOG",
+          "text": "Tog",
           "children": [
             {
               "type": "listHeader",
@@ -8032,7 +8032,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.5",
-          "text": "DELEMOBILITET",
+          "text": "Delemobilitet",
           "children": [
             {
               "type": "listHeader",
@@ -8101,7 +8101,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.6",
-          "text": "VEITRAFIKK",
+          "text": "Veitrafikk",
           "children": [
             {
               "type": "listHeader",
@@ -8247,7 +8247,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.7",
-          "text": "SJØ- OG LUFTFART",
+          "text": "Sjø- og luftfart",
           "children": [
             {
               "type": "listHeader",
@@ -8372,7 +8372,7 @@
           "type": "section",
           "chapterId": "6",
           "sectionId": "6.8",
-          "text": "BÆREKRAFTIG REKREASJON OG REISELIV",
+          "text": "Bærekraftig rekreasjon og reiseliv",
           "children": [
             {
               "type": "listHeader",
@@ -8484,9 +8484,9 @@
     {
       "type": "chapter",
       "chapterId": "7",
-      "text": "EN TRYGGERE VERDEN",
+      "text": "En tryggere verden",
       "children": [
-        { "type": "headline", "chapterId": "7", "text": "VISJON 2045" },
+        { "type": "headline", "chapterId": "7", "text": "Visjon 2045" },
         {
           "type": "paragraph",
           "chapterId": "7",
@@ -8510,14 +8510,14 @@
         {
           "type": "headline",
           "chapterId": "7",
-          "text": "MER SOLIDARITET OG SAMARBEID"
+          "text": "Mer solidaritet og samarbeid"
         },
         {
           "type": "paragraph",
           "chapterId": "7",
           "text": "Verden i dag preges av store globale utfordringer, med krig og konflikt og eskalerende klimaendringer. På få år har antallet mennesker som trenger humanitær hjelp mangedoblet seg. Altfor mange sulter, rammes av ekstremvær eller opplever krig og konflikt, og flere enn noensinne er på flukt. De Grønne mener at løsningene på vår tids globale utfordringer er tillit, dialog, sterkere solidaritet og mer internasjonalt samarbeid. Vi må jobbe sammen for å utvikle alle samfunn så alle kan leve trygge liv innenfor planetens tålegrenser."
         },
-        { "type": "headline", "chapterId": "7", "text": "ALLTID BEREDT" },
+        { "type": "headline", "chapterId": "7", "text": "Alltid beredt" },
         {
           "type": "paragraph",
           "chapterId": "7",
@@ -8536,7 +8536,7 @@
         {
           "type": "headline",
           "chapterId": "7",
-          "text": "INTERNASJONALT SAMARBEID FOR FRED"
+          "text": "Internasjonalt samarbeid for fred"
         },
         {
           "type": "paragraph",
@@ -8556,7 +8556,7 @@
         {
           "type": "headline",
           "chapterId": "7",
-          "text": "STERKERE SAMMEN I NORDEN OG EUROPA"
+          "text": "Sterkere sammen i norden og europa"
         },
         {
           "type": "paragraph",
@@ -8576,7 +8576,7 @@
         {
           "type": "headline",
           "chapterId": "7",
-          "text": "SOLIDARISK OG ANSVARLIG FORVALTNING AV FELLESGODENE"
+          "text": "Solidarisk og ansvarlig forvaltning av fellesgodene"
         },
         {
           "type": "paragraph",
@@ -8607,7 +8607,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.1",
-          "text": "BEREDSKAP",
+          "text": "Beredskap",
           "children": [
             {
               "type": "listHeader",
@@ -8718,7 +8718,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.2",
-          "text": "INTERNASJONALT SAMARBEID FOR FRED",
+          "text": "Internasjonalt samarbeid for fred",
           "children": [
             {
               "type": "listHeader",
@@ -8836,7 +8836,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.3",
-          "text": "ASYL- OG FLYKTNINGPOLITIKK",
+          "text": "Asyl- og flyktningpolitikk",
           "children": [
             {
               "type": "listHeader",
@@ -9010,7 +9010,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.4",
-          "text": "FORSVAR",
+          "text": "Forsvar",
           "children": [
             {
               "type": "listHeader",
@@ -9135,7 +9135,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.5",
-          "text": "NORGE I NORD",
+          "text": "Norge i nord",
           "children": [
             {
               "type": "listHeader",
@@ -9239,7 +9239,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.6",
-          "text": "EUROPAPOLITIKK",
+          "text": "Europapolitikk",
           "children": [
             {
               "type": "listHeader",
@@ -9315,7 +9315,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.7",
-          "text": "STATENS PENSJONSFOND UTLAND",
+          "text": "Statens pensjonsfond utland",
           "children": [
             {
               "type": "listHeader",
@@ -9356,7 +9356,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.8",
-          "text": "INTERNASJONAL HANDEL OG ØKONOMI",
+          "text": "Internasjonal handel og økonomi",
           "children": [
             {
               "type": "listHeader",
@@ -9439,7 +9439,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.9",
-          "text": "INTERNASJONALT UTVIKLINGSSAMARBEID OG HUMANITÆR BISTAND",
+          "text": "Internasjonalt utviklingssamarbeid og humanitær bistand",
           "children": [
             {
               "type": "listHeader",
@@ -9515,7 +9515,7 @@
           "type": "section",
           "chapterId": "7",
           "sectionId": "7.10",
-          "text": "KLIMA- OG NATURBISTAND",
+          "text": "Klima- og naturbistand",
           "children": [
             {
               "type": "listHeader",
