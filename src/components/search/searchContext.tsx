@@ -1,4 +1,11 @@
-import React, { ReactNode, useContext, useEffect, useState } from "react";
+import React, {
+  Dispatch,
+  ReactNode,
+  SetStateAction,
+  useContext,
+  useEffect,
+  useState,
+} from "react";
 import { DocDocumentFragment } from "../../data/document";
 import { search, SearchMatch } from "../../data/search";
 
@@ -7,25 +14,51 @@ const SearchContext = React.createContext<{
   setMatches: (matches: Map<DocDocumentFragment, SearchMatch[]>) => void;
   query: string;
   setQuery: (query: string) => void;
-}>({ matches: new Map(), setMatches: () => {}, query: "", setQuery: () => {} });
+  showTableOfContent: boolean;
+  setShowTableOfContent: Dispatch<SetStateAction<boolean>>;
+}>({
+  matches: new Map(),
+  setMatches: () => {},
+  query: "",
+  setQuery: () => {},
+  showTableOfContent: false,
+  setShowTableOfContent: () => {},
+});
 
 export function SearchContextProvider({ children }: { children: ReactNode }) {
   const [matches, setMatches] = useState<
     Map<DocDocumentFragment, SearchMatch[]>
   >(new Map());
   const [query, setQuery] = useState(sessionStorage.getItem("query") || "");
+  const [showTableOfContent, setShowTableOfContent] = useState(false);
   useEffect(() => sessionStorage.setItem("query", query), [query]);
   useEffect(() => setMatches(search(query)), [query]);
+  useEffect(() => setShowTableOfContent(matches.size > 0), [matches]);
 
   return (
-    <SearchContext value={{ matches, setMatches, query, setQuery }}>
+    <SearchContext
+      value={{
+        matches,
+        setMatches,
+        query,
+        setQuery,
+        showTableOfContent,
+        setShowTableOfContent,
+      }}
+    >
       {children}
     </SearchContext>
   );
 }
 
 export function useSearchContext() {
-  const { matches, query, setQuery } = useContext(SearchContext);
+  const {
+    matches,
+    query,
+    setQuery,
+    showTableOfContent,
+    setShowTableOfContent,
+  } = useContext(SearchContext);
   function matchesInclude(fragment: DocDocumentFragment) {
     if (!matches.size) return true;
 
@@ -48,5 +81,13 @@ export function useSearchContext() {
     );
   }
 
-  return { matchesInclude, matchingDirectChildren, query, setQuery, matches };
+  return {
+    matchesInclude,
+    matchingDirectChildren,
+    query,
+    setQuery,
+    matches,
+    showTableOfContent,
+    setShowTableOfContent,
+  };
 }

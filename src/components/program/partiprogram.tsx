@@ -4,17 +4,17 @@ import { ProgramText } from "./programText";
 import { Header } from "./programHeader";
 import { appDocument } from "../../data/document";
 import { SearchContextProvider } from "../search/searchContext";
+import { ShowTableOfContentsButton } from "./showTableOfContentsButton";
 
 export function Partiprogram() {
   return (
     <SearchContextProvider>
       <Header doc={appDocument} />
       <main>
-        <section className={"contents"}>
-          <TableOfContents doc={appDocument} />
-        </section>
-        <section className={"text"}>
-          <div className={"text-area"}>
+        <ShowTableOfContentsButton />
+        <TableOfContents doc={appDocument} />
+        <section className={"documentText"}>
+          <div className={"textContent"}>
             <ProgramText doc={appDocument} />
           </div>
         </section>
