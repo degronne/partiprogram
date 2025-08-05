@@ -26,11 +26,13 @@
 header {
   display: flex;
   align-items: center;
-  gap: 1em;
-  padding: 1em;
+  gap: 0.5em 1em;
+  padding: 0.5em 0.5em;
+  outline: 1px solid var(--skog);
+  z-index: 2;
 
   .icon img {
-    width: 4em;
+    width: 3em;
     aspect-ratio: 1;
   }
 
@@ -40,7 +42,7 @@ header {
     text-decoration: none;
   }
 
-  @media (width < 550px) {
+  @media (width < 500px) {
     .sectionHeader {
       display: none;
     }
@@ -70,6 +72,15 @@ main .tableOfContent {
   &.showTableOfContent {
     translate: 0;
   }
+
+  .items {
+    padding-block-start: 1em;
+  }
+
+  ul {
+    list-style-type: none;
+    padding-inline-start: 1em;
+  }
 }
 
 .tableOfContentsButton {
@@ -91,7 +102,7 @@ main .tableOfContent {
 
   main {
     display: grid;
-    grid-template-columns: max(400px, 20vw) 1fr;
+    grid-template-columns: max(350px, 20vw) 1fr;
 
     .tableOfContent {
       position: revert;
