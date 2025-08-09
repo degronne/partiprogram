@@ -69,7 +69,8 @@ export function ProgramChapter({
   return (
     <section className={"chapter"} ref={ref}>
       <h2>
-        {chapter.chapterId} {text} <ShareButton to={`/seksjon/${chapterId}`} />
+        {chapter.chapterId} {text}{" "}
+        <ShareButton to={`/seksjon/${chapter.chapterId}`} />
       </h2>
       {children.map((c, index) => (
         <DocumentFragmentView key={index} fragment={c} targetId={targetId} />
