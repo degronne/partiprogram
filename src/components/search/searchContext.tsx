@@ -6,7 +6,11 @@ import React, {
   useEffect,
   useState,
 } from "react";
-import { DocChapter, DocDocumentFragment } from "../../data/document";
+import {
+  DocChapter,
+  DocDocumentFragment,
+  DocSection,
+} from "../../data/document";
 import { search, SearchMatch } from "../../data/search";
 
 const SearchContext = React.createContext<{
@@ -71,14 +75,8 @@ export function useSearchContext() {
     return [...matches.keys()].some((m) => m.chapterId === fragment.chapterId);
   }
 
-  function matchingDirectChildren(fragment: DocDocumentFragment | DocChapter) {
-    const { chapterId, sectionId } = fragment;
-    return [...matches.keys()].filter(
-      (match) =>
-        match.sectionId === sectionId &&
-        match.chapterId === chapterId &&
-        (match.type === "paragraph" || match.type === "numberedItem"),
-    );
+  function matchingDirectChildren(fragment: DocChapter | DocSection) {
+    return fragment.children.filter((c) => matches.has(c));
   }
 
   return {

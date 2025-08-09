@@ -20,7 +20,6 @@ type TextItem = {
   chapterId: string;
   sectionId?: string;
   text: string;
-  children?: undefined;
   anchor?: string;
 };
 export type DocNumberedItem = TextItem & {
