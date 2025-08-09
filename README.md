@@ -9,6 +9,7 @@ Målsetningen med applikasjonen er at frivillige i partiet skal bedre kunne svar
 - Full tekst fra partiprogrammet
 - Klikkbar og linkbar innholdsfortegnelse
 - Tekstsøk som støtter delvis treff og søk på flere ord
+- Deleknapp for kapittel, nummerert seksjon og programpunkt
 
 ## Teknologi
 
@@ -20,7 +21,6 @@ Målsetningen med applikasjonen er at frivillige i partiet skal bedre kunne svar
 ## Ønskeliste
 
 - Underpunkter i innholdsfortegnelsen
-- Delefunksjonalitet
 - Nynorsk versjon av teksten
 
 ### Ønskede tekniske forbedringer

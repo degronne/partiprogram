@@ -4,19 +4,20 @@ import { DocDocument } from "../../data/document";
 import { ProgramSearch } from "./programSearch";
 
 function SectionHeader({ doc }: { doc: DocDocument }) {
-  const { chapterId, sectionId } = useParams();
+  const { chapterId, anchorId } = useParams();
+  const targetId = anchorId ? anchorId.split("-")[0] : undefined;
   const chapter = doc.chapters.find((s) => s.chapterId == chapterId);
-  const section = sectionId
-    ? chapter?.children.find((s) => s.sectionId == sectionId)
+  const section = targetId
+    ? chapter?.children.find((s) => s.anchor == targetId)
     : undefined;
   return (
     <>
       <Link to={`/seksjon/${chapter?.chapterId}`}>
         {chapter?.chapterId} {chapter?.text}
       </Link>{" "}
-      {sectionId && (
+      {section && (
         <span className={"sectionHeader"}>
-          &gt; {sectionId} {section?.text}
+          &gt; {section.sectionId} {section?.text}
         </span>
       )}
     </>
@@ -31,7 +32,7 @@ export function Header({ doc }: { doc: DocDocument }) {
       </a>
       <Routes>
         <Route
-          path={"/seksjon/:chapterId/:sectionId?"}
+          path={"/seksjon/:chapterId/:anchorId?"}
           element={<SectionHeader doc={doc} />}
         />
         <Route path={"*"} element={<h1>Partiprogram</h1>} />

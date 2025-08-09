@@ -88,6 +88,15 @@ main .tableOfContent {
     list-style-type: none;
     padding-inline-start: 1em;
   }
+
+  div {
+    margin-block-end: 0.25em;
+
+    &.numberedItem {
+      text-indent: -1em;
+      margin-inline-start: 1em;
+    }
+  }
 }
 
 .tableOfContentsButton {
@@ -124,4 +133,9 @@ main .tableOfContent {
   @media (prefers-color-scheme: dark) {
     color: black;
   }
+}
+
+a.share {
+  text-decoration: none;
+  color: gray;
 }

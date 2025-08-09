@@ -3,19 +3,16 @@ import { Route, Routes, useParams } from "react-router-dom";
 import {
   DocChapter,
   DocDocument,
-  DocHeadline,
-  DocListHeader,
-  DocNumberedItem,
-  DocParagraph,
-  DocSection,
+  DocDocumentFragment,
 } from "../../data/document";
 import { SearchMatchView } from "../search/searchMatchView";
+import { ShareButton } from "../ui/shareButton";
 
 export function ProgramText({ doc }: { doc: DocDocument }) {
   return (
     <Routes>
       <Route
-        path={"/seksjon/:chapterId/:sectionId?"}
+        path={"/seksjon/:chapterId/:targetId?"}
         element={<SingleChapter doc={doc} />}
       />
       <Route path={"*"} element={<AllChapters doc={doc} />} />
@@ -24,7 +21,7 @@ export function ProgramText({ doc }: { doc: DocDocument }) {
 }
 
 function SingleChapter({ doc }: { doc: DocDocument }) {
-  const { chapterId, sectionId } = useParams();
+  const { chapterId, targetId } = useParams();
 
   const chapter = doc.chapters.find((s) => s.chapterId == chapterId);
   if (chapter) {
@@ -32,14 +29,14 @@ function SingleChapter({ doc }: { doc: DocDocument }) {
       <ProgramChapter
         chapter={chapter}
         chapterId={chapterId}
-        sectionId={sectionId}
+        targetId={targetId}
       />
     );
   }
 
   return (
     <h1>
-      {chapterId} del: {sectionId}
+      {chapterId} del: {targetId}
     </h1>
   );
 }
@@ -57,87 +54,74 @@ export function AllChapters({ doc }: { doc: DocDocument }) {
 export function ProgramChapter({
   chapter,
   chapterId,
-  sectionId,
+  targetId,
 }: {
   chapter: DocChapter;
   chapterId?: string;
-  sectionId?: string;
+  targetId?: string;
 }) {
   const ref = useRef<HTMLLIElement | null>(null);
   useEffect(() => {
-    if (chapter.chapterId === chapterId && !sectionId)
+    if (chapter.chapterId === chapterId && !targetId)
       ref.current?.scrollIntoView({ behavior: "smooth" });
-  }, [sectionId]);
+  }, [targetId]);
   const { text, children } = chapter;
   return (
     <section className={"chapter"} ref={ref}>
       <h2>
-        {chapter.chapterId} {text}
+        {chapter.chapterId} {text} <ShareButton to={`/seksjon/${chapterId}`} />
       </h2>
       {children.map((c, index) => (
-        <ProgramChapterChild key={index} fragment={c} sectionId={sectionId} />
+        <DocumentFragmentView key={index} fragment={c} targetId={targetId} />
       ))}
     </section>
   );
 }
 
-function ProgramSectionChild({
+function DocumentFragmentView({
   fragment,
+  targetId,
 }: {
-  fragment: DocNumberedItem | DocHeadline | DocParagraph | DocListHeader;
+  fragment: DocDocumentFragment;
+  targetId?: string;
 }) {
-  const { type, text } = fragment;
-  if (type === "numberedItem")
+  const ref = useRef<any | null>(null);
+  const { type, anchor, text, chapterId } = fragment;
+  useEffect(() => {
+    if (anchor === targetId)
+      ref.current?.scrollIntoView({ behavior: "smooth" });
+  }, [targetId]);
+
+  if (type === "section") {
+    const { chapterId, children, sectionId, anchor } = fragment;
     return (
-      <li>
-        {fragment.itemId}. <SearchMatchView fragment={fragment} />
+      <div className={"section"} ref={ref}>
+        <h3>
+          {sectionId} {text}{" "}
+          <ShareButton to={`/seksjon/${chapterId}/${anchor}`} />
+        </h3>
+        {children.map((c, index) => (
+          <DocumentFragmentView key={index} fragment={c} targetId={targetId} />
+        ))}
+      </div>
+    );
+  } else if (type === "headline" || type === "proposalsStart") {
+    return <h3>{text}</h3>;
+  } else if (type === "numberedItem") {
+    return (
+      <li ref={ref}>
+        {fragment.itemId}. <SearchMatchView fragment={fragment} />{" "}
+        <ShareButton to={`/seksjon/${chapterId}/${anchor}`} />
       </li>
     );
-  if (type === "headline" || type == "proposalsStart") return <h3>{text}</h3>;
-  if (type === "paragraph" || type == "listHeader") return <p>{text}</p>;
-  return "missing handler for " + type;
-}
-
-function ProgramSection({
-  sectionId,
-  section,
-}: {
-  sectionId: string | undefined;
-  section: DocSection;
-}) {
-  const { text, children } = section;
-  const ref = useRef<HTMLDivElement | null>(null);
-  useEffect(() => {
-    if (section.sectionId === sectionId)
-      ref.current?.scrollIntoView({ behavior: "smooth" });
-  }, [sectionId]);
-
-  return (
-    <div className={"section"} ref={ref}>
-      <h3>
-        {sectionId} {text}
-      </h3>
-      {children.map((c, index) => (
-        <ProgramSectionChild key={index} fragment={c} />
-      ))}
-    </div>
-  );
-}
-
-function ProgramChapterChild({
-  fragment,
-  sectionId,
-}: {
-  fragment: DocSection | DocParagraph | DocHeadline;
-  sectionId?: string;
-}) {
-  const { type, text } = fragment;
-  if (type === "section")
-    return <ProgramSection sectionId={sectionId} section={fragment} />;
-  if (type === "headline" || type == "proposalsStart") return <h3>{text}</h3>;
-  return (
-    <p>
-      <SearchMatchView fragment={fragment} />
-    </p>
-  );
+  } else if (type === "paragraph" || type === "listHeader") {
+    return (
+      <p>
+        <SearchMatchView fragment={fragment} />
+      </p>
+    );
+  } else {
+    const unhandled = fragment;
+    return JSON.stringify({ unhandled });
+  }
 }

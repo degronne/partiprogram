@@ -12,6 +12,7 @@ export type DocSection = {
   type: "section";
   chapterId: string;
   sectionId: string;
+  anchor: string;
   text: string;
   children: (DocNumberedItem | DocHeadline | DocParagraph | DocListHeader)[];
 };
@@ -20,17 +21,21 @@ type TextItem = {
   sectionId?: string;
   text: string;
   children?: undefined;
+  anchor?: string;
 };
 export type DocNumberedItem = TextItem & {
   type: "numberedItem";
+  anchor: string;
   itemId: string;
 };
-export type DocHeadline = TextItem & { type: "headline" | "proposalsStart" };
-export type DocParagraph = TextItem & { type: "paragraph" };
+export type DocHeadline = TextItem & {
+  type: "headline" | "proposalsStart";
+  anchor: string;
+};
+export type DocParagraph = TextItem & { type: "paragraph"; anchor: string };
 export type DocListHeader = TextItem & { type: "listHeader" };
 
 export type DocDocumentFragment =
-  | DocChapter
   | DocSection
   | DocNumberedItem
   | DocHeadline

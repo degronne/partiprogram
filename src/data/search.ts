@@ -18,7 +18,9 @@ export type SearchMatch = {
   wordInContext: string;
 };
 
-function flattenDocument(doc: DocDocument): DocDocumentFragment[] {
+function flattenDocument(
+  doc: DocDocument,
+): (DocDocumentFragment | DocChapter)[] {
   function flattenChapterChild(
     child: DocSection | DocParagraph | DocHeadline,
   ): DocDocumentFragment[] {
@@ -28,7 +30,9 @@ function flattenDocument(doc: DocDocument): DocDocumentFragment[] {
     return [child];
   }
 
-  function flattenChapter(chapter: DocChapter): DocDocumentFragment[] {
+  function flattenChapter(
+    chapter: DocChapter,
+  ): (DocDocumentFragment | DocChapter)[] {
     return [chapter, ...chapter.children.flatMap(flattenChapterChild)];
   }
 

@@ -1,7 +1,34 @@
-import { DocChapter, DocSection } from "../../data/document";
+import {
+  DocChapter,
+  DocDocumentFragment,
+  DocSection,
+} from "../../data/document";
 import { useSearchContext } from "./searchContext";
 import { SearchMatchView } from "./searchMatchView";
 import React from "react";
+import { Link } from "react-router-dom";
+
+function SearchMatch({ fragment }: { fragment: DocDocumentFragment }) {
+  const { setShowTableOfContent } = useSearchContext();
+  if (fragment.type === "numberedItem") {
+    return (
+      <div className={fragment.type}>
+        <Link
+          to={`/seksjon/${fragment.chapterId}/${fragment.anchor}`}
+          onClick={() => setShowTableOfContent(false)}
+        >
+          {fragment.itemId}.
+        </Link>{" "}
+        <SearchMatchView fragment={fragment} />
+      </div>
+    );
+  }
+  return (
+    <div>
+      <SearchMatchView fragment={fragment} />
+    </div>
+  );
+}
 
 export function SearchMatches({
   fragment,
@@ -12,12 +39,10 @@ export function SearchMatches({
   const matches = matchingDirectChildren(fragment);
   if (!matches.length) return null;
   return (
-    <ul>
+    <>
       {matches.map((c) => (
-        <li>
-          <SearchMatchView fragment={c} />
-        </li>
+        <SearchMatch key={c.anchor} fragment={c} />
       ))}
-    </ul>
+    </>
   );
 }

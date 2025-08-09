@@ -5,6 +5,8 @@ export function buildDocument(items: InputItem[]) {
   const document: DocDocument = { chapters: [] };
   let currentChapter: DocChapter;
   let currentSection: DocSection | undefined;
+  let sectionIndex = 1;
+  let paragraphIndex = 1;
   for (const item of items) {
     const { type } = item;
     if (type === "chapter") {
@@ -12,24 +14,41 @@ export function buildDocument(items: InputItem[]) {
       currentChapter = { type, chapterId, text, children: [] };
       document.chapters.push(currentChapter);
       currentSection = undefined;
+      sectionIndex = 1;
+      paragraphIndex = 1;
     } else if (type === "section") {
       const { sectionId, text } = item;
       const { chapterId } = currentChapter!;
-      currentSection = { type, chapterId, sectionId, text, children: [] };
+      currentSection = {
+        type,
+        chapterId,
+        sectionId,
+        anchor: sectionId,
+        text,
+        children: [],
+      };
       currentChapter!.children.push(currentSection);
     } else if (type === "numberedItem") {
       const { chapterId, sectionId } = currentSection!;
       const { itemId, text } = item;
-      const textItem = { type, chapterId, sectionId, itemId, text };
+      const anchor = `${sectionId}-${itemId}`;
+      const textItem = { type, chapterId, sectionId, anchor, itemId, text };
       currentSection!.children.push(textItem);
     } else if (type === "proposalsStart") {
       const { chapterId } = currentChapter!;
       const textItem = { type, chapterId, text: "VÅRE LØSNINGER" };
       if (currentSection) {
         const { sectionId } = currentSection;
-        currentSection.children.push({ ...textItem, sectionId });
+        currentSection.children.push({
+          ...textItem,
+          sectionId,
+          anchor: `${sectionId}§${paragraphIndex++}`,
+        });
       } else {
-        currentChapter!.children.push(textItem);
+        currentChapter!.children.push({
+          ...textItem,
+          anchor: `§${paragraphIndex++}`,
+        });
       }
     } else if (type === "paragraph" || type === "headline") {
       const { chapterId } = currentChapter!;
@@ -37,9 +56,16 @@ export function buildDocument(items: InputItem[]) {
       const textItem = { type, chapterId, text };
       if (currentSection) {
         const { sectionId } = currentSection;
-        currentSection.children.push({ ...textItem, sectionId });
+        currentSection.children.push({
+          ...textItem,
+          sectionId,
+          anchor: `${sectionId}§${paragraphIndex++}`,
+        });
       } else {
-        currentChapter!.children.push(textItem);
+        currentChapter!.children.push({
+          ...textItem,
+          anchor: `§${paragraphIndex++}`,
+        });
       }
     } else if (type === "listHeader") {
       const { chapterId } = currentChapter!;

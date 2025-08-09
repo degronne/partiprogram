@@ -6,7 +6,7 @@ import React, {
   useEffect,
   useState,
 } from "react";
-import { DocDocumentFragment } from "../../data/document";
+import { DocChapter, DocDocumentFragment } from "../../data/document";
 import { search, SearchMatch } from "../../data/search";
 
 const SearchContext = React.createContext<{
@@ -59,7 +59,7 @@ export function useSearchContext() {
     showTableOfContent,
     setShowTableOfContent,
   } = useContext(SearchContext);
-  function matchesInclude(fragment: DocDocumentFragment) {
+  function matchesInclude(fragment: DocDocumentFragment | DocChapter) {
     if (!matches.size) return true;
 
     if ("sectionId" in fragment) {
@@ -71,7 +71,7 @@ export function useSearchContext() {
     return [...matches.keys()].some((m) => m.chapterId === fragment.chapterId);
   }
 
-  function matchingDirectChildren(fragment: DocDocumentFragment) {
+  function matchingDirectChildren(fragment: DocDocumentFragment | DocChapter) {
     const { chapterId, sectionId } = fragment;
     return [...matches.keys()].filter(
       (match) =>
