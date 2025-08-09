@@ -2,6 +2,7 @@
   "chapters": [
     {
       "type": "chapter",
+      "anchor": "1",
       "chapterId": "1",
       "text": "Vår levende jord",
       "children": [
@@ -1372,6 +1373,7 @@
     },
     {
       "type": "chapter",
+      "anchor": "2",
       "chapterId": "2",
       "text": "Velferd hele livet",
       "children": [
@@ -1427,6 +1429,7 @@
     },
     {
       "type": "chapter",
+      "anchor": "2.1",
       "chapterId": "2.1",
       "text": "Inkludering og kamp mot fattigdom",
       "children": [
@@ -2116,6 +2119,7 @@
     },
     {
       "type": "chapter",
+      "anchor": "2.2",
       "chapterId": "2.2",
       "text": "Oppvekst og kunnskap",
       "children": [
@@ -3195,6 +3199,7 @@
     },
     {
       "type": "chapter",
+      "anchor": "2.3",
       "chapterId": "2.3",
       "text": "Helse og omsorg",
       "children": [
@@ -4045,6 +4050,7 @@
     },
     {
       "type": "chapter",
+      "anchor": "3",
       "chapterId": "3",
       "text": "Verdiskaping som varer",
       "children": [
@@ -5514,6 +5520,7 @@
     },
     {
       "type": "chapter",
+      "anchor": "4",
       "chapterId": "4",
       "text": "Demokrati for alle",
       "children": [
@@ -7366,6 +7373,7 @@
     },
     {
       "type": "chapter",
+      "anchor": "5",
       "chapterId": "5",
       "text": "Livskraftige lokalsamfunn",
       "children": [
@@ -8661,6 +8669,7 @@
     },
     {
       "type": "chapter",
+      "anchor": "6",
       "chapterId": "6",
       "text": "Mobilitet i hele landet",
       "children": [
@@ -9730,6 +9739,7 @@
     },
     {
       "type": "chapter",
+      "anchor": "7",
       "chapterId": "7",
       "text": "En tryggere verden",
       "children": [

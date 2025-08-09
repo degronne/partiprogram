@@ -11,7 +11,13 @@ export function buildDocument(items: InputItem[]) {
     const { type } = item;
     if (type === "chapter") {
       const { chapterId, text } = item;
-      currentChapter = { type, chapterId, text, children: [] };
+      currentChapter = {
+        type,
+        anchor: chapterId,
+        chapterId,
+        text,
+        children: [],
+      };
       document.chapters.push(currentChapter);
       currentSection = undefined;
       sectionIndex = 1;

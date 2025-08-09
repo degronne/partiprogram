@@ -1,6 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { DocChapter, DocDocument } from "../../data/document";
+import {
+  DocChapter,
+  DocDocument,
+  DocDocumentFragment,
+  DocSection,
+} from "../../data/document";
 import { useSearchContext } from "../search/searchContext";
 import { SearchMatches } from "../search/searchMatches";
 import clsx from "clsx";
@@ -12,7 +17,10 @@ export function TableOfContents({ doc }: { doc: DocDocument }) {
       <div className={"items"}>
         <ul>
           {doc.chapters.map((chapter) => (
-            <TableOfContentChapter key={chapter.chapterId} chapter={chapter} />
+            <TableOfContentFragment
+              key={chapter.chapterId}
+              fragment={chapter}
+            />
           ))}
         </ul>
       </div>
@@ -20,37 +28,47 @@ export function TableOfContents({ doc }: { doc: DocDocument }) {
   );
 }
 
-function TableOfContentChapter({ chapter }: { chapter: DocChapter }) {
-  const { matchesInclude, setShowTableOfContent } = useSearchContext();
-  if (!matchesInclude(chapter)) return null;
-  const { chapterId, text, children } = chapter;
+function fragmentLink(fragment: DocChapter | DocSection) {
+  const { chapterId, sectionId } = fragment;
+  return sectionId
+    ? `/seksjon/${chapterId}/${sectionId}`
+    : `/seksjon/${chapterId}`;
+}
 
+function TableOfContentFragment({
+  fragment,
+}: {
+  fragment: DocChapter | DocDocumentFragment;
+}) {
+  const { matchesInclude, setShowTableOfContent } = useSearchContext();
   function onCloseMenu() {
     setShowTableOfContent(false);
   }
 
-  return (
-    <li key={chapterId}>
-      <Link to={`/seksjon/${chapterId}`} onClick={onCloseMenu}>
+  const { chapterId, sectionId, text, type } = fragment;
+  if (type !== "chapter" && type !== "section") return null;
+  if (!matchesInclude(fragment)) return null;
+
+  const title =
+    type === "chapter" ? (
+      <>
         {chapterId} {text}
+      </>
+    ) : (
+      <>
+        {sectionId} {text}
+      </>
+    );
+  return (
+    <li>
+      <Link to={fragmentLink(fragment)} onClick={onCloseMenu}>
+        {title}
       </Link>
-      <SearchMatches fragment={chapter} />
+      <SearchMatches fragment={fragment} />
       <ul>
-        {children.filter(matchesInclude).map((child) => {
-          if (child.type !== "section") return null;
-          const { chapterId, sectionId, text } = child;
-          return (
-            <li key={sectionId}>
-              <Link
-                to={`/seksjon/${chapterId}/${sectionId}`}
-                onClick={onCloseMenu}
-              >
-                {sectionId} {text}
-              </Link>
-              <SearchMatches fragment={child} />
-            </li>
-          );
-        })}
+        {fragment.children.map((child) => (
+          <TableOfContentFragment fragment={child} key={child.anchor} />
+        ))}
       </ul>
     </li>
   );

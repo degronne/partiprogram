@@ -63,7 +63,7 @@ export function useSearchContext() {
     showTableOfContent,
     setShowTableOfContent,
   } = useContext(SearchContext);
-  function matchesInclude(fragment: DocDocumentFragment | DocChapter) {
+  function matchesInclude(fragment: DocSection | DocChapter) {
     if (!matches.size) return true;
 
     if ("sectionId" in fragment) {
