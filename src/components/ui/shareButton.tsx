@@ -12,10 +12,7 @@ export function ShareButton({ to }: { to: string }) {
   function handleClick(e: React.MouseEvent) {
     e.preventDefault();
     if (navigator.share) {
-      navigator.share({
-        text: "MDGs partiprogram",
-        url,
-      });
+      navigator.share({ url });
     } else if (navigator.clipboard) {
       navigator.clipboard.writeText(url);
       confirm("Lenke kopiert");
