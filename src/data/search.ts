@@ -87,7 +87,7 @@ function searchForWord(query: string) {
 export function search(query: string): Map<DocDocumentFragment, SearchMatch[]> {
   const terms = query.split(/\s+/);
   const allResults = terms
-    .filter((s) => s.length > 3)
+    .filter((s) => s.length >= 3)
     .map((q) => searchForWord(q));
 
   const combined = new Map<DocDocumentFragment, SearchMatch[]>();
